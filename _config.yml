@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://abirsh.github.io
+url:                   https://junjie-yin.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,31 +19,32 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Abir Saha
+title:                 Junjie Yin
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Abir Saha -  PhD student in Technology and Social Behavior at Northwestern University.
+  Personal Website of Junjie Yin 
+# -  PhD student in Technology and Social Behavior at Northwestern University.
 
 # A shorter description for the sidebar.
 tagline: |
-  PhD Student in Technology & Social Behavior
+  Finding a PhD Position in Electrical Engineering
 
 # A list of keywords for your blog
-keywords:              [Abir, Saha, Accessibility, HCI, Northwestern]
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/abir.jpg
+logo:                  /assets/img/pipo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Abir Saha
-  email:               <abirsaha056@gmail.com>
-  # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
+  name:                Junjie Yin
+  email:               <yinjunjie@seu.edu.cn>
+ # # Used by `jekyll-seo-tag`:
+ # twitter:             abirsaha_
 
 # Add links to the sidebar.
 menu:
@@ -56,20 +57,24 @@ menu:
   - title:             CONTACT
     url:               /#contact-me
   - title:             RESUME
-    url:               /assets/files/CV_abir_saha.pdf
-#   - title:             Blog
-#     url:               /blog
+    url:               /assets/files/CV_junjie_yin.pdf
+  - title:             Blog
+    url:               /blog
+  - title:             Example
+    url:               /example/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             Legal
-    url:               /legal
-#   - title:             Cookies Policy
-#     url:               /cookies-policy/
+  - title:             LICENSE
+    url:                /LICENSE/
+  - title:             NOTICE
+    url:               /NOTICE/
+  - title:             CHANGELOG
+    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020 Abir Saha. All rights reserved.
+copyright:             © 2022 Junjie Yin. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -83,15 +88,16 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-# accent_image:          /assets/img/sidebar-bg.jpg
-accent_image:          none
-accent_color:          rgb(0, 87, 156)
+accent_image:          /assets/img/sidebar-bg.jpg
+theme_color:           rgb(77, 125, 43)
+#accent_image:          none
+#accent_color:          rgb(0, 87, 156)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(0, 87, 156)
-#theme_color:           rgb(21, 21, 21)
+#theme_color:           rgb(0, 87, 156)
+theme_color:           rgb(77, 125, 43)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -118,6 +124,9 @@ font:                  Nunito Sans, Helvetica, Arial, sans-serif
 # my regular font combo
 # font_heading:          Roboto, Helvetica, Arial, sans-serif
 font_heading:          Nunito Sans, Helvetica, Arial, sans-serif
+
+# The font used for code blocks. Expects a string that is a valid CSS font-family value.
+font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
