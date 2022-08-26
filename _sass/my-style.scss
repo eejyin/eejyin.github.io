@@ -1,0 +1,97 @@
+// You can add CSS rules here that will be inlucded in Hydejack's CSS file
+// .icon-menu:before {
+//     display : none;
+// }
+// .nav-btn {
+//     display : none;
+// }
+
+//darken the menu drawer icon
+.icon-menu:before {
+    color: rgb(150,150,150);
+}
+
+//justify text
+// .text-justify {
+//   text-align: justify;
+// }
+
+//sidebar logo size
+.sidebar-about .avatar {
+    width: 10rem;
+    height: 10rem;
+//     border-radius: 100%;
+//     overflow: hidden;
+}
+
+// main text font size
+p {
+    font-size: 1.07rem;
+}
+
+//lead text font size
+p.lead {
+    font-size: 1.25rem;
+}
+
+//homepage header font size
+.homeheader {
+    font-size: 2rem;
+}
+
+// sidebar menu font size
+.sidebar-nav-item {
+    font-size: 1rem;
+}
+
+// reduce top margin and weight of headings
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    margin-top: 0; 
+    font-weight: 600;
+}
+
+// change color of h3 - h6 to pitch black
+h2, h3, h4, h5, h6, .h2, .h3, .h4, .h5, .h6 {
+    color: black;
+}
+
+// change color of h1 and homepage headers to blue
+h1, .h1, .homeheader {
+    color: rgb(1,92,171);
+}
+
+//turn body text black
+body {
+    color: black;
+}
+
+//turn footer text black
+main>footer.content {
+    color: black;
+}
+
+//fix black title on v9 theme
+h2.h1 {
+    color: white;
+}
+
+//make hyperlinks blue for v9
+.content a:not(.btn) {
+    color: rgb(1,92,171);
+}
+
+//reduce weight of hyperlink underline
+// hy-push-state a {
+//     border-bottom: 0.0625rem solid;
+// }
+
+//give menu items regular weight for v9
+html {
+    --font-weight-heading: 600;
+}
+
+//gumshoe styling
+#my-awesome-nav li.active a {
+    border-bottom-color: white;
+    text-decoration-color: white;
+}
