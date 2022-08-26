@@ -83,11 +83,6 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /blog/page-:num/
 
-# Theme
-# ---------------------------------------------------------------------------------------
-
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ========================================================================================
