@@ -3,13 +3,13 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Abir Saha
+  name:              Junjie Yin
   # email:             abirsaha056@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Abir, a PhD student in Technology and Social Behavior (TSB) at Northwestern University.
+    Hi, I'm Junjie Yin, finding a PhD Position in Electrical Engineering.
 
   # This photo will be used in the about section.
   picture:
@@ -22,9 +22,9 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         abirsaha_
+    # twitter:         abirsaha_
     # instagram:       abiroutdoors
-    googlescholar:       40lh_7kAAAAJ
+    googlescholar:     4UxQ7JcAAAAJ
     # github:          abirsh
     # download:        <url>
     # email:           <mail@domain.tld>
