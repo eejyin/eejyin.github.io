@@ -215,7 +215,6 @@
 }
 .icon-orcid:before {
   content: "\e905";
-!  color: #a6ce39;
 }
 .icon-overleaf:before {
   content: "\e906";
@@ -239,7 +238,6 @@
 }
 .icon-researchgate:before {
   content: "\e907";
-! color: #0cb;
 }
 .icon-riseup:before {
   content: "\e93b";
