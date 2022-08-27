@@ -207,3 +207,15 @@ googlescholar:
   icon: icon-googlescholar
   prepend: "https://scholar.google.co.uk/citations?hl=en&user="
   append: "&view_op=list_works&sortby=pubdate"
+orcid:
+  name: Orcid
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
+webofscience:
+  name: Web of Science
+  icon: icon-clarivate
+  prepend: "https://www.webofscience.com/wos/author/record/"
+researchgate:
+  name: Researchgate
+  icon: icon-researchgate
+  prepend: "https://www.researchgate.net/profile/"

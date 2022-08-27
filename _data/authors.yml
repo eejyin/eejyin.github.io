@@ -22,6 +22,9 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    orcid:             0000-0001-7782-7274
+    researchgate:      Junjie-Yin-3
+    webofscience:      1963852
     # twitter:         abirsaha_
     # instagram:       abiroutdoors
     googlescholar:     4UxQ7JcAAAAJ
@@ -55,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        abirsaha-
+    # linkedin:        abirsaha-
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
