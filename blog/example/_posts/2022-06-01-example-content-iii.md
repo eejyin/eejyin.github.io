@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: blog
 title: blog2 Example Content III
 description: >
   A page showing Hydejack-specific markdown content.

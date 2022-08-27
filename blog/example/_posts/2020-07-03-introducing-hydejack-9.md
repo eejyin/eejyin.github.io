@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: list
 title: Introducing Hydejack 9
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
