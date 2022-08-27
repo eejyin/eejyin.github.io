@@ -214,7 +214,7 @@ orcid:
 webofscience:
   name: Web of Science
   icon: icon-clarivate
-  prepend: "https://www.webofscience.com/wos/"
+  prepend: "https://www.webofscience.com/wos/author/record/"
 researchgate:
   name: Researchgate
   icon: icon-researchgate
