@@ -83,7 +83,7 @@
 }
 .icon-elsevier:before {
   content: "\e904";
-  color: #ff6c00;
+ ! color: #ff6c00;
 }
 .icon-facebook3:before {
   content: "\e914";
@@ -215,11 +215,11 @@
 }
 .icon-orcid:before {
   content: "\e905";
-  color: #a6ce39;
+!  color: #a6ce39;
 }
 .icon-overleaf:before {
   content: "\e906";
-  color: #47a141;
+!  color: #47a141;
 }
 .icon-paypal2:before {
   content: "\e937";
@@ -239,7 +239,7 @@
 }
 .icon-researchgate:before {
   content: "\e907";
-  color: #0cb;
+! color: #0cb;
 }
 .icon-riseup:before {
   content: "\e93b";
