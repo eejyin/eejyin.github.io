@@ -1,18 +1,10 @@
 ---
-layout: post
-title: Example Content III
+layout: list
+title: blog2 Example Content III
 description: >
   A page showing Hydejack-specific markdown content.
-image: 
-  path: /assets/img/blog/example-content-iii.jpg
-  srcset:
-    1060w: /assets/img/blog/example-content-iii.jpg
-    530w:  /assets/img/blog/example-content-iii@0,5x.jpg
-    265w:  /assets/img/blog/example-content-iii@0,25x.jpg
-related_posts:
-  - example/_posts/2017-11-23-example-content-ii.md
-  - /example/2012-02-07-example-content/
-sitemap: false
+image: /assets/img/blog/example-content-iii.jpg
+noindex: true
 ---
 
 Hydejack offers a few additional features to markup your markdown.
@@ -78,10 +70,10 @@ You can add large text.
 {:.lead}
 
 ## Large images
-![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
+![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
 
 ## Captions to images
-![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
+![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
 A caption to an image.
 {:.figure}
 

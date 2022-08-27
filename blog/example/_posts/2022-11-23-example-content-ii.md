@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Example Content II
+layout: list
+title: blog Example Content II
 description: >
   A page showing how regular markdown content is styled in Hydejack.
 image: /assets/img/blog/example-content-ii.jpg
-sitemap: false
+noindex: true
 ---
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -14,9 +14,6 @@ There should be whitespace between paragraphs.
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
-
-* toc
-{:toc .large-only}
 
 ## Header 2
 
