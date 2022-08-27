@@ -213,7 +213,7 @@ orcid:
   prepend: "https://orcid.org/"
 webofscience:
   name: Web of Science
-  icon: icon-clarivate
+  icon: /assets/icomoon/clarivate-logo.svg
   prepend: "https://www.webofscience.com/wos/author/record/"
 researchgate:
   name: Researchgate
