@@ -54,8 +54,8 @@ menu:
     url:               /#research
   - title:             PUBLICATIONS
     url:               /#publications
-  - title:             CONTACT
-    url:               /#contact-me
+  #- title:             CONTACT
+ #   url:               /#contact-me
   - title:             RESUME
     url:               /assets/files/CV_junjie_yin.pdf
   - title:             Blog
