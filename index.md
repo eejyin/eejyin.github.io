@@ -54,13 +54,13 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <div>
     <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="2 cm">
-    <span>
+  <span>
     <ul>
-  <li>Maintaining abandoned or near-abandoned Android apps.</li>
-  <li>Maintaining abandoned or near-abandoned Android apps.</li>
-  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
-   </ul>
-   </span>
+       <li>Maintaining abandoned or near-abandoned Android apps.</li>
+       <li>Maintaining abandoned or near-abandoned Android apps.</li>
+       <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
+    </ul>
+  </span>
  </div>
 <br>
 <div>
