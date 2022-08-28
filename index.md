@@ -44,6 +44,8 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 - [Publications](#publications)
 - [Contact Me](#contact-me)
 
+---
+
 <h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
 
 
@@ -59,6 +61,18 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
    </span>
  </div>
 
+<div>
+    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;">
+    <span>
+    <ul>
+  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
+  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
+   </ul>
+   </span>
+ </div>
+
+
+<h2 class="h1" style="color: rgb(1,92,171)" id="other">other </h2>
 
 
 <p>I occasionally contribute to some open source projects, including:</p>
