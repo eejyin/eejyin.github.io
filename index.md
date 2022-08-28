@@ -53,7 +53,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <div>
-    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="2 cm">
+    <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 150px;">
   <span>
     <ul>
        <li>Maintaining abandoned or near-abandoned Android apps.</li>
@@ -64,7 +64,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
  </div>
 <br>
 <div>
-    <img src="./assets/img/logo-ncepu.svg" class="avatar" style="float:left; vertical-align:middle; margin-right: 1.25rem;" width="2 cm">
+    <img src="./assets/img/logo-ncepu.svg" class="rounded-circle shadow-4" style="float:left; vertical-align:middle; margin-right: 1.25rem;  width: 200px;">
     <span>
     <ul>
   <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
