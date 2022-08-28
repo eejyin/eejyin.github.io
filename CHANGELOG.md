@@ -1,4 +1,5 @@
 ---
+permalink: /CHANGELOG
 layout: plain
 sitemap: false
 ---

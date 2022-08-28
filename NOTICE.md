@@ -1,4 +1,5 @@
 ---
+permalink: /NOTICE
 layout: plain
 sitemap: false
 ---
@@ -8,7 +9,7 @@ sitemap: false
 * this list will be replaced by the toc
 {:toc .large-only}
 
-Copyright (c) 2020 Florian Klampfer <https://qwtel.com/>
+Copyright (c) 2022 Junjie Yin <https://junjie-yin.github.io/>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
