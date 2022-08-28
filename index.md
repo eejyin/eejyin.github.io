@@ -51,14 +51,14 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <div>
     <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;">
-     <span>设置成功，请牢记新的登陆密码</span>
+    <span>
+    <ul>
+  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
+  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
+   </ul>
+   </span>
  </div>
 
-
-
-<div style="float:right;padding:15px;">
-<a href="https://www.techpledge.org/"><img src="./assets/img/sidebar-bg4.jpg" alt="https://www.techpledge.org/" width="125" /></a>
-</div>
 
 
 <p>I occasionally contribute to some open source projects, including:</p>
