@@ -1,7 +1,7 @@
 # This file contains meta data for various social media sites
 email:
   name: Email
-  icon: icon-mail
+  icon: icon-envelope
   prepend: 'mailto:'
 amazon:
   name: Amazon
@@ -213,7 +213,7 @@ orcid:
   prepend: "https://orcid.org/"
 webofscience:
   name: Web of Science
-  icon: /assets/icomoon/clarivate-logo.svg
+  icon: icon-webofscience
   prepend: "https://www.webofscience.com/wos/author/record/"
 researchgate:
   name: Researchgate
