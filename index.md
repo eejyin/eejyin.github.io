@@ -33,6 +33,17 @@ Previously, I completed my Master of Science in Electrical and Computer Engineer
 
 I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
 
+<div style="float:right;padding:15px;">
+<a href="https://www.techpledge.org/"><img src="./assets/img/sidebar-bg4.jpg" alt="https://www.techpledge.org/" width="125" /></a>
+</div>
+
+<p>I occasionally contribute to some open source projects, including:</p>
+
+<ul>
+  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
+  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
+</ul>
+
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
 <div class="body-social sidebar-social">
