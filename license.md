@@ -1,6 +1,6 @@
 ---
-layout: plain
-sitemap: false
+title: LICENSE
+permalink: /LICENSE
 ---
 
 # LICENSE
