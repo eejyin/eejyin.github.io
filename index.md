@@ -25,13 +25,11 @@ sitemap: false
 	}
 </style>
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="toc">Table of Contents</h2>
+<h3 class="h2" style="color: rgb(1,92,171)" id="toc">Table of Contents</h3>
 
 - [About](#about)
 - [Research](#research)
 - [Publications](#publications)
-  - [Journal Article](#Journal-Article)
-  - [Patents](#patents)
 - [Contact Me](#contact-me)
 
 

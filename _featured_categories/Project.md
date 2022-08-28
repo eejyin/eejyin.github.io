@@ -1,6 +1,6 @@
 ---
 # Featured tags need to have either the `list` or `post` or `grid` layout (PRO only).
-layout: list
+layout: post
 
 # The title of the tag's page.
 title: Rsearch Projects
@@ -10,8 +10,12 @@ title: Rsearch Projects
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+
+<h3 class="h2" style="color: rgb(1,92,171)" id="toc">Table of Contents</h3>
+- [About](#about)
+- [Research](#research)
+- [Publications](#publications)
+- [Contact Me](#contact-me)
 
 permalink: /projects
 
