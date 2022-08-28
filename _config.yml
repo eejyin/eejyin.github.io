@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             ABOUT
-    url:               /#about
+    url:               /about
   - title:             RESEARCH
     url:               /#research
   - title:             PUBLICATIONS
