@@ -22,9 +22,3 @@ permalink: /projects
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 ---
-<h3 class="h2" style="color: rgb(1,92,171)" id="toc">Table of Contents</h3>
-
-- [About](#about)
-- [Research](#research)
-- [Publications](#publications)
-- [Contact Me](#contact-me)

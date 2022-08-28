@@ -36,7 +36,7 @@ sitemap: false
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
-Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation"> <span class="icon-volume-medium"></span>. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
+Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation"> <span class="icon-volume-medium"></span></a>. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
 
 My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
 
@@ -47,6 +47,13 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <div style="float:right;padding:15px;">
 <a href="https://www.techpledge.org/"><img src="./assets/img/sidebar-bg4.jpg" alt="https://www.techpledge.org/" width="125" /></a>
 </div>
+
+
+<h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
+
+<p><img src="./assets/img/pipo.jpg" alt="Charles Alexander" class="avatar" style="float: left;" ></p>
+<p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p>
+
 
 <p>I occasionally contribute to some open source projects, including:</p>
 
@@ -59,7 +66,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-left: 1.25rem; margin-bottom: 0.5rem;" width="100" height="100" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
-<p><img src="./assets/img/pipo.jpg" alt="Charles Alexander" class="avatar" ></p>
+<p><img src="./assets/img/pipo.jpg" alt="Charles Alexander" class="avatar" style="float: left;" ></p>
 <blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
 
 
