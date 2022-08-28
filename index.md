@@ -47,6 +47,8 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-left: 1.25rem; margin-bottom: 0.5rem;" width="100" height="100" loading="lazy" /><p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
+<p><img src="./assets/img/pipo.jpg" alt="Charles Alexander" class="avatar" /><blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br /> —<strong>Charles Alexander, Founder, Systemic</strong></blockquote></p>
+
 
 
 
