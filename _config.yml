@@ -88,7 +88,7 @@ paginate_path:         /blog/page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar1.jpg
+accent_image:          /assets/img/sidebar.jpg
 theme_color:           rgb(77, 125, 43)
 #accent_image:          none
 #accent_color:          rgb(0, 87, 156)
