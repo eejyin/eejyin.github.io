@@ -36,6 +36,7 @@ Previously, I completed my Master of Science in Electrical and Computer Engineer
 
 I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
 
+---
 
 <h3 class="h2" style="color: rgb(1,92,171)" id="toc">Table of Contents</h3>
 
@@ -52,9 +53,10 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <div>
-    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="80">
+    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="2 cm">
     <span>
     <ul>
+  <li>Maintaining abandoned or near-abandoned Android apps.</li>
   <li>Maintaining abandoned or near-abandoned Android apps.</li>
   <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
    </ul>
@@ -62,7 +64,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
  </div>
 
 <div>
-    <img src="./assets/img/logo-ncepu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="60">
+    <img src="./assets/img/logo-ncepu.svg" class="avatar" style="float:left; vertical-align:middle; margin-right: 1.25rem;" width="2 cm">
     <span>
     <ul>
   <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
@@ -71,7 +73,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
    </span>
  </div>
 
-
+---
 <h2 class="h1" style="color: rgb(1,92,171)" id="other">other </h2>
 
 
@@ -83,7 +85,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </ul>
 
 
-<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-left: 1.25rem; margin-bottom: 0.5rem; " width="100" height="100" loading="lazy"></p>
+<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
 <p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
