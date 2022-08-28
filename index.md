@@ -62,7 +62,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
    </ul>
    </span>
  </div>
-
+<br>
 <div>
     <img src="./assets/img/logo-ncepu.svg" class="avatar" style="float:left; vertical-align:middle; margin-right: 1.25rem;" width="2 cm">
     <span>
