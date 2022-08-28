@@ -52,17 +52,17 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <div>
-    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;">
+    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="80">
     <span>
     <ul>
-  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
+  <li>Maintaining abandoned or near-abandoned Android apps.</li>
   <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
    </ul>
    </span>
  </div>
 
 <div>
-    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;">
+    <img src="./assets/img/logo-ncepu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;" width="60">
     <span>
     <ul>
   <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
@@ -83,7 +83,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </ul>
 
 
-<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-left: 1.25rem; margin-bottom: 0.5rem;" width="100" height="100" loading="lazy"></p>
+<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-left: 1.25rem; margin-bottom: 0.5rem; " width="100" height="100" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
 <p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
