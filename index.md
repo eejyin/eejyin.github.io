@@ -44,15 +44,22 @@ Previously, I completed my Master of Science in Electrical and Computer Engineer
 
 I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
 
-<div style="float:right;padding:15px;">
-<a href="https://www.techpledge.org/"><img src="./assets/img/sidebar-bg4.jpg" alt="https://www.techpledge.org/" width="125" /></a>
-</div>
-
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
 
-<p><img src="./assets/img/pipo.jpg" alt="Charles Alexander" class="avatar" style="float: left;" ></p>
-<p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p>
+
+
+
+<div>
+    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle;">
+     <span>设置成功，请牢记新的登陆密码</span>
+ </div>
+
+
+
+<div style="float:right;padding:15px;">
+<a href="https://www.techpledge.org/"><img src="./assets/img/sidebar-bg4.jpg" alt="https://www.techpledge.org/" width="125" /></a>
+</div>
 
 
 <p>I occasionally contribute to some open source projects, including:</p>
