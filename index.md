@@ -25,14 +25,6 @@ sitemap: false
 	}
 </style>
 
-<h3 class="h2" style="color: rgb(1,92,171)" id="toc">Table of Contents</h3>
-
-- [About](#about)
-- [Research](#research)
-- [Publications](#publications)
-- [Contact Me](#contact-me)
-
-
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
@@ -45,13 +37,20 @@ Previously, I completed my Master of Science in Electrical and Computer Engineer
 I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
 
 
+<h3 class="h2" style="color: rgb(1,92,171)" id="toc">Table of Contents</h3>
+
+- [Education](#education)
+- [Research](#research)
+- [Publications](#publications)
+- [Contact Me](#contact-me)
+
 <h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
 
 
 
 
 <div>
-    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle;">
+    <img src="./assets/img/logo-seu.svg" class="avatar" style="float: left; vertical-align:middle; margin-right: 1.25rem;">
      <span>设置成功，请牢记新的登陆密码</span>
  </div>
 
@@ -73,7 +72,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-left: 1.25rem; margin-bottom: 0.5rem;" width="100" height="100" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
-<p><img src="./assets/img/pipo.jpg" alt="Charles Alexander" class="avatar" style="float: left;" ></p>
+<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
 <blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
 
 
