@@ -8,7 +8,7 @@ permalink: /LICENSE
 * this list will be replaced by the toc
 {:toc .large-only}
 
-All rights reserved by Junjie Yin. Reproductions without permission are forbidden. Contact me for the permission <mailto:yinjunjie98@gmail.com>
+All rights reserved by Junjie Yin. Reproductions without permission are forbidden. ![Contact me](mailto:yinjunjie98@gmail.com)  for the permission. <a href="mailto:yinjunjie98@gmail.com" title="mail" class="no-mark-external" target="_blank"> <span class="icon-envelope"></span> <span aria-hidden="true">Gmail </span><span class="sr-only"></span></a>
 
 ## GNU GENERAL PUBLIC LICENSE
 {:.no_toc}
