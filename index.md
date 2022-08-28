@@ -44,6 +44,14 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
   <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
 </ul>
 
+
+<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: right; margin-left: 1.25rem; margin-bottom: 0.5rem;" width="100" height="100" loading="lazy" /><p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.
+
+
+
+
+
+
 <!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
 
 <div class="body-social sidebar-social">
