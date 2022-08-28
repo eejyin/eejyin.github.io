@@ -16,7 +16,8 @@ Aug 28 2022
 
 * Thanks [Florian Klampfer](https://qwtel.com/) for providing the original themes.
 * Thanks [Abir Saha](https://abirsh.github.io/) for reproducing the `Hydejack` themes v9.0.4.
-[^_^]: * Updated dependencies
+
+[^_^]:Updated dependencies
 
 [tag]: http://www.minddust.com/post/tags-and-categories-on-github-pages/
 [migration]: docs/upgrade.md
