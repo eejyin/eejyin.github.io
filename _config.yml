@@ -70,8 +70,8 @@ legal:
     url:               /LICENSE
   - title:             NOTICE
     url:               /NOTICE
-  - title:             Thanks
-    url:               /Thanks
+  - title:             THANKS
+    url:               /THANKS
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2022 Junjie Yin. All rights reserved.
