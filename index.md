@@ -3,10 +3,9 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in Technology and Social Behavior at Northwestern University.
 hide_description: true
 menu: true
-permalink: /about
+# permalink: /about
 sitemap: false
 ---
 <!-- <script type="text/javascript">
