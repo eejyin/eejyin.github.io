@@ -118,7 +118,7 @@ I'm faded, faded, faded.
   </code>
 </pre>
 
-inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{e_{a}}  $
+inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{e_a}  $
 
 
 [mm]: https://guides.github.com/features/mastering-markdown/
