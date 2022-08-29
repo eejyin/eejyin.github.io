@@ -93,8 +93,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
 
-> “Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” 
-> 
+> “Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br>
 > —**Charles Alexander, Founder, Systemic**
 
 
