@@ -84,7 +84,7 @@ Since my sophomore year in <a href="./#ncepu"> North China Electrical Power Univ
 <td><h4 id="seu"><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4>
   <h6>      <span class="icon-location" style="font-size:10px"></span> Nanjing <span class="icon-clock" style="font-size:10px"> </span>Sep. 2020 - Jun. 2023<br>
       <strong>MS</strong> in Electrical Engineering<br>
-      Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang's Web in SEU" target="_blank">Prof. Jianhua Wang</a>  
+      Supervisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang's Web in SEU" target="_blank">Prof. Jianhua Wang</a>  
       <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Wang's Researchgate" target="_blank"> <span class="icon-researchgate" style="font-size:10px"></span></a> 
   </h6>
 </td>
