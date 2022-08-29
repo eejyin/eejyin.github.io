@@ -78,10 +78,12 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
       <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
         <h5><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a>  </h5>
           <span>
-              <p><strong>Master</strong> of Science in Electrical Engineering</p>
-              <p>Sep. 2020 - Jun. 2023</p>
-              <p>Supervior: Prof. Jianhua Wang <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" class="no-mark-external" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
-              <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" class="no-mark-external" target="_blank">[SEU Link]</span></a></p>
+              <h6>
+              <strong>Master</strong> of Science in Electrical Engineering<br>
+              Nanjing, Sep. 2020 - Jun. 2023<br>
+              Supervior: Prof. Jianhua Wang <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" class="no-mark-external" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
+              <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" class="no-mark-external" target="_blank">[SEU Link]
+              </h6>
               <p>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</p>
           </span>
  </div>
