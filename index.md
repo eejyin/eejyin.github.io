@@ -40,7 +40,7 @@ sitemap: false
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
 <div style="text-align:justify; text-justify:inter-ideograph;">
-<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation of My Name" target="_blank"> <span class="icon-volume-medium"></span></a>. It is the third year for me to pursue my Master degree in <a href="./#seu"> Southeast University (SEU)</a>, China. Meanwhile, I have a strong desire to pursue a Ph.D and am finding a suitable position. </p>
+<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation of My Name" target="_blank"> <span class="icon-volume-medium"></span></a>, pursuing my Master degree in <a href="./#seu"> Southeast University (SEU)</a>, China. Meanwhile, I have a strong desire to pursue a Ph.D and am finding a suitable position. </p>
 
 <p>My research interest includes Stability of power system, Grid-connected converters, Integrated energy system, Lyapunov optimization. </p>
 
