@@ -40,11 +40,22 @@ sitemap: false
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
 <div style="text-align:justify; text-justify:inter-ideograph;">
-<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation" target="_blank"> <span class="icon-volume-medium"></span></a>. I am a PhD student in <a href="./#seu"> Technology and Social Behavior (TSB)</a>, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. </p>
+<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation of My Name" target="_blank"> <span class="icon-volume-medium"></span></a>. It is the third year for me to pursue my <strong>Master</strong> dgree in <a href="./#seu"> Southeast University (SEU)</a>, China. Meanwhile, I have a strong desire to pursue a Ph.D and am finding a suitable position. </p>
 
-<p>My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  </p>
+<p>My research interest includes `Stability of power system`, `Grid-connected converters`, `Integrated energy system`, `Lyapunov optimization`. Since my sophomore year in <a href="./#ncepu"> North China Electrical Power University (NCEPU)</a>, I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis, titled "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System", was completed under the guidance of <a href="https://ieeexplore.ieee.org/author/37589545400" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>. In 2020, through the exam-free postgraduate recommendation, I entered Southeast University, supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>.  </p>
 
-<p>I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. </p> 
+<p>Thanks you for taking time to visit my website! If interested, please  <a href="./#contact-me">contact me </a>. </p> 
+</div>
+
+<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
+
+<div class="body-social sidebar-social">
+  <ul>
+    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span></a></li>
+    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
+    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
+    <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-clarivate-logo"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> 
+  </ul>
 </div>
 
 ---
@@ -64,136 +75,25 @@ sitemap: false
 
 <table>
 <tr>
-<td aligen="center"> <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
+<td aligen="center"> <img src="./assets/img/logo-seu.svg" class="rounded-circle" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
 <td><h4 id="seu"><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4>
   <h6>      <span class="icon-location" style="font-size:10px"></span> Nanjing <span class="icon-clock" style="font-size:10px"> </span>Sep. 2020 - Jun. 2023<br>
-  MS in Electrical Engineering<br>
-      Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang's Web in SEU" target="_blank">Jianhua Wang</a>  
+      <strong>MS</strong> in Electrical Engineering<br>
+      Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang's Web in SEU" target="_blank">Prof. Jianhua Wang</a>  
       <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Wang's Researchgate" target="_blank"> <span class="icon-researchgate" style="font-size:10px"></span></a> 
   </h6>
 </td>
 </tr>
 <tr>
-<td aligen="center"> <img src="./assets/img/logo-ncepu.svg" class="rounded-circle shadow-4" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
-<td><h4><a href="https://english.ncepu.edu.cn/" target="_blank">North China Electrical Power University (NCEPU)</a></h4>
+<td aligen="center"> <img src="./assets/img/logo-ncepu.svg" class="rounded-circle" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
+<td><h4 id="ncepu"><a href="https://english.ncepu.edu.cn/" target="_blank">North China Electrical Power University (NCEPU)</a></h4>
   <h6>      <span class="icon-location" style="font-size:10px"></span> Beijing <span class="icon-clock" style="font-size:10px"> </span> Sep. 2016 - Jun. 2020<br>
-  BS in Smart Grid Information Engineering<br>
+  <strong>BS</strong> in Smart Grid Information Engineering<br>
       "<i>Excellent Graduate</i>" Honor
   </h6>
 </td>
 </tr>
 </table>
-
-<div>
-    <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
-  <h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4>
-  <h6>MS in Electrical Engineering<br>
-      Nanjing, Sep. 2020 - Jun. 2023<br>
-      Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  
-      <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate1"><span aria-hidden="true"></span></span></a> 
-  </h6>
- </div>
-<br>
-<div>
-    <img src="./assets/img/logo-ncepu.svg" class="rounded-circle" style="float:left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
-    <span>
-    <ul>
-  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
-  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
-   </ul>
-   </span>
- </div>
-
-
-<div>
-      <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
-        <h5><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a>  </h5>
-          <span>
-              <h6>
-              <strong>Master</strong> of Science in Electrical Engineering<br>
-              Nanjing, Sep. 2020 - Jun. 2023<br>
-              Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
-              </h6>
-              <p>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</p>
-          </span>
- </div>
-
-
----
-<h2 class="h1" style="color: rgb(1,92,171)" id="other">tutorial </h2>
-
-
-<p>I occasionally contribute to some open source projects, including:</p>
-
-<ul>
-  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
-  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
-</ul>
-
-
-<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
-<p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
-
-<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
-
-<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
-
-> “Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br>
-> —**Charles Alexander, Founder, Systemic**
-
-
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item
-
-
-I love supporting the **[EFF](https://eff.org)**.
-This is the *[Markdown Guide](https://www.markdownguide.org)*.
-See the section on [`code`](#code).
-
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
-
-
-
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-<!-- You can find me on [Instagram](http://instagram.com/abirsaha_){:target="_blank"}. -->
-
-<div class="body-social sidebar-social">
-  <ul>
-    <li> <a href="https://www.linkedin.com/in/abirsaha-" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span></a></li>
-    <li> <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=40lh_7kAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" title="Google Scholar" class="no-mark-external" target="_blank"> <span class="icon-googlescholar"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only">Abir Saha's Google Scholar page</span></a></li>
-    <li> <a href="https://twitter.com/abirsaha_" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Abir Saha's Twitter profile</span></a></li>
-    <li> <a href="https://instagram.com/abiroutdoors" title="Instagram" class="no-mark-external" target="_blank"> <span class="icon-clarivate-logo"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span> <span aria-hidden="true">Instagram </span><span class="sr-only">Abir Saha's Instagram profile</span></a></li> 
-  </ul>
-</div>
 
 ---
 <h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
