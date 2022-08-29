@@ -40,7 +40,7 @@ adder(2, 6);
 
 
 ## Math
-Lorem ipsum $$ f(x) = x^2 $$.
+Lorem ipsum $$ f(x) = x^2 $$ $$\LaTeX$$  $\LaTeX$.
 
 $$
 \begin{aligned}
