@@ -40,9 +40,13 @@ sitemap: false
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
 <div style="text-align:justify; text-justify:inter-ideograph;">
-<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation of My Name" target="_blank"> <span class="icon-volume-medium"></span></a>. It is the third year for me to pursue my <strong>Master</strong> dgree in <a href="./#seu"> Southeast University (SEU)</a>, China. Meanwhile, I have a strong desire to pursue a Ph.D and am finding a suitable position. </p>
+<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation of My Name" target="_blank"> <span class="icon-volume-medium"></span></a>. It is the third year for me to pursue my Master degree in <a href="./#seu"> Southeast University (SEU)</a>, China. Meanwhile, I have a strong desire to pursue a Ph.D and am finding a suitable position. </p>
 
-<p>My research interest includes `Stability of power system`, `Grid-connected converters`, `Integrated energy system`, `Lyapunov optimization`. Since my sophomore year in <a href="./#ncepu"> North China Electrical Power University (NCEPU)</a>, I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis, titled "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System", was completed under the guidance of <a href="https://ieeexplore.ieee.org/author/37589545400" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>. In 2020, through the exam-free postgraduate recommendation, I entered Southeast University, supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>.  </p>
+<p>My research interest includes <code>Stability of power system</code>, <code>Grid-connected converters</code>, <code>Integrated energy system</code>, <code>Lyapunov optimization</code>. </p>
+
+<!-- 
+Since my sophomore year in <a href="./#ncepu"> North China Electrical Power University (NCEPU)</a>, I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis, titled "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System", was completed under the guidance of <a href="https://ieeexplore.ieee.org/author/37589545400" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>. In 2020, through the exam-free postgraduate recommendation, I entered Southeast University, supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>. 
+-->
 
 <p>Thanks you for taking time to visit my website! If interested, please  <a href="./#contact-me">contact me </a>. </p> 
 </div>
