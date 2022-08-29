@@ -76,12 +76,12 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <div>
       <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
-      <div class="media-body">
-        <h5>Southeast University (SEU) </h5>
-        <p><i>Master of Science in Electrical Engineering</i></p>
-        <p><i>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</i></p>
-        <p><i>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</i></p>
-      </div>
+        <h5><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a>  </h5>
+          <span>
+               <p><i>**Master** of Science in Electrical Engineering</i></p>
+               **Thesis** entitled “Research on Transient Stability of Grid-connected Converter”
+              <p><i>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</i></p>
+          </span>
  </div>
 
 
