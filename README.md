@@ -72,10 +72,10 @@ Follow the following instructions to install the Dumbarton theme:
 <p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
-<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
+<p><img src="./assets/img/oip.jpg"  class="avatar" style="float: right;" ></p>
 <blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
 
-<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
+<p><img src="./assets/img/oip.jpg"  class="avatar" style="float: right;" ></p>
 
 > “Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br>
 > —**Charles Alexander, Founder, Systemic**
