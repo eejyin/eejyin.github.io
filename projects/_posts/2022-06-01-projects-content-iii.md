@@ -70,10 +70,10 @@ You can add large text.
 {:.lead}
 
 ## Large images
-![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
+![Full-width image](https://junjie-yin.github.io/assets/img/blog/example-content-iii.jpg){:.lead data-width="800" data-height="100"}
 
 ## Captions to images
-![Full-width image](https://placehold.it/800x100){:.lead data-width="800" data-height="100"}
+![Full-width image](https://junjie-yin.github.io/assets/img/blog/example-content-ii.jpg){:.lead data-width="800" data-height="100"}
 A caption to an image.
 {:.figure}
 
