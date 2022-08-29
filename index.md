@@ -75,8 +75,6 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 <div>
-  <ul>
-    <li class="media">
       <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
       <div class="media-body">
         <h5>Southeast University (SEU) </h5>
@@ -84,8 +82,6 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
         <p><i>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</i></p>
         <p><i>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</i></p>
       </div>
-    </li>
-  </ul>
  </div>
 
 
