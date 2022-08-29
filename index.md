@@ -12,6 +12,16 @@ sitemap: false
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
 </script> -->
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$']]},
+        messageStyle: "none"
+    });
+</script>
+
 <style type="text/css">
 	.page-title {
 		position: absolute;
@@ -29,13 +39,13 @@ sitemap: false
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
 
 <div style="text-align:justify; text-justify:inter-ideograph;">
-Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation" target="_blank"> <span class="icon-volume-medium"></span></a>. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. 
+<p>Hi! I'm Junjie Yin <a href="https://namedrop.io/junjieyin" title="Pronunciation" target="_blank"> <span class="icon-volume-medium"></span></a>. I am a PhD student in [Technology and Social Behavior (TSB)](http://tsb.northwestern.edu/){:target="_blank"}, a joint Computer Science and Communication program at Northwestern University. I work with Prof. Anne Marie Piper and Prof. Darren Gergle. </p>
 
-My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  
+<p>My research interest falls in the intersection of Human-Computer Interaction and Accessible Computing. In my research, I study and design tools to support computer-supported creative work for people with disabilities. Through interviews, observations, and content analysis, my work contributes new understanding of how accessibility unfolds at different stages of computer-supported content creation – from learning the tools to developing professional expertise – and the central role communities of disabled creators play in sustaining access in their skilled work. Drawing on these insights, I design and evaluate tools to scaffold accessible learning opportunities for disabled content creators.  </p>
 
-Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  
+<p>Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  </p>
 
-I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. 
+<p>I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. </p>
 </div>
 ---
 
