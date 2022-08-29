@@ -61,9 +61,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <table class="myTable1">
 <tr>
-<td aligen="center"> <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
-<td><h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4><br>
-  <h6>  <strong>Master</strong> of Science in Electrical Engineering<br>
+<td aligen="center"> <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
+<td><h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4>
+  <h6>MS in Electrical Engineering<br>
       Nanjing, Sep. 2020 - Jun. 2023<br>
       Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  
       <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate1"><span aria-hidden="true"></span></span></a> 
@@ -71,11 +71,11 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 </td>
 </tr>
 <tr>
-<td aligen="center"> <img src="./assets/img/logo-ncepu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
-<td><h4><a href="https://english.ncepu.edu.cn/" target="_blank">North China Electrical Power University (NCEPU)</a></h4><br>
-  <h6>  <strong>Bachelor</strong> of Science in Smart Grid Information Engineering<br>
+<td aligen="center"> <img src="./assets/img/logo-ncepu.svg" class="rounded-circle shadow-4" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
+<td><h4><a href="https://english.ncepu.edu.cn/" target="_blank">North China Electrical Power University (NCEPU)</a></h4>
+  <h6>  BS in Smart Grid Information Engineering<br>
       Beijing, Sep. 2016 - Jun. 2020<br>
-      Excellent Graduate Honor
+      "<i>Excellent Graduate of Beijing</i>" Honor
   </h6>
 </td>
 </tr>
@@ -83,13 +83,12 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <div>
     <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
-  <span>
-    <ul>
-       <li><h5><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a>  </h5></li>
-       <li><h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a>  </h4></li>
-       <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
-    </ul>
-  </span>
+  <h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4>
+  <h6>MS in Electrical Engineering<br>
+      Nanjing, Sep. 2020 - Jun. 2023<br>
+      Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  
+      <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate1"><span aria-hidden="true"></span></span></a> 
+  </h6>
  </div>
 <br>
 <div>
