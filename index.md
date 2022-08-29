@@ -46,7 +46,7 @@ sitemap: false
 
 <p>Previously, I completed my Master of Science in Electrical and Computer Engineering (ECE) at Indiana University-Purdue University Indianapolis (IUPUI) and obtained my Bachelor degree (B.Sc.) in Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).  </p>
 
-<p>I love traveling and photography. $ x < y_1 $ Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. $\LaTeX$ </p>
+<p>I love traveling and photography. Through my camera and lens, I capture the juxtaposition of nature, architecture, and humans as I travel through places and time. </p> 
 </div>
 
 ---
@@ -69,7 +69,7 @@ sitemap: false
 <td aligen="center"> <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
 <td><h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4>
   <h6>MS in Electrical Engineering<br>
-      Nanjing, Sep. 2020 - Jun. 2023<br>
+      <span class="icon-location">Nanjing</span> <span class="icon-clock">Sep. 2020 - Jun. 2023</span><br>
       Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  
       <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
   </h6>
