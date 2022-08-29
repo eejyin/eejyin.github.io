@@ -81,8 +81,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
               <h6>
               <strong>Master</strong> of Science in Electrical Engineering<br>
               Nanjing, Sep. 2020 - Jun. 2023<br>
-              Supervior: Prof. Jianhua Wang <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" class="no-mark-external" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
-              <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" class="no-mark-external" target="_blank">[SEU Link]
+              Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
               </h6>
               <p>Thesis entitled “Research on Transient Stability of Grid-connected Converter”</p>
           </span>
