@@ -74,7 +74,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
  </div>
 
 
-
+<div>
   <ul>
     <li class="media">
       <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
@@ -86,7 +86,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
       </div>
     </li>
   </ul>
-
+ </div>
 
 
 ---
