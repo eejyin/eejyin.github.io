@@ -2,12 +2,10 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [About](#about)
-- [Installation](#installation)
-- [结构](#结构)
-  - [Code](#code)
-  - [Images](#images)
+- [junjie-yin.github.io](#junjie-yingithubio)
+	- [Table of Contents](#table-of-contents)
+	- [Installation](#installation)
+	- [结构](#结构)
 
 ## Installation   
 
@@ -60,3 +58,66 @@ Follow the following instructions to install the Dumbarton theme:
 	└── tags.html # 标签页面
 	└── 404.html # 404页面
 	└── package.json # 管理项目的依赖项
+<h2 class="h1" style="color: rgb(1,92,171)" id="other">tutorial </h2>
+
+
+<p>I occasionally contribute to some open source projects, including:</p>
+
+<ul>
+  <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
+  <li>Adding features to selfhostable software, including <a href="https://github.com/PrivateBin/PrivateBin/">PrivateBin</a> and <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a>.</li>
+</ul>
+
+
+<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
+<p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
+
+<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
+
+<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
+
+> “Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br>
+> —**Charles Alexander, Founder, Systemic**
+
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
+
+
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |

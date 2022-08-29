@@ -90,7 +90,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 
 ---
-<h2 class="h1" style="color: rgb(1,92,171)" id="other">other </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="other">tutorial </h2>
 
 
 <p>I occasionally contribute to some open source projects, including:</p>
