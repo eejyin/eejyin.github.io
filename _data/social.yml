@@ -209,7 +209,7 @@ googlescholar:
   append: "&view_op=list_works&sortby=pubdate"
 orcid:
   name: Orcid
-  icon: icon-orcid
+  icon: icon-orcid1
   prepend: "https://orcid.org/"
 webofscience:
   name: Web of Science
@@ -217,5 +217,5 @@ webofscience:
   prepend: "https://www.webofscience.com/wos/author/record/"
 researchgate:
   name: Researchgate
-  icon: icon-researchgate
+  icon: icon-researchgate1
   prepend: "https://www.researchgate.net/profile/"
