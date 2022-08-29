@@ -53,9 +53,9 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <style>
 .myTable1 { 
   width:100%;
-  background-color: ;
-  border: 0px solid yellowgreen;
-  border-radius: 5px;
+  background-color: white;
+  border: 0px solid white;
+  border-radius: 0px;
   }
 </style>
 
