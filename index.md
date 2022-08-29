@@ -64,7 +64,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
  </div>
 <br>
 <div>
-    <img src="./assets/img/logo-ncepu.svg" class="rounded-circle shadow-4" style="float:left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
+    <img src="./assets/img/logo-ncepu.svg" class="rounded-circle" style="float:left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;">
     <span>
     <ul>
   <li>Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. <a href="https://github.com/austinhuang0131/CanadaWeather">Canada Weather &amp; Radar</a>, <a href="https://github.com/jguerinet/MyMartlet">MyMartlet</a>, and <a href="https://github.com/ultranity/Pix-EzViewer">Pix-EzViewer</a> fall into this category as well.</li>
@@ -88,7 +88,7 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 <p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
-<p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
+<p><img src="./assets/img/pipo.jpg"  class="rounded-circle shadow-4" style="float: right;" ></p>
 <blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
 
 <p><img src="./assets/img/pipo.jpg"  class="avatar" style="float: right;" ></p>
