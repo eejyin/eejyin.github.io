@@ -1,11 +1,13 @@
 # junjie-yin.github.io
 
+
 ## Table of Contents
 
 - [junjie-yin.github.io](#junjie-yingithubio)
 	- [Table of Contents](#table-of-contents)
 	- [Installation](#installation)
 	- [结构](#结构)
+	- [Mathjax](#mathjax)
 
 ## Installation   
 
@@ -121,3 +123,33 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+
+
+## Mathjax
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$']]},
+        messageStyle: "none"
+    });
+</script>
+
+
+```html
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$']]},
+        messageStyle: "none"
+    });
+</script>
+
+
+
+```
+
+inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{\e_{a}}  $
