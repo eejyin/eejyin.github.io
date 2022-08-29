@@ -98,7 +98,6 @@ I'm faded, faded, faded.
 
 
 ```html
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
 
 <script type="text/x-mathjax-config">
@@ -107,12 +106,19 @@ I'm faded, faded, faded.
         messageStyle: "none"
     });
 </script>
-
-
-
 ```
 
-inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{\e_{a}}  $
+<p>Code snippet for addition of two numbers in javascript</p>
+<pre>
+  <code class="css">
+    function add (a,b) {
+    sum = a + b;
+    return sum;
+    }
+  </code>
+</pre>
+
+inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{e_{a}}  $
 
 
 [mm]: https://guides.github.com/features/mastering-markdown/
