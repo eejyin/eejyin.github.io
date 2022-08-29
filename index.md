@@ -49,21 +49,35 @@ I love traveling and photography. Through my camera and lens, I capture the juxt
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="education">Education </h2>
 
+<!-- CSS -->
+<style>
+.myTable1 { 
+  width:100%;
+  background-color: ;
+  border: 0px solid yellowgreen;
+  border-radius: 5px;
+  }
+</style>
 
-<table>
+<table class="myTable1">
 <tr>
 <td aligen="center"> <img src="./assets/img/logo-seu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
 <td><h4><a href="https://www.seu.edu.cn/english/" target="_blank">Southeast University (SEU)</a></h4><br>
-<h6>
-              <strong>Master</strong> of Science in Electrical Engineering<br>
-              Nanjing, Sep. 2020 - Jun. 2023<br>
-              Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate"><span aria-hidden="true"></span></span></a> 
-              </h6>
+  <h6>  <strong>Master</strong> of Science in Electrical Engineering<br>
+      Nanjing, Sep. 2020 - Jun. 2023<br>
+      Supervior: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" target="_blank">Jianhua Wang</a>  
+      <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Jianhua Wang's Researchgate" target="_blank"> <span class="icon-researchgate1"><span aria-hidden="true"></span></span></a> 
+  </h6>
 </td>
 </tr>
 <tr>
-<td>row 2, cell 1</td>
-<td>row 2, cell 2</td>
+<td aligen="center"> <img src="./assets/img/logo-ncepu.svg" class="rounded-circle shadow-4" style="float: left; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
+<td><h4><a href="https://english.ncepu.edu.cn/" target="_blank">North China Electrical Power University (NCEPU)</a></h4><br>
+  <h6>  <strong>Bachelor</strong> of Science in Smart Grid Information Engineering<br>
+      Beijing, Sep. 2016 - Jun. 2020<br>
+      Excellent Graduate Honor
+  </h6>
+</td>
 </tr>
 </table>
 
