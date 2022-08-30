@@ -41,11 +41,32 @@ sitemap: false
   p.main {text-align:justify;  text-justify:inter-ideograph}
 </style>
 
+<head>
+<style>
+    #myBtn {
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 30px;
+      z-index: 99;
+      border: none;
+      outline: none;
+      background-color: red;
+      color: white;
+      cursor: pointer;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    
+    #myBtn:hover {
+      background-color: #555;
+    }
+</style>
+</head>
 
+<body>
 <button onclick="topFunction()" id="myBtn" title="回顶部">返回顶部</button>
 
-<div style="background-color:black;color:white;padding:30px">向下滑动</div>
-<div style="background-color:lightgrey;padding:30px 30px 2500px">该实例演示了如何实现网页返回顶部效果。</div>
 <script>
 // 当网页向下滑动 20px 出现"返回顶部" 按钮
 window.onscroll = function() {scrollFunction()};
@@ -64,6 +85,7 @@ function topFunction() {
     document.documentElement.scrollTop = 0;
 }
 </script>
+</body>
 
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
