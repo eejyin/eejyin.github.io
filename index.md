@@ -143,7 +143,7 @@ Since my sophomore year in <a href="./#ncepu"> North China Electrical Power Univ
 <tr>
 <td aligen="center"> <img src="./assets/img/logo-ncepu.svg" class="rounded-circle" style="float: center; vertical-align:middle; margin-right: 1.25rem;  width: 80px;"></td>
 <td><h4 id="ncepu"><a href="https://english.ncepu.edu.cn/" target="_blank">North China Electrical Power University (NCEPU)</a></h4>
-  <h6>      <span class="icon-location" style="font-size:10px"></span> Beijing <span class="icon-clock" style="font-size:10px"> </span> Sep. 2016 - Jun. 2020<br>
+  <h6> <span class="icon-location" style="font-size:10px"></span> Beijing <span class="icon-clock" style="font-size:10px"> </span> Sep. 2016 - Jun. 2020<br>
   <strong>BS</strong> in Smart Grid Information Engineering<br>
       "<i>Excellent Graduate</i>" Honor
   </h6>
