@@ -118,7 +118,23 @@ sitemap: false
 </style>
 
 
+<div class="el-backtop">
+  <div class="btn"></div>
+</div>
 
+<div id="container" style="height: 100px;">
+     <!-- 返回按钮 -->
+     <div @click="onBack" @touchstart="han_down($event)" @touchmove="han_move($event)" @touchend="han_up($event)" ref="actionMgr" class="Click_back" style="width: 50px;height: 50px;cursor:pointer;border-radius: 50%;position:fixed;bottom: 2rem;right: 10px;">
+       <!-- <div style="text-align: center;font-size:10px;padding-top: 5px;"> -->
+         <!-- 返回图标 -->
+         <!-- <div style="text-align: center;font-size:10px;">
+         <svg class="icon svg-icon" aria-hidden="true">
+           <use xlink:href="#iconsvg_fanhui"></use>
+         </svg>
+       </div> -->
+       <p style="color:#fff;font-size:13px;text-align: center;padding-top: 16px;">返回</p>
+     </div>
+</div>
 
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
