@@ -14,13 +14,7 @@ sitemap: false
 
 <!-- BACK TO TOP -->
 
-<script type="text/javascript" src="./assets/jquery.min.js"></script>
 
-<div style="display:none;" class="back-to" id="toolBackTop">
-
-        <a title="Back to Top" onclick="window.scrollTo(0,0);return false;" href="#top" class="back-top"></a>
-
-    </div>
 
 <!-- ---------- -->
 
@@ -45,96 +39,31 @@ sitemap: false
   		overflow: hidden;
 	}
   p.main {text-align:justify;  text-justify:inter-ideograph}
-  .back-to {
-
-            bottom: 55px;
-
-            overflow: hidden;
-
-            position: fixed;
-
-            right: 10px;
-
-            width: 110px;
-
-            z-index: 999;
-
-        }
-
-        .back-to .back-top {
-
-            background: url("./assets/img/top.png") no-repeat scroll 0 0 transparent;
-
-            display: block;
-
-            float: right;
-
-            height: 50px;
-
-            margin-left: 10px;
-
-            outline: 0 none;
-
-            text-indent: -9999em;
-
-            width: 50px;
-
-        }
-
-        .back-to .back-top:hover {
-
-            background-position: -50px 0
-
-
-        .el-backtop:hover {
-    background-color: rgb(240, 240, 240);
-}
-.el-backtop {
-    position: fixed;
-    background-color: #fff;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    // color: #409eff;
-    color: #999;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 20px;
-    box-shadow: 0 0 6px rgba(0,0,0,.12);
-    cursor: pointer;
-    z-index: 5;
-}
-.btn {
-    width: 0;
-    height: 0;
-    position: fixed;
-    border-left: 5px solid transparent;
-    border-right: 5px solid transparent;
-    border-bottom: 7px solid #999;
-}
-
-        }
 </style>
 
 
-<div class="el-backtop">
-  <div class="btn"></div>
-</div>
+<button onclick="topFunction()" id="myBtn" title="回顶部">返回顶部</button>
 
-<div id="container" style="height: 100px;">
-     <!-- 返回按钮 -->
-     <div @click="onBack" @touchstart="han_down($event)" @touchmove="han_move($event)" @touchend="han_up($event)" ref="actionMgr" class="Click_back" style="width: 50px;height: 50px;cursor:pointer;border-radius: 50%;position:fixed;bottom: 2rem;right: 10px;">
-       <!-- <div style="text-align: center;font-size:10px;padding-top: 5px;"> -->
-         <!-- 返回图标 -->
-         <!-- <div style="text-align: center;font-size:10px;">
-         <svg class="icon svg-icon" aria-hidden="true">
-           <use xlink:href="#iconsvg_fanhui"></use>
-         </svg>
-       </div> -->
-       <p style="color:#fff;font-size:13px;text-align: center;padding-top: 16px;">返回</p>
-     </div>
-</div>
+<div style="background-color:black;color:white;padding:30px">向下滑动</div>
+<div style="background-color:lightgrey;padding:30px 30px 2500px">该实例演示了如何实现网页返回顶部效果。</div>
+<script>
+// 当网页向下滑动 20px 出现"返回顶部" 按钮
+window.onscroll = function() {scrollFunction()};
+ 
+function scrollFunction() {console.log(121);
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+ 
+// 点击按钮，返回顶部
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
 
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="about">About Me </h2>
