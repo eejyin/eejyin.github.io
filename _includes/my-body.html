@@ -12,6 +12,139 @@
   });
 </script> -->
 
+
+<div class="el-backtop">
+  <div class="btn"></div>
+</div>
+
+<div id="container" style="height: 100px;">
+     <!-- 返回按钮 -->
+     <div @click="onBack" @touchstart="han_down($event)" @touchmove="han_move($event)" @touchend="han_up($event)" ref="actionMgr" class="Click_back" style="width: 50px;height: 50px;cursor:pointer;border-radius: 50%;position:fixed;bottom: 2rem;right: 10px;">
+       <!-- <div style="text-align: center;font-size:10px;padding-top: 5px;"> -->
+         <!-- 返回图标 -->
+         <!-- <div style="text-align: center;font-size:10px;">
+         <svg class="icon svg-icon" aria-hidden="true">
+           <use xlink:href="#iconsvg_fanhui"></use>
+         </svg>
+       </div> -->
+       <p style="color:#fff;font-size:13px;text-align: center;padding-top: 16px;">返回</p>
+     </div>
+</div>
+
+
+<script>
+name:'app',
+data(){
+ data(){
+   return{
+     iX: 0,//鼠标坐标 与 拖拽按钮 间距 x
+     iY: 0,//鼠标坐标 与 拖拽按钮 间距 y
+     mousedownState: false, //鼠标默认抬起
+   }
+ },
+ methods:{
+   //点击事件
+   onBack(){
+       this.$router.back(-1)
+   },
+   //手指按下事件
+   han_down(event){
+     /* 此处判断  pc 或 移动端 得到 event 事件 */
+     var touch;
+     if (event.touches) {
+       touch = event.touches[0];
+     } else {
+       touch = event;
+     }
+      // 鼠标点击 面向页面 的 x坐标 y坐标
+      let { clientX, clientY } = touch;
+     // 鼠标x坐标 - 拖拽按钮x坐标  得到鼠标 距离 拖拽按钮 的间距
+     this.iX = clientX - this.$refs.actionMgr.offsetLeft;
+     // 鼠标y坐标 - 拖拽按钮y坐标  得到鼠标 距离 拖拽按钮 的间距
+     this.iY = clientY - this.$refs.actionMgr.offsetTop;
+     // 设置当前 状态为 鼠标按下
+     this.mousedownState = true;
+     let {
+         style: actionMgrStyle
+       } = this.$refs.actionMgr;
+     actionMgrStyle.opacity="1"
+
+   },
+   //手指移动事件
+   han_move(event){
+     //鼠标按下 切移动中
+     if (this.mousedownState) {
+       /* 此处判断  pc 或 移动端 得到 event 事件 */
+       var touch;
+       if (event.touches) {
+         touch = event.touches[0];
+       } else {
+         touch = event;
+       }
+       // 鼠标移动时 面向页面 的 x坐标 y坐标
+       let { clientX, clientY } = touch;
+       //当前页面全局容器 dom 元素  获取容器 宽高
+       let {
+         clientHeight: pageDivY,
+         clientWidth: pageDivX
+       } = this.$refs.pageDiv;
+
+       // pageDivY=461;
+       /* 鼠标坐标 - 鼠标与拖拽按钮的 间距坐标  得到 拖拽按钮的 左上角 x轴y轴坐标 */
+       let [x, y] = [clientX - this.iX, clientY - this.iY];
+
+       //拖拽按钮 dom 元素  获取 宽高 style 对象
+       let {
+         clientHeight: actionMgrY,
+         clientWidth: actionMgrX,
+         style: actionMgrStyle
+       } = this.$refs.actionMgr;
+       /* 此处判断 拖拽按钮 如果超出 屏幕宽高 或者 小于
+          设置 屏幕最大 x=全局容器x y=全局容器y 否则 设置 为 x=0 y=0
+       */
+       if (x > pageDivX - actionMgrX) {
+         x = pageDivX - actionMgrX;
+       }
+       else if (x < 0) x = 0;
+       if (y > document.documentElement.clientHeight - actionMgrY-60){
+        //document.documentElement.clientHeight 可视化窗口
+        //这里的减去60 是减去的底部固定tab的高度
+         y = document.documentElement.clientHeight - actionMgrY-60;
+       }
+       else if (y < 0){ y = 0;}
+
+       // 计算后坐标  设置 按钮位置
+       actionMgrStyle.left = `${x}px`;
+       actionMgrStyle.top = `${y}px`;
+       actionMgrStyle.bottom = "auto";
+       actionMgrStyle.right = "auto";
+       //当按下键滑动时， 阻止屏幕滑动事件
+       event.preventDefault();
+
+
+     }
+   },
+   //手指抬起事件
+   han_up(event){
+     let {
+         style: actionMgrStyle
+       } = this.$refs.actionMgr;
+       actionMgrStyle.opacity="0.8"
+     // 设置当前状态为鼠标抬起
+     this.mousedownState = false;
+   },
+ },
+}
+</script>
+
+
+
+
+
+
+
+
+
 <!--
 Code for integrating CloudFlare's email protection with Hydejack's single page app loading.
 -->
