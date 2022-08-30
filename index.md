@@ -12,6 +12,17 @@ sitemap: false
 	document.getElementsByClassName("page-title")[0].classList.add("sr-only");
 </script> -->
 
+<!-- BACK TO TOP -->
+
+<script type="text/javascript" src="./assets/jquery.min.js"></script>
+
+<div style="display:none;" class="back-to" id="toolBackTop">
+
+        <a title="Back to Top" onclick="window.scrollTo(0,0);return false;" href="#top" class="back-top"></a>
+
+    </div>
+
+<!-- ---------- -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
 
@@ -34,6 +45,47 @@ sitemap: false
   		overflow: hidden;
 	}
   p.main {text-align:justify;  text-justify:inter-ideograph}
+  .back-to {
+
+            bottom: 55px;
+
+            overflow: hidden;
+
+            position: fixed;
+
+            right: 10px;
+
+            width: 110px;
+
+            z-index: 999;
+
+        }
+
+        .back-to .back-top {
+
+            background: url("./assets/img/top.png") no-repeat scroll 0 0 transparent;
+
+            display: block;
+
+            float: right;
+
+            height: 50px;
+
+            margin-left: 10px;
+
+            outline: 0 none;
+
+            text-indent: -9999em;
+
+            width: 50px;
+
+        }
+
+        .back-to .back-top:hover {
+
+            background-position: -50px 0
+
+        }
 </style>
 
 
