@@ -1,6 +1,17 @@
-{% comment %}<!--
-Use this add elements to the <head/> of the document.
--->{% endcomment %}
+{% comment %}
+<!--
+Using `preload` so that page rendering doesn't get blocked.
+Fill in `href`. You may have to adjust `as` and `onload`/`rel`, depending on content.
+-->
+<link href="<path/to/content.css>" rel="preload" as="style" onload="this.rel='stylesheet'">
+
+<!--
+Fallback in case JavaScript isn't enabled.
+Fill in `href`. You may have to adjust `rel`.
+-->
+<noscript><link href="<path/to/content.css>" rel="stylesheet"></noscript>
+{% endcomment %}
+
 <link rel="shortcut icon" type="image/png" href="/assets/icons/favicon.ico">
 <link rel="stylesheet" href="/assets/icomoon/style.css">
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
