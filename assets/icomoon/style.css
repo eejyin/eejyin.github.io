@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?j3dy8c');
-  src:  url('fonts/icomoon.eot?j3dy8c#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?j3dy8c') format('truetype'),
-    url('fonts/icomoon.woff?j3dy8c') format('woff'),
-    url('fonts/icomoon.svg?j3dy8c#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?9s1e3j');
+  src:  url('fonts/icomoon.eot?9s1e3j#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?9s1e3j') format('truetype'),
+    url('fonts/icomoon.woff?9s1e3j') format('woff'),
+    url('fonts/icomoon.svg?9s1e3j#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -563,6 +563,10 @@
 }
 .icon-github2:before {
   content: "\e915";
+}
+.icon-gmail:before {
+  content: "\ebdf";
+  color: #d14836;
 }
 .icon-gnu:before {
   content: "\e916";
