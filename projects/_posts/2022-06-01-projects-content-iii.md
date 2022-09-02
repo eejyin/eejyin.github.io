@@ -5,7 +5,7 @@ description: >
   A page showing Hydejack-specific markdown content.
 image: /assets/img/blog/example-content-iii.jpg
 noindex: true
-categories: [example]
+categories: [projects]
 tags:       [jekyll, update]
 ---
 
