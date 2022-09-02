@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: Frontiers in Energy Research - Integrated Energy System
 description: >
   A page showing Hydejack-specific markdown content.

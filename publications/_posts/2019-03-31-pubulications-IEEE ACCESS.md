@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: IEEE ACCESS - M2M
 description: >
   A page showing Hydejack-specific markdown content.
