@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Frontiers in Energy Research - Integrated Energy System
+title: IEEE ACCESS - M2M
 description: >
   A page showing Hydejack-specific markdown content.
 image: 
@@ -14,8 +14,8 @@ related_posts:
   - /example/2012-02-07-example-content/
 sitemap: false
 cover: true
-permalink: /IES
-related_posts: /2019-03-31-pubulications-IEEE ACCESS
+permalink: /M2M
+related_posts: 
 ---
 
 Hydejack offers a few additional features to markup your markdown.
