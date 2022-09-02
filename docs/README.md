@@ -9,59 +9,6 @@ permalink: /docs/
 comments: true
 ---
 
-<!-- 
-  ####################################################################
-  BACK TO TOP
-  ####################################################################
--->
-
- <style>
-    #myBtn {
-      width:50px;
-      height:50px;
-      display: none;
-      position: fixed;
-      bottom: 20px;
-      right: 30px;
-      z-index: 99;
-      border: none;
-      outline: none;
-      background-color: #555;
-      color: white;
-      cursor: pointer;
-      padding: 5px 5px 5px 5px;
-      border-radius: 50%;
-      font-size:25px;
-    }
-    
-    #myBtn:hover {
-      background-color: rgb(0,87,156);
-    }
-  </style>
-
-<body>
-  <button onclick="topFunction()" id="myBtn" title="Back to Top"><span class="icon-arrow-up1"></span></button>
-  
-  <script>
-  // 当网页向下滑动 20px 出现"返回顶部" 按钮
-  window.onscroll = function() {scrollFunction()};
-  
-  function scrollFunction() {console.log(121);
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("myBtn").style.display = "block";
-    } else {
-        document.getElementById("myBtn").style.display = "none";
-    }
-  }
-  
-  // 点击按钮，返回顶部
-  function topFunction() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-  }
-  </script>
-  </body>
-  
  
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
@@ -75,7 +22,10 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 ![lalalallala](/assets/img/blog/jeremy-bishop@0,5x.jpg)
 
 
+
 ## Getting started
+
+continue to see [Install]
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
