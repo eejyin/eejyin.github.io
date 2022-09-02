@@ -59,8 +59,8 @@ menu:
 #   url:               /#contact-me
   - title:             RÉSUMÉ
     url:               /assets/files/Résumé_junjie_yin.pdf
-  - title:             BLOG
-    url:               /blog/
+  - title:             PUBLICATIONS
+    url:               /publications/
   - title:             EXPERIENCE 
     url:               /docs/
   - title:             RESEARCH PROJECTS
