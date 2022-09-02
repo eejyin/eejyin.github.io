@@ -14,7 +14,7 @@ related_posts:
   - /example/2012-02-07-example-content/
 sitemap: false
 cover: true
-permalink: /pubulications/journals/IES
+permalink: /pubulications/conferences/IES
 related_posts: /2019-03-31-pubulications-IEEE ACCESS
 ---
 

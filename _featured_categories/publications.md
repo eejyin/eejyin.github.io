@@ -1,6 +1,6 @@
 ---
 # Featured tags need to have either the `list` or `post` or `grid` layout (PRO only).
-layout: post
+layout: list
 
 # The title of the tag's page.
 title: Publications
