@@ -1,5 +1,7 @@
 ---
-layout: list
+layout:     post
+categories: [latex]
+tags:       [jekyll, update]
 title: Example Content II
 description: >
   A page showing how regular markdown content is styled in Hydejack.
