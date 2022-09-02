@@ -14,7 +14,7 @@ related_posts:
   - /example/2012-02-07-example-content/
 sitemap: false
 cover: true
-permalink: /M2M
+permalink: /pubulications/journals//M2M
 related_posts: /2021-09-15-pubulications-Frontiers in Energy
 ---
 
