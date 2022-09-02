@@ -9,6 +9,59 @@ permalink: /docs/
 comments: true
 ---
 
+<!-- 
+  ####################################################################
+  BACK TO TOP
+  ####################################################################
+-->
+
+<body>
+  <button onclick="topFunction()" id="myBtn" title="Back to Top"><span class="icon-arrow-up1"></span></button>
+  
+  <script>
+  // 当网页向下滑动 20px 出现"返回顶部" 按钮
+  window.onscroll = function() {scrollFunction()};
+  
+  function scrollFunction() {console.log(121);
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+  }
+  
+  // 点击按钮，返回顶部
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+  </script>
+  </body>
+  
+  <style>
+    #myBtn {
+      width:50px;
+      height:50px;
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 30px;
+      z-index: 99;
+      border: none;
+      outline: none;
+      background-color: #555;
+      color: white;
+      cursor: pointer;
+      padding: 5px 5px 5px 5px;
+      border-radius: 50%;
+      font-size:25px;
+    }
+    
+    #myBtn:hover {
+      background-color: rgb(0,87,156);
+    }
+  </style>
+
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
 Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
