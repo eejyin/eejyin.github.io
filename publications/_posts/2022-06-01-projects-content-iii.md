@@ -1,6 +1,6 @@
 ---
 layout: list
-title: blog2 Example Content III
+title: publi/blog2 Example Content III
 description: >
   A page showing Hydejack-specific markdown content.
 image: /assets/img/blog/example-content-iii.jpg

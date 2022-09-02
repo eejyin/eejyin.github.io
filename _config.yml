@@ -53,10 +53,10 @@ menu:
     url:               /
 #  - title:             RESEARCH
 #    url:               /#research
-  - title:             PUBLICATIONS
-    url:               /publications/
-  #- title:             CONTACT
- #   url:               /#contact-me
+#  - title:             PUBLICATIONS
+#    url:               /publications/
+#  - title:             CONTACT
+#   url:               /#contact-me
   - title:             RÉSUMÉ
     url:               /assets/files/Résumé_junjie_yin.pdf
   - title:             BLOG
