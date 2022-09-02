@@ -24,76 +24,6 @@ comments: false
 -->
 
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en">
-  <p lang="en" dir="ltr">
-    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
-    like the one that comes with this tweet for example.
-  </p>
-  &mdash; Florian Klampfer (@qwtel)
-  <a href="https://twitter.com/qwtel/status/871098943505039362">June 3, 2017</a>
-</blockquote>
-
-
-<!-- 
-  ####################################################################
-  BACK TO TOP
-  ####################################################################
--->
-
-<div>
-<button onclick="topFunction()" id="myBtn" title="Back to Top"><span class="icon-arrow-up1"></span></button>
-</div>
-
-
-
-
-<style>
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  border: none;
-  outline: none;
-  background-color: red;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 10px;
-}
-
-#myBtn:hover {
-  background-color: #555;
-}
-</style>
-
-
-
-<button onclick="topFunction()" id="myBtn" title="回顶部">返回顶部</button>
-
-
-<script>
-// 当网页向下滑动 20px 出现"返回顶部" 按钮
-window.onscroll = function() {scrollFunction()};
- 
-function scrollFunction() {console.log(121);
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        document.getElementById("myBtn").style.display = "block";
-    } else {
-        document.getElementById("myBtn").style.display = "none";
-    }
-}
- 
-// 点击按钮，返回顶部
-function topFunction() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-}
-</script>
-
-
 
 
 <!--
@@ -224,7 +154,7 @@ Since my sophomore year in <a href="./#ncepu"> North China Electrical Power Univ
   <b>J. Yin</b>, J. Wang*, J. You, H. Chen, and W. Shi. "
   Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
    <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
-   [<a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
+   [<a href="http://junjie-yin.github.io/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.748673/full" target="_blank"><img src="assets/icons/frontiers.ico" style="width:1em;margin:0 0.2em 0 0.1em;" alt="Frontiers Website">Frontiers Website</a>] &nbsp;
    <b><span  style="float: right;">Continue reading <a href="/docs/#IES"  target="_blank">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
 </p></li>
@@ -460,8 +390,57 @@ Nanjing 210096, China <br>
 
 
 
+<!-- 
+  ####################################################################
+  BACK TO TOP
+  ####################################################################
+-->
+<style>
+  #myBtn {
+    width:50px;
+    height:50px;
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50%;
+    font-size:25px;
+  }
+  
+  #myBtn:hover {
+    background-color: rgb(0,87,156);
+  }
+</style>
 
+<body>
+<button onclick="topFunction()" id="myBtn" title="Back to Top"><span class="icon-arrow-up1"></span></button>
 
+<script>
+// 当网页向下滑动 20px 出现"返回顶部" 按钮
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {console.log(121);
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      document.getElementById("myBtn").style.display = "block";
+  } else {
+      document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// 点击按钮，返回顶部
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+</body>
 
 
 <!-- 
