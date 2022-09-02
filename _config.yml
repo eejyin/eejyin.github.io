@@ -54,7 +54,7 @@ menu:
 #  - title:             RESEARCH
 #    url:               /#research
   - title:             PUBLICATIONS
-    url:               /#publications
+    url:               /publications/
   #- title:             CONTACT
  #   url:               /#contact-me
   - title:             RÉSUMÉ
