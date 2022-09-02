@@ -1,6 +1,6 @@
 <h2 class="sr-only">{{ site.data.strings.pagination | default:"Pagination" }}</h2>
 <nav class="pagination heading clearfix" role="navigation">
-   <!--  <ul>
+   <ul>
     <li class="pagination-item older" >
       {% assign next_title = site.data.strings.older | default:"Older" %}
       {% assign next_href = paginator.next_page_path | relative_url %}
@@ -11,5 +11,5 @@
       {% assign prev_href = paginator.previous_page_path | relative_url %}
       {% include components/link.html rel="prev" title=prev_title href=prev_href %}
     </li>
-  </ul>-->
+  </ul>
 </nav>
