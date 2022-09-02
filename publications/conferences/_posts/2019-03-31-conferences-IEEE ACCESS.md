@@ -14,8 +14,8 @@ related_posts:
   - /example/2012-02-07-example-content/
 sitemap: false
 cover: true
-permalink: /pubulications/conferences/M2M
-related_posts: /2021-09-15-pubulications-Frontiers in Energy
+permalink: /publications/conferences/M2M
+related_posts: /2021-09-15-publications-Frontiers in Energy
 ---
 
 Hydejack offers a few additional features to markup your markdown.
