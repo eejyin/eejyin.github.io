@@ -16,7 +16,6 @@ sitemap: false
 cover: false
 permalink: /publications/conferences/IES
 #invert_sidebar: true
-picture: true
 ---
 
 Hydejack offers a few additional features to markup your markdown.
