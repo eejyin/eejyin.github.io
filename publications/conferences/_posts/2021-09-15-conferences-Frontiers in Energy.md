@@ -30,7 +30,13 @@ aaaaaaaaaaaaaaaaaaaaa
 </object>
 
 
-
+aaaaaaaaaaa
+<div id="example1"></div>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf", "#example1");</script>
+<style>
+.pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
+</style>
 
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
