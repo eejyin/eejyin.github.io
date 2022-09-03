@@ -2,9 +2,9 @@
 layout: page
 title: Résumé
 description: >
-  My blog articles
+  Feel free to download my Résumé and use my LaTeX template, which has been uploaded to  <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Wang's Researchgate" target="_blank"> <span class="icon-overleaf" style="font-size:10px">Overleaf</span></a>.
 cover: false
-hide_description: true
+hide_description: false
 menu: true
 sitemap: false
 ---
