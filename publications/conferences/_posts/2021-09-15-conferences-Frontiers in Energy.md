@@ -22,6 +22,7 @@ permalink: /publications/conferences/IES
 <embed src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" type="application/pdf" width="100%" height="100%">
 
 
+<iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="100%" width="100%"></iframe>
 aaaaaaaaaaaaaaaaaaaaa
 
 <object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="30rem">
