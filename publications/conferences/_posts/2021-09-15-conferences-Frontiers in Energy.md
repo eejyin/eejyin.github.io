@@ -15,7 +15,7 @@ related_posts:
 sitemap: false
 cover: false
 permalink: /publications/conferences/IES
-invert_sidebar: true
+#invert_sidebar: true
 picture: true
 ---
 
