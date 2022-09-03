@@ -16,7 +16,6 @@ sitemap: false
 cover: true
 permalink: /publications/conferences/M2M
 related_posts: /2021-09-15-publications-Frontiers in Energy
-last_modified_at: 2018-08-03
 ---
 
 Hydejack offers a few additional features to markup your markdown.
