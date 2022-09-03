@@ -18,6 +18,10 @@ permalink: /publications/conferences/IES
 #invert_sidebar: true
 ---
 
+<div id="example1"></div>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf", "#example1");</script>
+
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
 so that your content remains compatible with other Jekyll themes.
