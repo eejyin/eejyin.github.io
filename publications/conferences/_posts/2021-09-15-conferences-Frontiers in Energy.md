@@ -15,7 +15,7 @@ related_posts:
 sitemap: false
 cover: false
 permalink: /publications/conferences/IES
-# related_posts: /2019-03-31-publications-IEEE ACCESS
+invert_sidebar: true
 ---
 
 Hydejack offers a few additional features to markup your markdown.
