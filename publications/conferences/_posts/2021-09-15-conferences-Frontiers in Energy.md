@@ -21,6 +21,17 @@ permalink: /publications/conferences/IES
 
 <embed src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" type="application/pdf" width="100%" height="100%">
 
+
+aaaaaaaaaaaaaaaaaaaaa
+
+<object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="100%">
+<p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: 
+<a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf">Download PDF</a>.</p>
+</object>
+
+
+
+
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
 so that your content remains compatible with other Jekyll themes.
