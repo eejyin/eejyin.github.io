@@ -20,7 +20,7 @@ sitemap: false
   Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
    <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
    [<a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.748673/full" target="_blank"><img src="assets/icons/frontiers.ico" style="width:1em;margin:0 0.2em 0 0.1em;" alt="Frontiers Website">Frontiers Website</a>] &nbsp;
+   [<a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.748673/full" target="_blank"><img src="/assets/icons/frontiers.ico" style="width:1em;margin:0 0.2em 0 0.1em;" alt="Frontiers Website">Frontiers Website</a>] &nbsp;
    <b><span  style="float: right;">Continue reading <a href="/publications/journals/IES">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>
 </p></li>
@@ -30,7 +30,7 @@ sitemap: false
     QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
     [<a href="/assets/files/QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
+   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
    <strong><span  style="float: right;">Continue reading <a href="/publications/journals/M2M">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
   </div>
 </p></li></ol>
