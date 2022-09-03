@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               
 
 # A list of keywords for your blog
 keywords:              []
@@ -57,8 +57,8 @@ menu:
 #    url:               /publications/
 #  - title:             CONTACT
 #   url:               /#contact-me
-  - title1:             RÉSUMÉ
-    url1:               /assets/files/Résumé_junjie_yin.pdf
+  - title:             RÉSUMÉ
+    redirect_to:       https://jyin.me/assets/files/Résumé_junjie_yin.pdf
   - title:             PUBLICATIONS
     url:               /publications/
   - title:             EXPERIENCE 
