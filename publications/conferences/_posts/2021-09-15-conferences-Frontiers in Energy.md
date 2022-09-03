@@ -24,19 +24,12 @@ permalink: /publications/conferences/IES
 
 aaaaaaaaaaaaaaaaaaaaa
 
-<object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="100%">
+<object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="30rem">
 <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: 
 <a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf">Download PDF</a>.</p>
 </object>
 
 
-aaaaaaaaaaa
-<div id="example1"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf", "#example1");</script>
-<style>
-.pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
-</style>
 
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
