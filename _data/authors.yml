@@ -12,7 +12,7 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path:            /assets/icons/icon-128x128.png
+    path:            /assets/img/blog/example-content-iii.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:           /assets/icons/icon-128x128.png

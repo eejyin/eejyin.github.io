@@ -8,11 +8,29 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "~> 4.1"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-hydejack", "~> 9.1"
+
+# IMPORTANT: The followign gem is used to compile math formulas to 
+# KaTeX during site building.
+#
+# There are a couple of things to know about this gem:
+# *  It is not supported on GitHub Pages. 
+#    You have to build the site on your machine before uploading to GitHub,
+#    or use a more permissive cloud building tool such as Netlify.
+# *  You need some kind of JavaScript runtime on your machine.
+#    Usually installing NodeJS will suffice. 
+#    For details, see <https://github.com/kramdown/math-katex#documentation>
+#
+# If you're using the MathJax math engine instead, free to remove the line below:
+gem "kramdown-math-katex"
+
+# A JavaScript runtime for ruby that helps with running the katex gem above.
+gem "duktape"
+
+# Fixes `jekyll serve` in ruby 3
+gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -30,7 +48,10 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
+
+  # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
+  gem "jekyll-compose"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
