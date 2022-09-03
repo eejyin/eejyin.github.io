@@ -58,7 +58,7 @@ menu:
 #  - title:             CONTACT
 #   url:               /#contact-me
   - title:             RÉSUMÉ
-    redirect_to:       https://jyin.me/assets/files/Résumé_junjie_yin.pdf
+    url-external:       https://jyin.me/assets/files/Résumé_junjie_yin.pdf
   - title:             PUBLICATIONS
     url:               /publications/
   - title:             EXPERIENCE 

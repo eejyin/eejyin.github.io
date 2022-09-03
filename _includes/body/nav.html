@@ -32,8 +32,9 @@
           </a>
         </li>
       {% else %}
+        {% assign url-external = node.url | default: node.href %}
         <li>
-          <a href="{{ node.redirect_to }}" class="sidebar-nav-item external" target="_blank">{{ node.title }}</a>
+          <a href="{% include_cached smart-url url=url-external %}" class="sidebar-nav-item external" target="_blank">{{ node.title }}</a>
         </li>
       {% endunless %}
     {% endfor %}
