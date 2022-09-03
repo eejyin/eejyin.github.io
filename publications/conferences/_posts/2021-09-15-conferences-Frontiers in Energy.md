@@ -18,9 +18,8 @@ permalink: /publications/conferences/IES
 #invert_sidebar: true
 ---
 
-<div id="example1"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf", "#example1");</script>
+
+<embed src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" type="application/pdf" width="100%" height="100%">
 
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
