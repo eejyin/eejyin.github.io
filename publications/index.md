@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Publications
 description: >
   My blog articles
 cover: false
