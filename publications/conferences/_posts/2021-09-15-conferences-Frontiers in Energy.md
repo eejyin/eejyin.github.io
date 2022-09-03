@@ -25,7 +25,7 @@ permalink: /publications/conferences/IES
 <iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="100%" width="100%"></iframe>
 aaaaaaaaaaaaaaaaaaaaa
 
-<object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="30rem">
+<object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="300rem">
 <p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: 
 <a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf">Download PDF</a>.</p>
 </object>
