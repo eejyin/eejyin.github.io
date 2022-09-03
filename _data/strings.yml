@@ -23,8 +23,8 @@ social:                Social
 links:                 Links
 links_icon:            'icon-link'
 pagination:            Pagination
-#newer:                 Newer
-#older:                 Older
+newer:                 Newer
+older:                 Older
 forward:               Forward
 back:                  Back
 permalink:             Permalink

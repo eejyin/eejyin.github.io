@@ -13,10 +13,10 @@ related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
   - /example/2012-02-07-example-content/
 sitemap: false
-cover: true
+cover: false
 permalink: /publications/conferences/IES
 # related_posts: /2019-03-31-publications-IEEE ACCESS
-cover: true
+invert_sidebar: true
 ---
 
 Hydejack offers a few additional features to markup your markdown.
