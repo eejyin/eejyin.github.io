@@ -8,10 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
- <h3> Junjie Yin </h3> <br> 
-Southeast University <br> 
-No.2 Sipailou  <br>  
-Nanjing 210096, China <br> 
+Junjie Yin
+Southeast University
+No.2 Sipailou  
+Nanjing 210096, China
     
     Open `_data/authors.yml` to edit this text.
 
