@@ -42,7 +42,7 @@ sitemap: false
 </body>
 aaaaaaaaaaaaaaaaaaaaa
 
-<iframe src="/assets/files/Résumé_junjie_yin.pdf" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
+<iframe src="/assets/files/Résumé_junjie_yin.pdf" frameborder="0" scrolling="no" onload="resizeIframe(this)" width="100%"></frame>
 <script>
   function resizeIframe(obj) {
     obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
