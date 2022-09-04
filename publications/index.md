@@ -23,6 +23,7 @@ sitemap: false
    <b><span  style="float: right;">Continue reading <a href="/publications/journals/IES">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>
 </p></li>
+
 <li><p> 
 <div>
    <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "
@@ -32,32 +33,59 @@ sitemap: false
    [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
    <strong><span  style="float: right;">Continue reading <a href="/publications/journals/M2M">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
   </div>
-</p></li></ol>
+</p></li>
+
+<li><p> 
+<div>
+    W. Xu, W. Zhang, Y. Hu, <b>J. Yin</b> and J. Wang, "
+    Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub," 
+    <i>Transactions of China Electrotechnical Society</i>. (In chinese, Aug. 2022 accepted)
+  </div>
+</p></li>
+
+<li><p> 
+<div>
+    H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "
+    Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
+    <i>Machine Building & Automation</i>, vol. 5, 2022. (In chinese, to be published)
+  </div>
+</p></li>
+
+</ol>
 </div>
 
 
 <h3 class="h2" style="color: rgb(1,92,171)" id="Journal-Article">Conference Articles</h3>
 <div>
-<ol ><li><p>
-  <div>
-    <b>J. Yin</b>, J. Wang*, J. You, H. Chen, and W. Shi. "
-  Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
-   <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
-   [<a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.748673/full" target="_blank"><img src="/assets/icons/frontiers.ico" style="width:1em;margin:0 0.2em 0 0.1em;" alt="Frontiers Website">Frontiers Website</a>] &nbsp;
-   <b><span  style="float: right;">Continue reading <a href="/publications/journals/IES">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
+<ol>
+
+<li><p>
+<div>
+    <div>
+    W. Zhang, W. Xu,  Y. Hu, <b>J. Yin</b>. "
+  Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub,"
+   <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, Xining, China, pp. 789-794, Jul. 2022.<br>
+   [<a href="/assets/files/ICPET2022.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
+   [Oral Presenter] &nbsp;
+   [<a href="http://www.icpet.org/" target="_blank">Link</a>] &nbsp;
   </div>
 </p></li>
-<li><p> 
-<div>
-   <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "
-    QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
-    <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
-    [<a href="/assets/files/QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
-   <strong><span  style="float: right;">Continue reading <a href="/publications/journals/M2M">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
+
+<li><p>
+  <div>
+    S. Jiang, Y. Wang, D. Wang, <b>J. Yin*</b>, H. Yan and J. Wang. "
+  Reliability Assessment of Distribution Network Considering Differentiated End-Users Demand for Reliability,"
+   <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, Guilin, China, pp. 012026-012032, Nov. 2020.<br>
+   [<a href="/assets/files/Reliability assessment of distribution network considering differentiated end-users demand for reliability.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
+   [<a href="/assets/files/SGEE2020_poster.pdf" target="_blank"> Poster</a>] &nbsp;
+   [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank">Link</a>] &nbsp;
   </div>
-</p></li></ol>
+</p></li>
+
+
+
+
+</ol>
 </div>
 
 <h3 class="h2" style="color: rgb(1,92,171)" id="patents">Patents</h3>
@@ -74,15 +102,18 @@ sitemap: false
 </div>
 
 <h3 class="h2" style="color: rgb(1,92,171)" id="patents">Thesis</h3>
-undergraduate thesis, titled "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System", was completed under the guidance of <a href="https://ieeexplore.ieee.org/author/37589545400" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>.
-
-
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
-
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.note}
-
-
-![lalalallala](/assets/img/blog/jeremy-bishop@0,5x.jpg)
+<div>
+<ol ><li><p>
+  <div>
+    <b>J. Yin</b>. "Research on Transient Stability of Grid-connected Converter," Master Thesis, Southeast University, Nanjing, June 2023. (To be expected)
+    Supervisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang in SEU" target="_blank">Prof. Jianhua Wang</a>  
+  </div>
+</p></li>
+<li><p> 
+<div>
+   <div>
+    <b>J. Yin</b>. "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System," Bachelor Thesis, North China Electrical Power University, Beijing, June 2020.<br>
+    Supervisor: <a href="https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/5840bd9c828e44cf81b00d7dd460e37e.htm" title="Prof. Zeng in NCEPU" target="_blank">Prof. Bo Zeng</a>
+  </div>
+</p></li></ol>
+</div>
