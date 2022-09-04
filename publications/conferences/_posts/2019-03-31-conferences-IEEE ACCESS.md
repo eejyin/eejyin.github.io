@@ -13,7 +13,7 @@ related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
   - /example/2012-02-07-example-content/
 sitemap: false
-cover: true
+cover: false
 permalink: /publications/conferences/M2M
 related_posts: /2021-09-15-publications-Frontiers in Energy
 ---
