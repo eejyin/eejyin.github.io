@@ -42,9 +42,13 @@ sitemap: false
 <span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn"  target="_blank"> yinjunjie@seu.edu.cn </a>|
 <span class="icon-home"></span><a href="http://jyin.me/" target="_blank"> http://jyin.me/  </a>|  
 <span class="icon-location"></span><a href="https://goo.gl/maps/dAt5Wcjd8imvuJu48" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
-</p>
+</p><br>
 
 <h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education                             <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></h2>
+
+<h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education</h2>
+<hr style="background-color:blue; height:1px; border:none;"></hr>
+
 <p style="padding-top: 1pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">Southeast University (SEU)                                               
 <span class="s5">Nanjing</span></p>
 <p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">MS in Electrical Engineering                                                 Sep. 2020 - Jun. 2023</p>
