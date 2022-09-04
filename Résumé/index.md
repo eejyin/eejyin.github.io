@@ -49,11 +49,11 @@ sitemap: false
 
 <p style="padding-top: 0pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">Southeast University (SEU)                                               
 <span class="location">Nanjing</span></p>
-<p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">MS in Electrical Engineering                           <span class="date">Sep. 2020 - Jun. 2023</span></p>
+<p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">MS in Electrical Engineering       </p>  <span class="date">Sep. 2020 - Jun. 2023</span>
 
 <p style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">North China Electrical Power University (NCEPU)                                  
 <span class="location">Beijing</span></p>
-<p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">BS in Smart Grid Information Engineering                            <span class="date">Sep. 2016 - Jun. 2020</span></p>
+<p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">BS in Smart Grid Information Engineering </p>  <span class="date">Sep. 2016 - Jun. 2020</span>
 
 
 
