@@ -2,7 +2,7 @@
 layout: page
 title: Résumé
 description: >
-  Feel free to download my <a href="/assets/files/Résumé_junjie_yin.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> Résumé PDF</a> and use my LaTeX template, which has been uploaded to  <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Wang's Researchgate" target="_blank"> <span class="icon-overleaf" style="font-size:10px">Overleaf</span></a>.
+  Feel free to download my <a href="/assets/files/Résumé_junjie_yin.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé PDF</a> and use my LaTeX template, which has been uploaded to  <a href="https://www.researchgate.net/profile/Jianhua-Wang-5" title="Prof. Wang's Researchgate" target="_blank"> <span class="icon-overleaf" style="font-size:10px">Overleaf</span></a>.
 cover: false
 hide_description: false
 menu: true
