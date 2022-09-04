@@ -9,13 +9,13 @@ menu: true
 sitemap: false
 ---
 
-<object data="/assets/files/Résumé_junjie_yin.pdf" type="application/pdf" width="100%" height="100 vh">
+<object data="/assets/files/Résumé_junjie_yin.pdf" type="application/pdf" width="100%">
 <p><b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it: 
 <a href="/assets/files/Résumé_junjie_yin.pdf">Download PDF</a>.</p>
 </object>
 
-<embed src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" type="application/pdf" width="100%" height="100%">
+<embed src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#toolbar=0" type="application/pdf" width="100%" height="100%">
 
 
-<iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="100%" width="100%"></iframe>
+<iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="100%" width="150%"></iframe>
 aaaaaaaaaaaaaaaaaaaaa
