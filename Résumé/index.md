@@ -9,9 +9,5 @@ menu: true
 sitemap: false
 ---
 
-
-
-<a href="/assets/files/Résumé_junjie_yin.pdf"  target="_blank"><img src="/Résumé/Résumé_junjie_yin.png"  alt="<b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it."></a>
-
 <img src="/Résumé/Résumé_junjie_yin.png"  alt="<b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it.">
 
