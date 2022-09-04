@@ -20,6 +20,12 @@ sitemap: false
 
 <iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="200%" width="100%"></iframe>
 
+<iframe id='test' width='100%' src='/assets/files/Résumé_junjie_yin.pdf' frameborder=0 'allowfullscreen'></iframe>
+<script type="text/javascript">
+document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.75+"px";
+</script>
+
+
 
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Junjie Yin-resume</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
