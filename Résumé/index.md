@@ -13,10 +13,7 @@ sitemap: false
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Junjie Yin-resume</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
  h1 { color: #131927; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 27.5pt; }
- .s1 { color: #333; font-family:FontAwesome, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- .a { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- .s2 { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- .s3 { color: #333; font-family:FontAwesome, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .a { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
  h2 { color: #131927; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt; }
  .p, p { color: #404040; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; margin:0pt; }
  .s5 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; float: right;}
@@ -42,9 +39,9 @@ sitemap: false
 <h1 style="padding-top: 4pt;text-indent: 0pt;text-align: center;">Junjie Yin</h1>
 
 <p class="s2" style="padding-top: 12pt;text-indent: 0pt;text-align: center;">
-<span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn" class="a" target="_blank"> yinjunjie@seu.edu.cn </a>|
-<span class="icon-home"></span><a href="http://jyin.me/" class="a" target="_blank"> http://jyin.me/  </a>|  
-<span class="icon-location"></span><a href="https://goo.gl/maps/R4NpWG4RUbMs48hX9" class="a" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
+<span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn"  target="_blank"> yinjunjie@seu.edu.cn </a>|
+<span class="icon-home"></span><a href="http://jyin.me/" target="_blank"> http://jyin.me/  </a>|  
+<span class="icon-location"></span><a href="https://goo.gl/maps/dAt5Wcjd8imvuJu48" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
 </p>
 
 <h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education                             <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></h2>
