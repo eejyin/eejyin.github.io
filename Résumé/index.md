@@ -39,7 +39,7 @@ sitemap: false
 </style></head>
 
 <body>
-<h1 style="padding-top: 4pt;text-indent: 0pt;text-align: center;">Junjie Yin</a></h1>
+<h1 style="padding-top: 4pt;text-indent: 0pt;text-align: center;">Junjie Yin</h1>
 
 <p class="s2" style="padding-top: 12pt;text-indent: 0pt;text-align: center;">
 <span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn" class="a" target="_blank"> yinjunjie@seu.edu.cn </a>|
