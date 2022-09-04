@@ -16,21 +16,21 @@ sitemap: false
  .a { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
  h2 { color: #131927; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt; }
  .p, p { color: #404040; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; margin:0pt; }
- .s5 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; float: right;}
- .s6 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
- .s7 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
- .s8 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; vertical-align: 2pt; }
- .s9 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: -2pt; }
- h3 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
- .s11 { color: #1B4AED; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
- .s12 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; vertical-align: 7pt; }
- .s13 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
- .s14 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
- .s15 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; } 
- .s17 { color: #999; font-family:"Arial", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s5 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; float: right;}
+ .s6 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s7 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s8 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; vertical-align: 2pt; }
+ .s9 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: -2pt; }
+ h3 { color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+ .s11 { color: #1B4AED; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s12 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; vertical-align: 7pt; }
+ .s13 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s14 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }
+ .s15 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; } 
+ .s17 { color: #999; font-family:"Arial", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
  li {display: block; }
  #l1 {padding-left: 0pt;counter-reset: c1 1; }
- #l1> li>*:first-child:before {counter-increment: c1; content: "["counter(c1, decimal)"] "; color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ #l1> li>*:first-child:before {counter-increment: c1; content: "["counter(c1, decimal)"] "; color: #333; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
  #l1> li:first-child>*:first-child:before {counter-increment: c1 0;  }
  table, tbody {vertical-align: top; overflow: visible; }
 </style></head>
@@ -38,16 +38,13 @@ sitemap: false
 <body>
 <h1 style="padding-top: 4pt;text-indent: 0pt;text-align: center;">Junjie Yin</h1>
 
-<p class="s2" style="padding-top: 12pt;text-indent: 0pt;text-align: center;">
+<p class="s2" style="padding-top: 4pt;padding-bottom: 4pt;text-indent: 0pt;text-align: center;">
 <span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn"  target="_blank"> yinjunjie@seu.edu.cn </a>|
 <span class="icon-home"></span><a href="http://jyin.me/" target="_blank"> http://jyin.me/  </a>|  
 <span class="icon-location"></span><a href="https://goo.gl/maps/dAt5Wcjd8imvuJu48" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
-</p><br>
+</p>
 
 <h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education                             <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></h2>
-
-<h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education</h2>
-<hr style="background-color:blue; height:1px; border:none;"></hr>
 
 <p style="padding-top: 1pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">Southeast University (SEU)                                               
 <span class="s5">Nanjing</span></p>
