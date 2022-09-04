@@ -58,9 +58,8 @@ sitemap: false
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52106262.02119554!2d116.56047269357057!3d37.14523629355825!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31acb187919b49e7!2sSoutheast%20University%20%EF%BC%88Sipailou%20Campus%EF%BC%89%20Library!5e0!3m2!1sen!2sjp!4v1662271361857!5m2!1sen!2sjp" width="100%" height="80%" style="border:0; float: center;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52106262.01675767!2d116.5604727!3d37.1452363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31acb187919b49e7!2sSoutheast%20University%20%EF%BC%88Sipailou%20Campus%EF%BC%89%20Library!5e0!3m2!1sen!2sjp!4v1662272258730!5m2!1sen!2sjp" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52106262.01675767!2d116.5604727!3d37.1452363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31acb187919b49e7!2sSoutheast%20University%20%EF%BC%88Sipailou%20Campus%EF%BC%89%20Library!5e0!3m2!1sen!2sjp!4v1662272258730!5m2!1sen!2sjp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52106262.01675767!2d116.5604727!3d37.1452363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31acb187919b49e7!2sSoutheast%20University%20%EF%BC%88Sipailou%20Campus%EF%BC%89%20Library!5e0!3m2!1sen!2sjp!4v1662272441978!5m2!1sen!2sjp" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52106262.01675767!2d116.5604727!3d37.1452363!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31acb187919b49e7!2sSoutheast%20University%20%EF%BC%88Sipailou%20Campus%EF%BC%89%20Library!5e0!3m2!1sen!2sjp!4v1662272441978!5m2!1sen!2sjp" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
