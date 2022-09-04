@@ -8,7 +8,36 @@ hide_description: false
 menu: true
 sitemap: false
 ---
+<style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+ 
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+ 
+        .container{
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+        <div class = "container"  >
+        <iframe src ="http://www.baidu.com"  id="info-frame"  width="100%" height="100%" ></iframe>  
+        </div>
+ 
+</body>
 
+————————————————
+版权声明：本文为CSDN博主「我喜欢山，也喜欢海」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_34093082/article/details/103194804
+
+
+<body>
 <object data="/assets/files/Résumé_junjie_yin.pdf" type="application/pdf" width="100%">
 <p><b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it: 
 <a href="/assets/files/Résumé_junjie_yin.pdf">Download PDF</a>.</p>
@@ -18,4 +47,5 @@ sitemap: false
 
 
 <iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="200%" width="100%"></iframe>
+</body>
 aaaaaaaaaaaaaaaaaaaaa
