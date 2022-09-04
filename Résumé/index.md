@@ -44,7 +44,7 @@ sitemap: false
 <p class="s2" style="padding-top: 12pt;text-indent: 0pt;text-align: center;">
 <span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn" class="a" target="_blank"> yinjunjie@seu.edu.cn </a>|
 <span class="icon-home"></span><a href="http://jyin.me/" class="a" target="_blank"> http://jyin.me/  </a>|  
-<span class="icon-location"></span><a href="https://goo.gl/maps/h1e5euk2qkUgcbhdA" class="a" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
+<span class="icon-location"></span><a href="https://goo.gl/maps/R4NpWG4RUbMs48hX9" class="a" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
 </p>
 
 <h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education                             <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></h2>
