@@ -39,9 +39,9 @@ sitemap: false
 <h1 style="padding-top: 4pt;text-indent: 0pt;text-align: center;">Junjie Yin</h1>
 
 <p class="s2" style="padding-top: 4pt;padding-bottom: 4pt;text-indent: 0pt;text-align: center;">
-<span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn"  target="_blank"> yinjunjie@seu.edu.cn </a>|
-<span class="icon-home"></span><a href="http://jyin.me/" target="_blank"> http://jyin.me/  </a>|  
-<span class="icon-location"></span><a href="https://goo.gl/maps/dAt5Wcjd8imvuJu48" target="_blank"> No.2 Sipailou, Nanjing, China  </a>  <br>
+<span class="icon-envelope"></span>&nbsp;<a href="mailto:yinjunjie@seu.edu.cn"  target="_blank"> yinjunjie@seu.edu.cn </a>&nbsp;|&nbsp;
+<span class="icon-home"></span>&nbsp;<a href="http://jyin.me/" target="_blank">http://jyin.me/</a>&nbsp;|&nbsp;  
+<span class="icon-location"></span>&nbsp;<a href="https://goo.gl/maps/dAt5Wcjd8imvuJu48" target="_blank">No.2 Sipailou, Nanjing, China</a>  <br>
 </p>
 
 <h2 style="padding-left: 5pt;text-indent: 0pt;text-align: left;">Education                             <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u></h2>
