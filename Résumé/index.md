@@ -28,7 +28,7 @@ sitemap: false
 
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Junjie Yin-resume</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
- h1 { color: #333; font-family:"Gill Sans MT", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 27.5pt; }
+ h1 { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 27.5pt; }
  .s1 { color: #333; font-family:FontAwesome, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
  .a { color: #333; font-family:"Gill Sans MT", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
  .s2 { color: #333; font-family:"Gill Sans MT", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
@@ -55,9 +55,9 @@ sitemap: false
 </style></head>
 
 <body>
-<h1 style="padding-top: 4pt;padding-left: 121pt;text-indent: 0pt;text-align: center;"><a name="bookmark0">Junjie Yin</a></h1>
+<h1 style="padding-top: 4pt;text-indent: 0pt;text-align: center;"><a name="bookmark0">Junjie Yin</a></h1>
 
-<p class="s2" style="padding-top: 12pt;padding-left: 121pt;text-indent: 0pt;text-align: center;"><span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn" class="a" target="_blank">yinjunjie@seu.edu.cn  </a>  |
+<p class="s2" style="padding-top: 12pt;text-indent: 0pt;text-align: center;"><span class="icon-envelope"></span><a href="mailto:yinjunjie@seu.edu.cn" class="a" target="_blank">yinjunjie@seu.edu.cn  </a>  |
 <span class="icon-home"></span><a href="http://jyin.me/" class="s1" target="_blank"> http://jyin.me/  </a>|  
 <span class="s3"> <span class="icon-location" style="font-sizs:8pt"></span>  </span>No.2 Sipailou, Nanjing, China</p><p style="text-indent: 0pt;text-align: left;"><br/></p>
 
