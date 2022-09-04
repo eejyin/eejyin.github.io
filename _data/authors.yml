@@ -8,7 +8,14 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Open `_data/authors.yml` to edit this text.
+
+    <a style="font-size:20px;">Junjie Yin</a><br> 
+    Master's Degree in Electrical Engineering <br><br>
+    Southeast University <br> 
+    No.2 Sipailou  <br>  
+    Nanjing 210096, China <br> 
+
+
 
   # This photo will be used in the about section
   picture:
