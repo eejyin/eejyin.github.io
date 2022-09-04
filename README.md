@@ -153,3 +153,16 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 ```
 
 inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{\e_{a}}  $
+
+
+
+<object data="/assets/files/Résumé_junjie_yin.pdf" type="application/pdf" width="100%">
+<p><b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it: 
+<a href="/assets/files/Résumé_junjie_yin.pdf">Download PDF</a>.</p>
+ </object>
+
+<embed src="/assets/files/Résumé_junjie_yin.pdf" type="application/pdf" width="100%" height="100%">
+
+
+<iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="100%" width="100%"><p><b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it: 
+<a href="/assets/files/Résumé_junjie_yin.pdf">Download PDF</a>.</p></iframe>
