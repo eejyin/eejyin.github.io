@@ -30,12 +30,6 @@ sitemap: false
         <iframe src ="http://www.baidu.com"  id="info-frame"  width="100%" height="100%" ></iframe>  
         </div>
  
-</body>
-
-
-
-
-<body>
 <object data="/assets/files/Résumé_junjie_yin.pdf" type="application/pdf" width="100%">
 <p><b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it: 
 <a href="/assets/files/Résumé_junjie_yin.pdf">Download PDF</a>.</p>
