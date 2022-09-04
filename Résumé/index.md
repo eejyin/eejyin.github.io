@@ -13,8 +13,8 @@ sitemap: false
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Junjie Yin-resume</title><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
  h1 { color: #131927; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 27.5pt; }
- .a { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
- h2 { color: #131927; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 16pt; }
+ .a { color: #333; font-family:"Nunito Sans", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 15pt; }
+ h2 { color: #131927; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 20pt; }
  .p, p { color: #404040; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; margin:0pt; }
  .s5 { color: #131927; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 11pt; float: right;}
  .s6 { color: #5D5D5D; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
