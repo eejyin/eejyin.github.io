@@ -55,12 +55,11 @@ sitemap: false
 </div>
 
 
-<h3 class="h2" style="color: rgb(1,92,171)" id="Journal-Article">Conference Articles</h3>
+<h3 class="h2" style="color: rgb(1,92,171)">Conference Articles</h3>
 <div>
 <ol>
 
 <li><p>
-<div>
     <div>
     W. Zhang, W. Xu,  Y. Hu, <b>J. Yin</b>. "
   Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub,"
