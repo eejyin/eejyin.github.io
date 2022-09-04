@@ -36,6 +36,10 @@ Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
 so that your content remains compatible with other Jekyll themes.
 
+* this unordered seed list will be replaced by the toc
+{:toc}
+
+
 ## Large Tables
 
 | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  | Default aligned |Left aligned| Center aligned  | Right aligned  |
