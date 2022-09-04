@@ -47,3 +47,10 @@ sitemap: false
 <iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="200%" width="100%"></iframe>
 </body>
 aaaaaaaaaaaaaaaaaaaaa
+
+<iframe src="/assets/files/Résumé_junjie_yin.pdf" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
