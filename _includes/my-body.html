@@ -170,8 +170,10 @@ Example code for using Matamo as alternative analytics solution.
 <!-- incorporate typewriter.js -->
 <script type="text/javascript">
   document.getElementsByClassName("sidebar-about")[0].children[2].innerHTML = "<span class='sr-only'></span><span id='mytag' aria-hidden='true'></span>";
-  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "2 rem"; 
-  document.getElementsByClassName("sidebar-about")[0].children[2].style.color = "#ffffff"; 
+  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontSize = "20 px"; 
+  document.getElementsByClassName("sidebar-about")[0].children[2].style.color = "#f3f6f4"; 
+  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontFamily = "Nunito Sans"; 
+  document.getElementsByClassName("sidebar-about")[0].children[2].style.fontWeight = "normal";
   var typewriter = new Typewriter(mytag, {
     loop: false,
     delay: 55,
