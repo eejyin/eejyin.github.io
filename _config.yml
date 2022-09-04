@@ -70,11 +70,11 @@ menu:
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             LICENSE
-    url:               /LICENSE/
+    url:               /LICENSE
   - title:             NOTICE
-    url:               /NOTICE/
+    url:               /NOTICE
   - title:             THANKS
-    url:               /THANKS/
+    url:               /THANKS
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2022. All rights reserved.
