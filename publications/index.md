@@ -63,7 +63,7 @@ sitemap: false
     <div>
     W. Zhang, W. Xu,  Y. Hu, <b>J. Yin</b>. "
   Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub,"
-   <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, Xining, China, pp. 789-794, Jul. 2022.<br>
+   <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, pp. 789-794, Xining, China, Jul. 2022.<br>
    [<a href="/assets/files/ICPET2022.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [Oral Presenter] &nbsp;
    [<a href="http://www.icpet.org/" target="_blank">Link</a>] &nbsp;
@@ -74,7 +74,7 @@ sitemap: false
   <div>
     S. Jiang, Y. Wang, D. Wang, <b>J. Yin*</b>, H. Yan and J. Wang. "
   Reliability Assessment of Distribution Network Considering Differentiated End-Users Demand for Reliability,"
-   <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, Guilin, China, pp. 012026-012032, Nov. 2020.<br>
+   <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, pp. 012026-012032, Guilin, China, Nov. 2020.<br>
    [<a href="/assets/files/Reliability assessment of distribution network considering differentiated end-users demand for reliability.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="/assets/files/SGEE2020_poster.pdf" target="_blank"> Poster</a>] &nbsp;
    [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank">Link</a>] &nbsp;
