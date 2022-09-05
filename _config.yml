@@ -61,7 +61,7 @@ menu:
     url:               /Résumé/
   - title:             PUBLICATIONS
     url:               /publications/
-      - title:         PROJECTS
+  - title:             PROJECTS
     url:               /projects/
   - title:             EXPERIENCE 
     url:               /docs/
