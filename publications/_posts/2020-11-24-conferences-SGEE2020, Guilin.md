@@ -1,26 +1,26 @@
 ---
 layout: post
-title: conferences2IEEE ACCESS - M2M
+title: SGEE2020, Guilin - Reliability assessment of distribution network
 description: >
-  A page showing Hydejack-specific markdown content.
+  Feel free to download <a href="/assets/files/Reliability assessment of distribution network considering differentiated end-users demand for reliability.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé PDF</a>.
 image: 
-  path: /assets/img/blog/frontiers.jpg
+  path: /assets/img/blog/ICPET2022.png
   srcset:
-    1060w: /assets/img/blog/frontiers.jpg
-    530w:  /assets/img/blog/frontiers@0,5x.jpg
-    265w:  /assets/img/blog/frontiers@0,25x.jpg
+    1060w: /assets/img/blog/ICPET2022.png
+    530w:  /assets/img/blog/ICPET2022.png
+    265w:  /assets/img/blog/ICPET2022.png
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
   - /example/2012-02-07-example-content/
-sitemap: false
 cover: false
-permalink: /publications/conferences/M2M
-related_posts: /2021-09-15-publications-Frontiers in Energy
+permalink: /publications/conferences/Guilin2020
+comments: false
+#invert_sidebar: true
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
+* this unordered seed list will be replaced by the toc
+{:toc}
+
 
 ## Large Tables
 

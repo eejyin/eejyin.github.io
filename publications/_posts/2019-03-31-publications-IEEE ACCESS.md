@@ -1,45 +1,20 @@
 ---
 layout: post
-title: conferences1Frontiers in Energy Research - Integrated Energy System
+title: IEEE ACCESS - M2M Communication
 description: >
-  A page showing Hydejack-specific markdown content.
+  Feel free to download <a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
   path: /assets/img/blog/frontiers.jpg
-  srcset:
-    1060w: /assets/img/blog/frontiers.jpg
-    530w:  /assets/img/blog/frontiers@0,5x.jpg
-    265w:  /assets/img/blog/frontiers@0,25x.jpg
 related_posts:
-  - example/_posts/2017-11-23-example-content-ii.md
-  - /example/2012-02-07-example-content/
+  - /publications/IES
 sitemap: false
-cover: false
-permalink: /publications/conferences/IES
-comments: false
-#invert_sidebar: true
+cover: true
+permalink: /publications/2019M2M
 ---
-
-
-<embed src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" type="application/pdf" width="100%" height="100%">
-
-
-<iframe src="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" height="100%" width="100%"></iframe>
-aaaaaaaaaaaaaaaaaaaaa
-
-<object data="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf#page=2" type="application/pdf" width="100%" height="300rem">
-<p><b>Example fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: 
-<a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf">Download PDF</a>.</p>
-</object>
-
-
 
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
 so that your content remains compatible with other Jekyll themes.
-
-* this unordered seed list will be replaced by the toc
-{:toc}
-
 
 ## Large Tables
 

@@ -1,26 +1,22 @@
 ---
 layout: post
-title: IEEE ACCESS - M2M
+title: ICPET2022 - Compressed Air Energy Storage
 description: >
-  A page showing Hydejack-specific markdown content.
+  Feel free to download <a href="/assets/files/ICPET2022.png.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
-  path: /assets/img/blog/frontiers.jpg
-  srcset:
-    1060w: /assets/img/blog/frontiers.jpg
-    530w:  /assets/img/blog/frontiers@0,5x.jpg
-    265w:  /assets/img/blog/frontiers@0,25x.jpg
+  path: /assets/img/blog/ICPET2022.png
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
   - /example/2012-02-07-example-content/
-sitemap: false
-cover: true
-permalink: /publications/journals//M2M
-related_posts: /2021-09-15-publications-Frontiers in Energy
+cover: false
+permalink: /publications/ICPET2022
+comments: false
+#invert_sidebar: true
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
+* this unordered seed list will be replaced by the toc
+{:toc}
+
 
 ## Large Tables
 
