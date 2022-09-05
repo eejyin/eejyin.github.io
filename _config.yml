@@ -61,10 +61,11 @@ menu:
     url:               /Résumé/
   - title:             PUBLICATIONS
     url:               /publications/
+      - title:         PROJECTS
+    url:               /projects/
   - title:             EXPERIENCE 
     url:               /docs/
-  - title:             RESEARCH PROJECTS
-    url:               /projects/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
