@@ -61,10 +61,10 @@ menu:
     url:               /Résumé/
   - title:             PUBLICATIONS
     url:               /publications/
-  - title:             PROJECTS
+  - title:             RESEARCH PROJECTS
     url:               /projects/
   - title:             EXPERIENCE 
-    url:               /docs/
+    url:               /projects/
 
 
 # Add links to the footer.
