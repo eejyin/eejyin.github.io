@@ -1,17 +1,26 @@
 ---
-layout: list
-title: projects/_post/Example Content III
+layout: post
+title: SGEE2020, Guilin - Reliability assessment of distribution network
 description: >
-  A page showing Hydejack-specific markdown content.
-image: /assets/img/blog/example-content-iii.jpg
-noindex: true
-categories: [projects]
-tags:       [jekyll, update]
+  Feel free to download <a href="/assets/files/Reliability assessment of distribution network considering differentiated end-users demand for reliability.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé PDF</a>.
+image: 
+  path: /assets/img/blog/ICPET2022.png
+  srcset:
+    1060w: /assets/img/blog/ICPET2022.png
+    530w:  /assets/img/blog/ICPET2022.png
+    265w:  /assets/img/blog/ICPET2022.png
+related_posts:
+  - example/_posts/2017-11-23-example-content-ii.md
+  - /example/2012-02-07-example-content/
+cover: false
+permalink: /publications/conferences/Guilin2020
+comments: false
+#invert_sidebar: true
 ---
 
-Hydejack offers a few additional features to markup your markdown.
-Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
-so that your content remains compatible with other Jekyll themes.
+* this unordered seed list will be replaced by the toc
+{:toc}
+
 
 ## Large Tables
 
@@ -42,7 +51,7 @@ adder(2, 6);
 
 
 ## Math
-Lorem ipsum $$ f(x) = x^2 $$ $$\LaTeX$$.
+Lorem ipsum $$ f(x) = x^2 $$.
 
 $$
 \begin{aligned}
@@ -72,10 +81,10 @@ You can add large text.
 {:.lead}
 
 ## Large images
-![Full-width image](https://junjie-yin.github.io/assets/img/blog/example-content-iii.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
 
 ## Captions to images
-![Full-width image](https://junjie-yin.github.io/assets/img/blog/example-content-ii.jpg){:.lead data-width="800" data-height="100"}
+![Full-width image](https://via.placeholder.com/800x100){:.lead width="800" height="100"}
 A caption to an image.
 {:.figure}
 
@@ -86,41 +95,6 @@ A caption to an image.
 ## Faded text
 I'm faded, faded, faded.
 {:.faded}
-
-## Mathjax
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {inlineMath: [['$', '$']]},
-        messageStyle: "none"
-    });
-</script>
-
-
-```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {inlineMath: [['$', '$']]},
-        messageStyle: "none"
-    });
-</script>
-```
-
-<p>Code snippet for addition of two numbers in javascript</p>
-<pre>
-  <code class="css">
-    function add (a,b) {
-    sum = a + b;
-    return sum;
-    }
-  </code>
-</pre>
-
-inline `tex`    $ \frac{\sum x^2}{\max \pi} > \sqrt{e_a}  $
 
 
 [mm]: https://guides.github.com/features/mastering-markdown/

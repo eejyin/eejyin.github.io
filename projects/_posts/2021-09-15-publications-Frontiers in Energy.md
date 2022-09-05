@@ -1,26 +1,25 @@
 ---
 layout: post
-title: SGEE2020, Guilin - Reliability assessment of distribution network
+title: Frontiers in Energy Research - Integrated Energy System
 description: >
-  Feel free to download <a href="/assets/files/Reliability assessment of distribution network considering differentiated end-users demand for reliability.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé PDF</a>.
+  A page showing Hydejack-specific markdown content.
 image: 
-  path: /assets/img/blog/ICPET2022.png
+  path: /assets/img/blog/frontiers.jpg
   srcset:
-    1060w: /assets/img/blog/ICPET2022.png
-    530w:  /assets/img/blog/ICPET2022.png
-    265w:  /assets/img/blog/ICPET2022.png
+    1060w: /assets/img/blog/frontiers.jpg
+    530w:  /assets/img/blog/frontiers@0,5x.jpg
+    265w:  /assets/img/blog/frontiers@0,25x.jpg
 related_posts:
-  - example/_posts/2017-11-23-example-content-ii.md
-  - /example/2012-02-07-example-content/
-cover: false
-permalink: /publications/SGEE2020
-comments: false
-#invert_sidebar: true
+  - /publications/2019M2M
+  - /publications/journals/2021IES
+sitemap: false
+cover: true
+permalink: /publications/2021IES
 ---
 
-* this unordered seed list will be replaced by the toc
-{:toc}
-
+Hydejack offers a few additional features to markup your markdown.
+Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,
+so that your content remains compatible with other Jekyll themes.
 
 ## Large Tables
 

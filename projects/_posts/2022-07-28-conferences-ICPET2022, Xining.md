@@ -1,19 +1,15 @@
 ---
 layout: post
-title: SGEE2020, Guilin - Reliability assessment of distribution network
+title: ICPET2022 - Compressed Air Energy Storage
 description: >
-  Feel free to download <a href="/assets/files/Reliability assessment of distribution network considering differentiated end-users demand for reliability.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé PDF</a>.
+  Feel free to download <a href="/assets/files/ICPET2022.png.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
   path: /assets/img/blog/ICPET2022.png
-  srcset:
-    1060w: /assets/img/blog/ICPET2022.png
-    530w:  /assets/img/blog/ICPET2022.png
-    265w:  /assets/img/blog/ICPET2022.png
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
   - /example/2012-02-07-example-content/
 cover: false
-permalink: /publications/SGEE2020
+permalink: /publications/ICPET2022
 comments: false
 #invert_sidebar: true
 ---
