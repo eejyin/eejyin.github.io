@@ -15,7 +15,7 @@ sitemap: false
 <div>
 <ol ><li><p>
   <div>
-    <b>J. Yin</b>, J. Wang*, J. You, H. Chen, and W. Shi. "
+    <b>J. Yin</b>, J. Wang, J. You, H. Chen, and W. Shi. "
   Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
    <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
    [<a href="/assets/files/Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
