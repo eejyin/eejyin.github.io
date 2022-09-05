@@ -104,7 +104,7 @@ sitemap: false
 <div>
 <ol ><li><p>
   <div>
-    <b>J. Yin</b>. "Research on Transient Stability of Grid-connected Converter," Master Thesis, Southeast University, Nanjing, June 2023. (To be expected)
+    <b>J. Yin</b>. "Research on Transient Stability of Grid-connected Converter," Master Thesis, Southeast University, Nanjing, June 2023. (To be expected)<br>
     Supervisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang in SEU" target="_blank">Prof. Jianhua Wang</a>  
   </div>
 </p></li>
