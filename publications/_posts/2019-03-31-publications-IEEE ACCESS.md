@@ -44,7 +44,7 @@ Each CUE occupies one orthogonal spectrum sub-channel of equal bandwidth to perf
 Each M2M pair is composed of a M2M transmitter (MT) and a M2M receiver (MR). 
 To implement the cognitive M2M communication, each M2M pair has to reuse the sub-channel allocated to a CUE.  Denote the sets of M2M pairs as $\mathcal {M}= \lbrace M_1, M_2, \ldots, M_n,\ldots, M_N\rbrace$ and the sets of corresponding indices as $\mathcal {N}= \lbrace 1, 2,\ldots, n,\ldots, N\rbrace$. And the sets of MTs and MRs of M2M pairs are denoted as $\mathcal {MT}= \lbrace MT_1, MT_2, \ldots, MT_n,\ldots, MT_N\rbrace$, $\mathcal {MR}= \lbrace MR_1, MR_2, \ldots, MR_n,\ldots, MR_N\rbrace$, respectively.
 <br>
-A M2M pair is allowed to reuse the CUE's sub-channel for data dissemination if and only if certain constraints are satisfied, \textit{e.g.}, the rate and the delay constraints. Intuitively, a CUE is more willing to share its sub-channel with a M2M pair, which causes  less interference to it and is more likely to refuse the request of a M2M pair, which causes serious interference.
+A M2M pair is allowed to reuse the CUE's sub-channel for data dissemination if and only if certain constraints are satisfied, <i>e.g.</i>, the rate and the delay constraints. Intuitively, a CUE is more willing to share its sub-channel with a M2M pair, which causes  less interference to it and is more likely to refuse the request of a M2M pair, which causes serious interference.
 </p>
 
 ---
