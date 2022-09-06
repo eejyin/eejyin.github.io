@@ -31,7 +31,6 @@ menu: true
     [<a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
    <strong><span  style="float: right;">Continue reading <a href="/publications/2019M2M">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
-   [2021IES]{:.heading.flip-title}
   </div>
 </p></li>
 
@@ -117,7 +116,3 @@ menu: true
   </div>
 </p></li></ol>
 </div>
-
-
-
-[2021IES]: _posts/2021-09-15-publications-Frontiers%20in%20Energy.md
