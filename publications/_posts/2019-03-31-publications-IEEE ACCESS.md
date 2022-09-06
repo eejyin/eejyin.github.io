@@ -16,8 +16,8 @@ permalink: /publications/2019M2M
 
 ## Highlights
 
-* A novel QoE-oriented uplink rate control and resource allocation schemes is propesed, for IoT using time-varying channels.
-* Mean Opinion Score (MOS) model is designed to measure the degree of Quality of Experience (QoE).
+* A novel QoE-oriented uplink **rate control and resource allocation** schemes is propesed, for IoT using time-varying channels.
+* **Mean Opinion Score (MOS)** model is designed to measure the degree of Quality of Experience (QoE).
 * The original long-term optimization problem is converted into admission rate control subproblem and resource allocation subproblem in each time slot, based on the **Lyapunov optimization**.
 * **Gale-Shapley matching** is utilized, with exploiting the special structure of the resource allocation subproblem.
 
@@ -35,4 +35,6 @@ and the data from the outside arrives at the machine transmitter at each time sl
 
 ## Abstract
 
+<p style="align: justify;">
 With the development of wireless communication systems, it is particularly essential to maximize the quality of experience (QoE) of machine-to-machine (M2M) communication. In this paper, we propose a new QoE-oriented uplink rate control and resource allocation scheme for the Internet of Things (IoT) network, by introducing an evaluation model based on mean opinion score (MOS) for different machine-type communication (MTC) devices. The existing works are only dedicated to solving the short-term resource allocation problems by considering the current transmission time slots, which cannot handle long-standing problems. To this end, based on the recently developed Lyapunov optimization, we convert the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot. To solve the joint power optimization and sub-channel selection subproblems, Gale-Shapley algorithm is utilized to formulate it as a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR). In the proposed algorithms, a priority mechanism is employed to ensure fairness. The simulation results demonstrate that without prior knowledge of the data arrivals and sub-channel statistics, the proposed algorithms can significantly improve the overall perceived quality from the users' perspective.
+</p>
