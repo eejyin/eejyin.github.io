@@ -29,7 +29,7 @@ related_posts:
 
 ## Scenario
 
-![Full-width image](/assets/img/blog/M2M-1.png){:.lead width="60%"}
+![](/assets/img/blog/M2M-1.png){:.lead width="60%"}
 FIGURE 1. System model of M2M-based uplink IoT network.
 {:.figure}  
 
