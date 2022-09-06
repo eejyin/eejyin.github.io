@@ -30,7 +30,9 @@ related_posts:
 ## Scenario
 
 ![Full-width image](/assets/img/blog/M2M-1.png){:.lead width="400" loading="lazy"}
-<img src="/assets/img/blog/M2M-1.png" width="60%">
+<img src="/assets/img/blog/M2M-1.png" width="60%" title="FIGURE 1. System model of M2M-based uplink IoT network.">
+
+<img src="/assets/img/blog/M2M-1.png" width="80%"><br>
 FIGURE 1. System model of M2M-based uplink IoT network.
 {:.figure}  
 
