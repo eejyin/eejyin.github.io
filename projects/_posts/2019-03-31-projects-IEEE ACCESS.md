@@ -9,7 +9,7 @@ related_posts:
   - /publications/IES
 sitemap: false
 cover: true
-permalink: /publications/2019M2M
+permalink: /projects/2019M2M
 ---
 
 Hydejack offers a few additional features to markup your markdown.

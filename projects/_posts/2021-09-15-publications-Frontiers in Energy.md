@@ -14,7 +14,7 @@ related_posts:
   - /publications/journals/2021IES
 sitemap: false
 cover: true
-permalink: /publications/2021IES
+permalink: /projects/2021IES
 ---
 
 Hydejack offers a few additional features to markup your markdown.
