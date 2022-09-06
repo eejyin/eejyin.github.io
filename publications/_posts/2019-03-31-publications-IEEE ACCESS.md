@@ -51,6 +51,9 @@ With the development of wireless communication systems, it is particularly essen
 
 ## Algorithm
 
+<img src="/assets/img/blog/M2Mmatching.png" width="80%"><br>
+
+```latex
 \begin{algorithm}[!htbp]
 	\caption{Gale-Shapley-based resource allocation algorithm}
 	\begin{algorithmic}[1]
@@ -69,10 +72,9 @@ With the development of wireless communication systems, it is particularly essen
 		\STATE the considered subchannel cannot be assigned to the M2M pair
 		\ENDIF
 		\STATE The matching results of the n couples  are declared
-		
 	\end{algorithmic}
 \end{algorithm}
-
+```
 
 ---
 
