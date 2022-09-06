@@ -19,7 +19,6 @@ comments: false
                                                                                         
                                                                                    
 -->
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
 
 <h3 class="h2" style="color: rgb(1,92,171)">Current Projects</h3>
 <div>
@@ -81,31 +80,32 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
     <strong>RESEARCH ON INTERACTION AND COUPLING CHARACTERISTICS OF MULTI-ENERGY FLOW IN INTEGRATED ENERGY SYSTEM</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2019 - Dec. 2020 </a><br>
     
-    My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
+  My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
     
-    <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
+  <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
     -->
-    <b><span  style="float: right;">Continue reading <a href="/projects/#IES"  target="_blank">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
+  <b><span  style="float: right;">Continue reading <a href="/projects/#IES"  target="_blank">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
 
     
-    </div>
+  </div>
 
-    <br><br>
+  <br><br>
 
-    <div>
+  <div>
   
-      <strong>RESEARCH ON POWER INTERNET OF THINGS TECHNOLOGY FOR MASS TERMINAL ACCESS</strong><br>
+  <strong>RESEARCH ON POWER INTERNET OF THINGS TECHNOLOGY FOR MASS TERMINAL ACCESS</strong><br>
     <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2017 - Dec. 2019 </a><br>
       
-      大创也写进这个里面My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
       
-      <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
+  大创也写进这个里面My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
+      
+  <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
       -->
       
   
-      <b><span  style="float: right;">Continue reading <a href="/projects/#IES"  target="_blank">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
+  <b><span  style="float: right;">Continue reading <a href="/projects/#IES"  target="_blank">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
       
-      </div>
+  </div>
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
