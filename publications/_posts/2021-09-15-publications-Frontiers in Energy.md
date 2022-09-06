@@ -2,7 +2,7 @@
 layout: post
 title: Frontiers in Energy Research - Integrated Energy System
 description: >
-  Feel free to download <a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
+  Feel free to download <a href="/assets/files/2020FER-Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
   path: /assets/img/blog/frontiers.jpg
   srcset:
@@ -12,6 +12,7 @@ image:
 sitemap: false
 permalink: /publications/2021IES
 ---
+# Frontiers in Energy Research - Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks
 
 ## Highlights
 
