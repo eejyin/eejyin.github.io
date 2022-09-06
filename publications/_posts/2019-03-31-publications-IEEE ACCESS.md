@@ -11,6 +11,8 @@ image:
     265w:  /assets/img/blog/M2M@0.25x.jpg
 tags: [IEEE ACCESS]
 permalink: /publications/2019M2M
+related_posts:
+  - example/_posts/2017-11-23-example-content-ii.mdv
 ---
 # QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks
 
