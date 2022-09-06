@@ -28,9 +28,14 @@ permalink: /publications/2019M2M
 FIGURE 1. System model of M2M-based uplink IoT network.
 {:.figure}  
 
+<p style="text-align:justify;">
 As shown in Figure 1, we consider the uplink of a M2M-based IoT network, consisting of one centralized base station (BS), multiple cellular user equipments (CUEs), and potential M2M pairs. CUEs use orthogonal spectrum subchannels to communicate with the base station. Then,  M2M pairs can multiplex cellular user equipments' subchannels. In the network, there are N Machine-to-Machine pairs, K  Subchannels and K CUEs, the sets of which are denoted as $$\mathcal {M}= \lbrace M_1, \ldots, M_n,\ldots, M_N\rbrace$$, $$\mathcal {S}=\lbrace S_1,\ldots, S_k,\ldots, S_K\rbrace$$ and  $$\mathcal {C}= \lbrace C_1,\ldots, C_k,\ldots, C_K\rbrace$$, respectively. The sets of indices are denoted as $$\mathcal {N}= \lbrace 1, 2,\ldots, n,\ldots, N\rbrace$$ and $$\mathcal {K}= \lbrace 1, 2,\ldots, k,\ldots, K\rbrace$$, respectively.
+</p><br>
 
+
+<p style="text-align:justify;">
  Each M2M pair is formed by one machine transmitter (content provider) and one machine receiver (content consumer), and there exist some M2M-based machine transmitters and receivers, which are denoted as MTs and MRs, respectively. The OFDM network operates in a time-slotted manner with a time-slot index $$\mathcal {T}\in \{0, 1, 2, . . .\}$$. Each machine transmitter needs to send data to machine receiver, and the data from the outside arrives at the machine transmitter at each time slot.  In this paper, we assume that the peer discovery process of M2M pairs between transmitters and receivers is already finished and each CUE occupies one orthogonal spectrum subchannel. We focus on how to maximize the Mean Opinion Score (MOS) of all M2M pairs, which involves the joint optimization of admission rate control, transmission power allocation, and subchannel selection. 
+</p>
 
 ## Abstract
 
