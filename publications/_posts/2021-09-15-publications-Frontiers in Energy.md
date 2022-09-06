@@ -9,7 +9,7 @@ image:
     1060w: /assets/img/blog/frontiers.jpg
     530w:  /assets/img/blog/frontiers@0,5x.jpg
     265w:  /assets/img/blog/frontiers@0,25x.jpg
-tags: [Journals, Frontiers in Energy Research]
+tags: [Frontiers in Energy Research]
 permalink: /publications/2021IES
 ---
 # Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks
