@@ -30,7 +30,7 @@ related_posts:
 ## Scenario
 
 <img src="/assets/img/blog/IES.png" width="80%"><br>
-FIGURE 1. Scenario of coal district considering hydrogen heavy trucks and P2G equipment model of wind power to H2 and CH4.
+FIGURE 1. Coal district considering hydrogen heavy trucks and P2G equipment model of wind power to H2 and CH4.
 {:.figure}
 
 <p style="text-align:justify;">
