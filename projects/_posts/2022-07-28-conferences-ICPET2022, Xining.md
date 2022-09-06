@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ICPET2022 - Compressed Air Energy Storage
+title: projects
 description: >
   Feel free to download <a href="/assets/files/ICPET2022.png.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
