@@ -57,10 +57,10 @@ FIGURE 2. Schematic diagram of actual flow and variable symbols of P2G equipment
 | Impact on the grid    | Buffer                      | Relatively large             | No impact                  |
 | Energy sustainability | Promising                   | Depend on battery technology | Limited reserves           |
 | Emission              | Zero                        | Zero                         | High                       |
-| Single subsidy        | $54.6 \times 10^4$ \textyen | $5.5 \times 10^4$ \textyen   | $1.4 \times 10^4$ \textyen |
+| Single subsidy        | $54.6 \times 10^4$ ￥ | $5.5 \times 10^4$ ￥   | $1.4 \times 10^4$ ￥ |
 | Market share in 2030  | $>$50\%                     | $\approx$40\%                | $\approx$5\%               |
 | Fuel weight           | Very light                  | Relatively heavy             | Heavy                      |
-| Fuel cost in 2025     | 25\textyen/kg               | 1.0-1.6\textyen/kWh          | 50 \textyen/t              |
+| Fuel cost in 2025     | 25￥/kg               | 1.0-1.6￥/kWh          | 50 ￥/t              |
 | Fuel consumption      | 7 kg/km                     | 200 kWh/km                   | 30 L/km                    |
 
 

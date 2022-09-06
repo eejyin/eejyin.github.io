@@ -49,6 +49,33 @@ With the development of wireless communication systems, it is particularly essen
 
 ---
 
+## Algorithm
+
+\begin{algorithm}[!htbp]
+	\caption{Gale-Shapley-based resource allocation algorithm}
+	\begin{algorithmic}[1]
+	      \STATE$\mathcal {M}$: The set of M2M pairs 
+		\STATE$\mathcal {S}$: The set of subchannels
+		\FOR{$n=1$ to $| \mathcal {M}|$}
+	      \STATE sort the subchannels of each M2M pair according to  $R_{n}(t)$ in decreasing order
+	      \ENDFOR
+	      \FOR{$k=1$ to $| \mathcal {S}|$}
+	      \STATE sort the M2M pair of each subchannel according to  $ \gamma_{C_{k}}(t)$ in decreasing order
+	      \ENDFOR
+	      \STATE Apply the Gale-Shapley Algorithm to find  $\omega_n^k$
+		\IF{(the transmission rate for M2M pairs and the QoS for the cellular users can be both satisisfied)}
+		\STATE the considered subchannel is assigned to the M2M pair
+		\ELSE
+		\STATE the considered subchannel cannot be assigned to the M2M pair
+		\ENDIF
+		\STATE The matching results of the n couples  are declared
+		
+	\end{algorithmic}
+\end{algorithm}
+
+
+---
+
 ## Citation Map
 
 ![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%" loading="lazy"}
