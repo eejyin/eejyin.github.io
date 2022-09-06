@@ -16,6 +16,9 @@ related_posts:
 ---
 # QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks
 
+* this unordered seed list will be replaced by the toc 
+{: toc}
+
 ---
 
 ## Highlights
@@ -24,6 +27,12 @@ related_posts:
 * **Mean Opinion Score (MOS)** model is designed to measure the degree of Quality of Experience (QoE).
 * The original long-term optimization problem is converted into admission rate control subproblem and resource allocation subproblem in each time slot, based on the **Lyapunov optimization**.
 * **Gale-Shapley matching** is utilized, with exploiting the special structure of the resource allocation subproblem.
+
+---
+
+<p style="text-align:justify;">
+With the development of wireless communication systems, it is particularly essential to maximize the quality of experience (QoE) of machine-to-machine (M2M) communication. In this paper, we propose a new QoE-oriented uplink rate control and resource allocation scheme for the Internet of Things (IoT) network, by introducing an evaluation model based on mean opinion score (MOS) for different machine-type communication (MTC) devices. The existing works are only dedicated to solving the short-term resource allocation problems by considering the current transmission time slots, which cannot handle long-standing problems. To this end, based on the recently developed Lyapunov optimization, we convert the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot. To solve the joint power optimization and sub-channel selection subproblems, Gale-Shapley algorithm is utilized to formulate it as a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR). In the proposed algorithms, a priority mechanism is employed to ensure fairness. The simulation results demonstrate that without prior knowledge of the data arrivals and sub-channel statistics, the proposed algorithms can significantly improve the overall perceived quality from the users' perspective.</p>
+{:.note title="Attention"}
 
 ---
 
@@ -41,13 +50,6 @@ As shown in Figure 1, we consider the uplink of a M2M-based IoT network, consist
 
 ---
 
-## Abstract
-
-<p style="text-align:justify;">
-With the development of wireless communication systems, it is particularly essential to maximize the quality of experience (QoE) of machine-to-machine (M2M) communication. In this paper, we propose a new QoE-oriented uplink rate control and resource allocation scheme for the Internet of Things (IoT) network, by introducing an evaluation model based on mean opinion score (MOS) for different machine-type communication (MTC) devices. The existing works are only dedicated to solving the short-term resource allocation problems by considering the current transmission time slots, which cannot handle long-standing problems. To this end, based on the recently developed Lyapunov optimization, we convert the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot. To solve the joint power optimization and sub-channel selection subproblems, Gale-Shapley algorithm is utilized to formulate it as a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR). In the proposed algorithms, a priority mechanism is employed to ensure fairness. The simulation results demonstrate that without prior knowledge of the data arrivals and sub-channel statistics, the proposed algorithms can significantly improve the overall perceived quality from the users' perspective.
-</p>
-
----
 
 ## Algorithm
 
@@ -57,15 +59,15 @@ With the development of wireless communication systems, it is particularly essen
 \begin{algorithm}[!htbp]
 	\caption{Gale-Shapley-based resource allocation algorithm}
 	\begin{algorithmic}[1]
-	      \STATE$\mathcal {M}$: The set of M2M pairs 
+		\STATE$\mathcal {M}$: The set of M2M pairs 
 		\STATE$\mathcal {S}$: The set of subchannels
 		\FOR{$n=1$ to $| \mathcal {M}|$}
-	      \STATE sort the subchannels of each M2M pair according to  $R_{n}(t)$ in decreasing order
-	      \ENDFOR
-	      \FOR{$k=1$ to $| \mathcal {S}|$}
-	      \STATE sort the M2M pair of each subchannel according to  $ \gamma_{C_{k}}(t)$ in decreasing order
-	      \ENDFOR
-	      \STATE Apply the Gale-Shapley Algorithm to find  $\omega_n^k$
+		\STATE sort the subchannels of each M2M pair according to  $R_{n}(t)$ in decreasing order
+		\ENDFOR
+		\FOR{$k=1$ to $| \mathcal {S}|$}
+		\STATE sort the M2M pair of each subchannel according to  $ \gamma_{C_{k}}(t)$ in decreasing order
+		\ENDFOR
+		\STATE Apply the Gale-Shapley Algorithm to find  $\omega_n^k$
 		\IF{(the transmission rate for M2M pairs and the QoS for the cellular users can be both satisisfied)}
 		\STATE the considered subchannel is assigned to the M2M pair
 		\ELSE
@@ -77,6 +79,11 @@ With the development of wireless communication systems, it is particularly essen
 ```
 
 ---
+
+## Abstract
+
+
+
 
 ## Citation Map
 This paper has been cited 15 times, as of Sep. 6, 2022:
