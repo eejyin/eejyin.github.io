@@ -14,6 +14,8 @@ permalink: /publications/2021IES
 ---
 # Frontiers in Energy Research - Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks
 
+---
+
 ## Highlights
 
 * The application feasibility of **hydrogen heavy trucks** is discussed, in the typical scenario of coal districts.
