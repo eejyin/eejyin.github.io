@@ -40,5 +40,22 @@ As shown in Figure 1, we consider the uplink of a M2M-based IoT network, consist
 ## Abstract
 
 <p style="text-align:justify;">
-With the development of wireless communication systems, it is particularly essential to maximize the quality of experience (QoE) of machine-to-machine (M2M) communication. In this paper, we propose a new QoE-oriented uplink rate control and resource allocation scheme for the Internet of Things (IoT) network, by introducing an evaluation model based on mean opinion score (MOS) for different machine-type communication (MTC) devices. The existing works are only dedicated to solving the short-term resource allocation problems by considering the current transmission time slots, which cannot handle long-standing problems. To this end, based on the recently developed Lyapunov optimization, we convert the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot. To solve the joint power optimization and sub-channel selection subproblems, Gale-Shapley algorithm is utilized to formulate it as a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR). In the proposed algorithms, a priority mechanism is employed to ensure fairness. The simulation results demonstrate that without prior knowledge of the data arrivals and sub-channel statistics, the proposed algorithms can significantly improve the overall perceived quality from the users' perspective.
+With the development of wireless communication systems, it is particularly essential to maximize the quality of experience (QoE) of machine-to-machine (M2M) communication. In this paper, we propose a new QoE-oriented uplink rate control and resource allocation scheme for the Internet of Things (IoT) network, by introducing an evaluation model based on mean opinion score (MOS) for different machine-type communication (MTC) devices. The existing works are only dedicated to solving the short-term resource allocation problems by considering the current transmission time slots, which cannot handle long-standing problems. To this end, based on the recently developed Lyapunov optimization, we convert the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot. To solve the joint power optimization and sub-channel selection subproblems, Gale-Shapley algorithm is utilized to formulate it as a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR). In the proposed algorithms, a priority mechanism is employed to ensure fairness. The simulation results demonstrate that without prior knowledge of the data arrivals and sub-channel statistics, the proposed algorithms can significantly improve the overall perceived quality from the users' perspective. $ x < y $
 </p>
+
+
+
+<!-- 
+  ####################################################################
+  mathjax
+  ####################################################################
+-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML" async></script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {inlineMath: [['$', '$']]},
+        messageStyle: "none"
+    });
+</script>
