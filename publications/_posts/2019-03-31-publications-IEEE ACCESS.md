@@ -7,12 +7,11 @@ image:
   path: /assets/img/blog/M2M.jpg
     srcset:
     1060w: /assets/img/blog/M2M.jpg
-    530w:  /assets/img/blog/M2M@0,5x.jpg
-    265w:  /assets/img/blog/M2M@0,25x.jpg
+    530w:  /assets/img/blog/M2M@0.5x.jpg
+    265w:  /assets/img/blog/M2M@0.25x.jpg
 related_posts:
   - /publications/IES
 sitemap: false
-cover: true
 permalink: /publications/2019M2M
 ---
 
