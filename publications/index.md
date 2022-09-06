@@ -54,6 +54,8 @@ menu: true
 </div>
 
 
+---
+
 <h3 class="h2" style="color: rgb(1,92,171)">Conference Articles</h3>
 <div>
 <ol>
@@ -101,6 +103,8 @@ menu: true
 </ol>
 </div>
 
+---
+
 <h3 class="h2" style="color: rgb(1,92,171)">Thesis</h3>
 <div>
 <ol ><li><p>
@@ -117,7 +121,7 @@ menu: true
 </p></li></ol>
 </div>
 
-
+---
 
 ## Citation Map
 
