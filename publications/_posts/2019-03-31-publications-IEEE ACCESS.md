@@ -29,9 +29,6 @@ related_posts:
 
 ## Scenario
 
-![Full-width image](/assets/img/blog/M2M-1.png){:.lead width="400" loading="lazy"}
-<img src="/assets/img/blog/M2M-1.png" width="60%" title="FIGURE 1. System model of M2M-based uplink IoT network.">
-
 <img src="/assets/img/blog/M2M-1.png" width="80%"><br>
 FIGURE 1. System model of M2M-based uplink IoT network.
 {:.figure}  
@@ -54,7 +51,7 @@ With the development of wireless communication systems, it is particularly essen
 
 ## Citation Map
 
-![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%"}
+![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%" loading="lazy"}
 This paper has been cited 15 times (as of Sep. 6, 2022).
 {:.figure}  
 
