@@ -9,7 +9,7 @@ image:
     1060w: /assets/img/blog/frontiers.jpg
     530w:  /assets/img/blog/frontiers@0,5x.jpg
     265w:  /assets/img/blog/frontiers@0,25x.jpg
-tags: [Frontiers in Energy Research]
+tags: []
 permalink: /publications/2021IES
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.md
