@@ -9,7 +9,7 @@ image:
     1060w: /assets/img/blog/M2M.jpg
     530w:  /assets/img/blog/M2M@0.5x.jpg
     265w:  /assets/img/blog/M2M@0.25x.jpg
-tags: [IEEE ACCESS]
+tags: []
 permalink: /publications/2019M2M
 related_posts:
   - example/_posts/2017-11-23-example-content-ii.mdv
