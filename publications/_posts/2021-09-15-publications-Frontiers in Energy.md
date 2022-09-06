@@ -54,17 +54,17 @@ FIGURE 2. Schematic diagram of actual flow and variable symbols of P2G equipment
 ## Comparison of heavy trucks with different power types
 
 |                       | Hydrogen truck              | Electric vehicle(EV)         | Diesel oil truck           |
-|-----------------------|-----------------------------|------------------------------|----------------------------|
+|:--------------------- |:----------------------------|:-----------------------------|:---------------------------|
 | Filling time          | 10-15 min                   | Several hours                | 10-15 min                  |
 | Recharge mileage      | 500-750 mile                | 100-300 mile                 | 500-750 mile               |
 |                       | (Long-distance freight)     | (Short-distance freight)     |                            |
 | Impact on the grid    | Buffer                      | Relatively large             | No impact                  |
 | Energy sustainability | Promising                   | Depend on battery technology | Limited reserves           |
 | Emission              | Zero                        | Zero                         | High                       |
-| Single subsidy        | $54.6 \times 10^4$ ￥ | $5.5 \times 10^4$ ￥   | $1.4 \times 10^4$ ￥ |
-| Market share in 2030  | $>$50\%                     | $\approx$40\%                | $\approx$5\%               |
+| Single subsidy        | 54.6 × 10$^4$ ￥            | 5.5 × 10$^4$ ￥              | 1.4 × 10$^4$ ￥             |
+| Market share in 2030  | >5 0%                       | $\approx$40\%                | $\approx$5\%               |
 | Fuel weight           | Very light                  | Relatively heavy             | Heavy                      |
-| Fuel cost in 2025     | 25￥/kg               | 1.0-1.6￥/kWh          | 50 ￥/t              |
+| Fuel cost in 2025     | 25￥/kg                     | 1.0-1.6￥/kWh                 | 50 ￥/t                    |
 | Fuel consumption      | 7 kg/km                     | 200 kWh/km                   | 30 L/km                    |
 
 
