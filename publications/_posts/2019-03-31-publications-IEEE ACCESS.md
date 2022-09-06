@@ -12,7 +12,7 @@ image:
 tags: [Journals, IEEE ACCESS]
 permalink: /publications/2019M2M
 ---
-# IEEE ACCESS - QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks
+# QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks
 
 ---
 
