@@ -116,3 +116,11 @@ menu: true
   </div>
 </p></li></ol>
 </div>
+
+
+
+## Citation Map
+
+![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%" loading="lazy"}
+This paper has been cited 15 times (as of Sep. 6, 2022).
+{:.figure}  
