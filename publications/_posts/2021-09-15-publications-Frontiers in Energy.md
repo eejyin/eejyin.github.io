@@ -49,6 +49,7 @@ As shown in Figure 1, the <b>closed industrial loop</b> between coal mining, hyd
 FIGURE 2. Schematic diagram of actual flow and variable symbols of P2G equipment.
 {:.figure}
 
+---
 
 ## Comparison of heavy trucks with different power types
 
