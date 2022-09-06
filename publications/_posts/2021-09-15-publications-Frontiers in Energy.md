@@ -2,18 +2,14 @@
 layout: post
 title: Frontiers in Energy Research - Integrated Energy System
 description: >
-  A page showing Hydejack-specific markdown content.
+  Feel free to download <a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
   path: /assets/img/blog/frontiers.jpg
   srcset:
     1060w: /assets/img/blog/frontiers.jpg
     530w:  /assets/img/blog/frontiers@0,5x.jpg
     265w:  /assets/img/blog/frontiers@0,25x.jpg
-related_posts:
-  - /publications/2019M2M
-  - /publications/journals/2021IES
 sitemap: false
-cover: true
 permalink: /publications/2021IES
 ---
 

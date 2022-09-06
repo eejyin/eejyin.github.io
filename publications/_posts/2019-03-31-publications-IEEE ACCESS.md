@@ -5,12 +5,10 @@ description: >
   Feel free to download <a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
   path: /assets/img/blog/M2M.jpg
-    srcset:
+  srcset:
     1060w: /assets/img/blog/M2M.jpg
     530w:  /assets/img/blog/M2M@0.5x.jpg
     265w:  /assets/img/blog/M2M@0.25x.jpg
-related_posts:
-  - /publications/IES
 sitemap: false
 permalink: /publications/2019M2M
 ---
