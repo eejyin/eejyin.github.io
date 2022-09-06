@@ -47,6 +47,8 @@ To implement the cognitive M2M communication, each M2M pair has to reuse the sub
 A M2M pair is allowed to reuse the CUE's sub-channel for data dissemination if and only if certain constraints are satisfied, <i>e.g.</i>, the rate and the delay constraints. Intuitively, a CUE is more willing to share its sub-channel with a M2M pair, which causes  less interference to it and is more likely to refuse the request of a M2M pair, which causes serious interference.
 </p>
 
+Please <span class="icon-rotate-right" style="margin:0 0.5em 0 0.5em;"></span> refresh the page, if the inline LaTeX formulas are not displayed correctly.
+{: note}
 ---
 
 
