@@ -37,7 +37,7 @@ FIGURE 1. System model of M2M-based uplink IoT network.
 {:.figure}  
 
 <p style="text-align:justify;">
-As shown in Figure 1, As shown in FIGURE \ref{model}, we consider a cognitive M2M network, which consists of a centralized BS, $K$ CUEs, and $N$ M2M pairs. 
+As shown in Figure 1, we consider a cognitive Machine-to-Machine (M2M) network, which consists of a centralized Base station (BS), $K$  Cellular user equipments (CUEs), and $N$ M2M pairs. 
 <br>
 Each CUE occupies one orthogonal spectrum sub-channel of equal bandwidth to perform uplink communication with the BS. The sets of CUEs and sub-channels are denoted as $\mathcal {C}= \lbrace C_1,C_2,\ldots, C_k,\ldots, C_K\rbrace$ and $\mathcal {S}=\lbrace S_1, S_2,\ldots, S_k,\ldots, S_K\rbrace$, respectively. The sets of indices are denoted as $\mathcal {K}= \lbrace 1, 2,\ldots, k,\ldots, K\rbrace$.
 <br>
