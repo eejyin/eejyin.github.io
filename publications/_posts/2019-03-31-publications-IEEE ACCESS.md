@@ -79,10 +79,9 @@ With the development of wireless communication systems, it is particularly essen
 ---
 
 ## Citation Map
-
+This paper has been cited 15 times, as of Sep. 6, 2022:
 ![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%" loading="lazy"}
-This paper has been cited 15 times (as of Sep. 6, 2022).
-{:.figure}  
+
 
 
 <!-- 
