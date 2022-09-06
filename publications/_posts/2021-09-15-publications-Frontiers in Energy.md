@@ -12,7 +12,7 @@ image:
 tags: [Journals, Frontiers in Energy Research]
 permalink: /publications/2021IES
 ---
-# Frontiers in Energy Research - Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks
+# Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks
 
 ---
 
