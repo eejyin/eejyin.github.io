@@ -48,7 +48,7 @@ A M2M pair is allowed to reuse the CUE's sub-channel for data dissemination if a
 </p>
 
 Please <span class="icon-rotate-right" style="margin:0 0.5em 0 0.5em;"></span> refresh the page, if the inline LaTeX formulas are not displayed correctly.
-{: note}
+{:.note}
 ---
 
 
