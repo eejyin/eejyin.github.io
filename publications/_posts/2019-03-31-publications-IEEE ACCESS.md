@@ -14,6 +14,8 @@ permalink: /publications/2019M2M
 ---
 # IEEE ACCESS - QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks
 
+---
+
 ## Highlights
 
 * A novel QoE-oriented uplink **rate control and resource allocation** schemes is propesed, for IoT using time-varying channels.
@@ -21,6 +23,7 @@ permalink: /publications/2019M2M
 * The original long-term optimization problem is converted into admission rate control subproblem and resource allocation subproblem in each time slot, based on the **Lyapunov optimization**.
 * **Gale-Shapley matching** is utilized, with exploiting the special structure of the resource allocation subproblem.
 
+---
 
 ## Scenario
 
@@ -33,6 +36,8 @@ As shown in Figure 1, we consider the uplink of a M2M-based IoT network, consist
 <br>
  Each M2M pair is formed by one machine transmitter (content provider) and one machine receiver (content consumer), and there exist some M2M-based machine transmitters and receivers, which are denoted as MTs and MRs, respectively. The OFDM network operates in a time-slotted manner with a time-slot index $ \mathcal {T} \in \{0, 1, 2, . . .\} $. Each machine transmitter needs to send data to machine receiver, and the data from the outside arrives at the machine transmitter at each time slot.  In this paper, we assume that the peer discovery process of M2M pairs between transmitters and receivers is already finished and each CUE occupies one orthogonal spectrum subchannel. We focus on how to maximize the Mean Opinion Score (MOS) of all M2M pairs, which involves the joint optimization of admission rate control, transmission power allocation, and subchannel selection. 
 </p>
+
+---
 
 ## Abstract
 
