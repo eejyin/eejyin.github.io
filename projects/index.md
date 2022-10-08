@@ -2,7 +2,7 @@
 layout: page
 title: Research Projects
 description: >
-    Since my sophomore year in North China Electrical Power University (NCEPU), I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="https://ieeexplore.ieee.org/author/37589545400" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>. In 2020, through the exam-free postgraduate recommendation, I entered Southeast University (SEU), supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>.
+    Since my sophomore year in North China Electrical Power University (NCEPU), I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>. In 2020, through the exam-free postgraduate recommendation, I entered Southeast University (SEU), supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>.
 hide_description: false
 permalink: /projects/
 comments: false
