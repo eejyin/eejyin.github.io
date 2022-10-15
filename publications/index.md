@@ -17,7 +17,7 @@ menu: true
    <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
    [<a href="/assets/files/2020FER-Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.748673/full" target="_blank"><img src="/assets/icons/frontiers.ico" style="width:1em;margin:0 0.2em 0 0.1em;" alt="Frontiers Website">Frontiers Website</a>] &nbsp;
-   <b><span  style="float: right;">Continue reading <a href="/publications/2021IES">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
+   <b><span  style="float: right;"> <a href="/publications/2021IES">Continue reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>
 </p></li>
 
