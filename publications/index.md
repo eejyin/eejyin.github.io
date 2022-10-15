@@ -26,7 +26,7 @@ menu: true
    <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
     [<a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
+   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEE Xplore Website</a>] &nbsp;
    <strong><span  style="float: right;"><a href="/publications/2019M2M">Continue reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
   </div>
 </p></li>
