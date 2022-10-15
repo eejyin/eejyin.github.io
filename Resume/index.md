@@ -10,4 +10,7 @@ sitemap: false
 ---
 
 <img src="/Resume/CV_junjie_yin_1.png"> <br>
+
+---
+
 <img src="/Resume/CV_junjie_yin_2.png"  alt="<b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it.">
