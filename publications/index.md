@@ -13,23 +13,21 @@ menu: true
 <div>
 <ol ><li><p>
   <div>
-    <b>J. Yin</b>, J. Wang, J. You, H. Chen, and W. Shi. "
-  Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
+    <b>J. Yin</b>, J. Wang, J. You, H. Chen, and W. Shi. "Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
    <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
    [<a href="/assets/files/2020FER-Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://www.frontiersin.org/articles/10.3389/fenrg.2021.748673/full" target="_blank"><img src="/assets/icons/frontiers.ico" style="width:1em;margin:0 0.2em 0 0.1em;" alt="Frontiers Website">Frontiers Website</a>] &nbsp;
-   <span  style="float: right;">Continue reading <a href="/publications/2021IES">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+   <b><span  style="float: right;">Continue reading <a href="/publications/2021IES">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>
 </p></li>
 
 <li><p> 
 <div>
-   <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "
-    QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
+   <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
     [<a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEEXplore Website</a>] &nbsp;
-   <strong><span  style="float: right;">Continue reading <a href="/publications/2019M2M">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
+   <strong><span  style="float: right;"><a href="/publications/2019M2M">Continue reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></strong>
   </div>
 </p></li>
 
@@ -50,8 +48,7 @@ menu: true
 
 <li><p> 
 <div>
-    H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "
-    Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
+    H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
     <i>Machine Building & Automation</i>, vol. 5, pp. 90-96, 2022. (In Chinese)
   </div>
 </p></li>
@@ -64,14 +61,14 @@ menu: true
 
 <li><p> 
 <div>
-    S. Li, J. Wang, <b>J. Yin</b>, et al. “Impedance Modeling and Additional Current Feedback Control of DC Transformer Based on Switched Capacitor,” <i>IEEE Transactions on Power Delivery</i>, 2022. (Submitted)
+    S. Li, J. Wang, <b>J. Yin</b>, et al. "Impedance Modeling and Additional Current Feedback Control of DC Transformer Based on Switched Capacitor,” <i>IEEE Transactions on Power Delivery</i>, 2022. (Submitted)
   </div>
 </p></li>
 
 
 <li><p> 
 <div>
-    X. Jin, J. Wang, G. Lou, <b>J. Yin</b>, Y. Hu. “Series Optimization Design of Advanced Adiabatic Compressed Air Energy Storage Power System Based on Thermodynamic Analysis,” <i>Proceedings of the CSEE</i>, 2022. (In Chinese, Submitted)
+    X. Jin, J. Wang, G. Lou, <b>J. Yin</b>, Y. Hu. "Series Optimization Design of Advanced Adiabatic Compressed Air Energy Storage Power System Based on Thermodynamic Analysis,” <i>Proceedings of the CSEE</i>, 2022. (In Chinese, Submitted)
   </div>
 </p></li>
 
@@ -87,25 +84,23 @@ menu: true
 
 <li><p>
     <div>
-    W. Zhang, W. Xu,  Y. Hu, <b>J. Yin</b>. "
-  Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub,"
+    W. Zhang, W. Xu,  Y. Hu, <b>J. Yin</b>. "Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub,"
    <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, pp. 789-794, Xining, China, Jul. 2022.<br>
    [<a href="/assets/files/2022ICPET.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [Oral Presenter] &nbsp;
    [<a href="http://www.icpet.org/" target="_blank">Link</a>] &nbsp;
-   <b><span  style="float: right;">Continue reading <a href="/publications/ICPET2022">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
+   <b><span  style="float: right;"><a href="/publications/ICPET2022">Continue reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>
 </p></li>
 
 <li><p>
   <div>
-    S. Jiang, Y. Wang, D. Wang, <b>J. Yin*</b>, H. Yan and J. Wang. "
-  Reliability Assessment of Distribution Network Considering Differentiated End-Users Demand for Reliability,"
+    S. Jiang, Y. Wang, D. Wang, <b>J. Yin*</b>, H. Yan and J. Wang. "Reliability Assessment of Distribution Network Considering Differentiated End-Users Demand for Reliability,"
    <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, pp. 012026-012032, Guilin, China, Nov. 2020.<br>
    [<a href="/assets/files/2020SGEE.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="/assets/files/2020SGEE_poster.pdf" target="_blank"> Poster</a>] &nbsp;
    [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank">Link</a>] &nbsp;
-   <b><span  style="float: right;">Continue reading <a href="/publications/SGEE2020">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
+   <b><span  style="float: right;"> <a href="/publications/SGEE2020">Continue reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>
 </p></li>
 
