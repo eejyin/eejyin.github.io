@@ -158,7 +158,7 @@ wikipedia:
   icon: icon-wikipedia
 linkedin:
   name: LinkedIn
-  icon: icon-linkedin2
+  icon: icon-linkedin
   prepend: "https://www.linkedin.com/in/"
 lastfm:
   name: Last.fm
