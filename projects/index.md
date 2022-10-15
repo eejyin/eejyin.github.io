@@ -34,7 +34,6 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
 </div>
 
 <br>
-<br>
 
 
 <div>
@@ -73,7 +72,7 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
 
 
 
-  <br><br>
+  <br>
 
 <div>
 
@@ -89,7 +88,7 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
     
 </div>
 
-   <br><br>
+   <br>
 
 <div>
   
