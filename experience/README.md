@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Personal Experience
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
@@ -11,13 +11,7 @@ comments: false
 
 <!--
 
- ______     ______     ______     ______     ______     ______     ______     __  __    
-/\  == \   /\  ___\   /\  ___\   /\  ___\   /\  __ \   /\  == \   /\  ___\   /\ \_\ \   
-\ \  __<   \ \  __\   \ \___  \  \ \  __\   \ \  __ \  \ \  __<   \ \ \____  \ \  __ \  
- \ \_\ \_\  \ \_____\  \/\_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \_\ \_\ 
-  \/_/ /_/   \/_____/   \/_____/   \/_____/   \/_/\/_/   \/_/ /_/   \/_____/   \/_/\/_/ 
-                                                                                        
-                                                                                   
+                                                                                                                                                                    
 -->
 
 <h3 class="h2" style="color: rgb(1,92,171)">Current Projects</h3>

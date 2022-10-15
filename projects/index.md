@@ -43,7 +43,7 @@ comments: false
 <br>
 
 
-<div>
+<div id="2021Yangzhou">
 
   <strong>RESEARCH ON FRIENDLY GRID-SUPPORTING AND ONLINE EVALUATION TECHNOLOGY OF NEW ENERGY FOR BILATERAL SERVICE BETWEEN PLANT AND GRID</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jun. 2021 - Dec. 2022 </a><br>
@@ -72,7 +72,7 @@ comments: false
 </div>
 
 
-<div>
+<div id="2020Tianjin">
   <strong>RESEARCH ON DISTRIBUTION NETWORK PLANNING AND POWER SUPPLY RESTORATION TECHNOLOGY FACING THE RELIABILITY NEEDS OF END USERS</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jan. 2020 - Dec. 2021 </a><br>
   
@@ -92,9 +92,9 @@ comments: false
 
   <br>
 
-<div>
+<div id="2019Changzhou">
 
-    <strong>RESEARCH ON INTERACTION AND COUPLING CHARACTERISTICS OF MULTI-ENERGY FLOW IN INTEGRATED ENERGY SYSTEM</strong><br>
+  <strong>RESEARCH ON INTERACTION AND COUPLING CHARACTERISTICS OF MULTI-ENERGY FLOW IN INTEGRATED ENERGY SYSTEM</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2019 - Dec. 2020 </a><br>
     
 
@@ -114,7 +114,7 @@ comments: false
 
    <br>
 
-<div>
+<div id="2017Beijing">
   
    <strong>RESEARCH ON POWER INTERNET OF THINGS TECHNOLOGY FOR MASS TERMINAL ACCESS</strong><br>
     <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2017 - Dec. 2019 </a><br>

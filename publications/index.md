@@ -89,7 +89,7 @@ menu: true
    [<a href="/assets/files/2022ICPET.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [Oral Presenter] &nbsp;
    [<a href="http://www.icpet.org/" target="_blank">Link</a>] &nbsp;
-   <span  style="float: right;"><a href="/publications/ICPET2022">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+   <!--<span  style="float: right;"><a href="/publications/ICPET2022">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span> -->
   </div>
 </p></li>
 
@@ -100,7 +100,7 @@ menu: true
    [<a href="/assets/files/2020SGEE.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="/assets/files/2020SGEE_poster.pdf" target="_blank"> Poster</a>] &nbsp;
    [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank">Link</a>] &nbsp;
-   <span  style="float: right;"> <a href="/publications/SGEE2020">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+   <!-- <span  style="float: right;"> <a href="/publications/SGEE2020">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>  -->
   </div>
 </p></li>
 
