@@ -25,6 +25,14 @@ comments: false
 <strong>RESEARCH ON ACTIVE AND RAPID SUPPORT TECHNOLOGY OF TRANSIENT FREQUENCY AND VOLTAGE FOR PHOTOVOLTAIC/WIND FARM STATIONS</strong><br>
 <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Dec. 2021 - Nov. 2025 </a><br>
 
+ <ul>
+    <li> Funded by National Key Research and Development Program of China (No. 2021YFB2400500) </li>
+    <li>Studied the difference and integration between Grid-Forming (GFM) and Grid-Following (GFL) converters  </li>
+    <li> Conducted qualitative and quantitative analysis of transient stability, by Equal area criterion (EAC) and Lyapunov function </li>
+    <li> Proposed Virtual Synchronous Generator (VSG)-based converters stabilization control methods </li>
+    <li> Verified by Hardware-in-the-Loop (HIL) experiment, utilizing the RT-Box and PLECS </li>
+  </ul>
+
 My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Grid-connected Converter", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......  <span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 
 
