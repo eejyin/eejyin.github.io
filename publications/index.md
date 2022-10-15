@@ -33,11 +33,18 @@ menu: true
   </div>
 </p></li>
 
+
+
 <li><p> 
 <div>
-    W. Xu, W. Zhang, Y. Hu, <b>J. Yin</b> and J. Wang, "
-    Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub," 
-    <i>Transactions of China Electrotechnical Society</i>. (In chinese, Aug. 2022 accepted)
+    B. Kong, J. Zhu, S. Wang, X. Xu, X. Jin, <b>J. Yin</b>, J. Wang. "Comparative Study of the Transmission Capacity of Grid Forming Converters and Grid Following Converters," <i>Energy Reports</i>, 2022. (SCI, IF:4.937, Accepted on Oct. 2022)
+  </div>
+</p></li>
+
+<li><p> 
+<div>
+    W. Xu, W. Zhang, Y. Hu, <b>J. Yin</b> and J. Wang, "Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub," 
+    <i>Transactions of China Electrotechnical Society</i>. (In Chinese, Aug. 2022 accepted)
   </div>
 </p></li>
 
@@ -45,7 +52,26 @@ menu: true
 <div>
     H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "
     Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
-    <i>Machine Building & Automation</i>, vol. 5, 2022. (In chinese, to be published)
+    <i>Machine Building & Automation</i>, vol. 5, pp. 90-96, 2022. (In Chinese)
+  </div>
+</p></li>
+
+<li><p> 
+<div>
+    J. Wang, <b>J. Yin</b>, X. Jin. "Improved Reactive Loop-Based Sequence Impedance Model and Stability Analysis of VSG Inverters with Coupling Frequency," <i>IEEE Transactions on Power Electronics</i>, 2022. (Submitted)
+  </div>
+</p></li>
+
+<li><p> 
+<div>
+    S. Li, J. Wang, <b>J. Yin</b>, et al. “Impedance Modeling and Additional Current Feedback Control of DC Transformer Based on Switched Capacitor,” <i>IEEE Transactions on Power Delivery</i>, 2022. (Submitted)
+  </div>
+</p></li>
+
+
+<li><p> 
+<div>
+    X. Jin, J. Wang, G. Lou, <b>J. Yin</b>, Y. Hu. “Series Optimization Design of Advanced Adiabatic Compressed Air Energy Storage Power System Based on Thermodynamic Analysis,” <i>Proceedings of the CSEE</i>, 2022. (In Chinese, Submitted)
   </div>
 </p></li>
 
@@ -77,7 +103,7 @@ menu: true
   Reliability Assessment of Distribution Network Considering Differentiated End-Users Demand for Reliability,"
    <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, pp. 012026-012032, Guilin, China, Nov. 2020.<br>
    [<a href="/assets/files/2020SGEE.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="/assets/files/SGEE2020_poster.pdf" target="_blank"> Poster</a>] &nbsp;
+   [<a href="/assets/files/2020SGEE_poster.pdf" target="_blank"> Poster</a>] &nbsp;
    [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank">Link</a>] &nbsp;
    <b><span  style="float: right;">Continue reading <a href="/publications/SGEE2020">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
   </div>

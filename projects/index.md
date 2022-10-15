@@ -39,7 +39,7 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
 
 <div>
 
-  <strong>RESEARCH ON FRIENDLY GRID-SUPPORTING AND ONLINE EVALUATION TECHNOLOGY OF NEW ENERGY FOR BILATERAL SERVICE BETWEEN FACTORY AND GRID</strong><br>
+  <strong>RESEARCH ON FRIENDLY GRID-SUPPORTING AND ONLINE EVALUATION TECHNOLOGY OF NEW ENERGY FOR BILATERAL SERVICE BETWEEN PLANT AND GRID</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jun. 2021 - Dec. 2022 </a><br>
   
   My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......   <b><span  style="float: right;">Continue reading <a href="/projects/#IES"  target="_blank">details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span></b>
