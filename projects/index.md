@@ -48,7 +48,16 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
 
   <strong>RESEARCH ON FRIENDLY GRID-SUPPORTING AND ONLINE EVALUATION TECHNOLOGY OF NEW ENERGY FOR BILATERAL SERVICE BETWEEN PLANT AND GRID</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jun. 2021 - Dec. 2022 </a><br>
-  
+
+   <ul>
+    <li> Funded by State Grid Corporation Headquarters Technology Project (No. 5400-202012118A-0-0-00) </li>
+    <li>Proposed innovatively the distributed network reliability evaluation index based on the value engineering theory  </li>
+    <li> Established a comprehensive reliability evaluation index system considering the number of users and power supply capacity </li>
+    <li> Calculated the reliability evaluation index weight based on Analytic hierarchy process (AHP)-Entropy weight method (EWM) </li>
+  </ul>
+
+
+
   My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......   <span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
   
   <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
@@ -71,6 +80,13 @@ My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Gr
   <strong>RESEARCH ON DISTRIBUTION NETWORK PLANNING AND POWER SUPPLY RESTORATION TECHNOLOGY FACING THE RELIABILITY NEEDS OF END USERS</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jan. 2020 - Dec. 2021 </a><br>
   
+   <ul>
+    <li> Funded by Jiangsu Power Grid Corporation Scientific Research Project (No. J2021012) </li>
+    <li>Studied Kmeans-based PV generation units clustering and characteristics extraction technology  </li>
+    <li> Constructed the fault self-diagnosis evaluation system of PV, aiming to accurately locate the fault panel </li>
+    <li> Proposed the VSG-based inertia evaluation and control method for PV system to realize the friendly interaction </li>
+  </ul>
+
   My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Grid-connected Converter", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......<span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
   
   <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
