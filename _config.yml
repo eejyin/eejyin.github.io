@@ -57,8 +57,8 @@ menu:
 #    url:               /publications/
 #  - title:             CONTACT
 #   url:               /#contact-me
-  - title:             RÉSUMÉ
-    url:               /Résumé/
+  - title:             RÉSUMÉ/CV
+    url:               /Resume/
   - title:             PUBLICATIONS
     url:               /publications/
   - title:             RESEARCH PROJECTS
