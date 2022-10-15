@@ -102,6 +102,15 @@ comments: false
     <strong>RESEARCH ON INTERACTION AND COUPLING CHARACTERISTICS OF MULTI-ENERGY FLOW IN INTEGRATED ENERGY SYSTEM</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2019 - Dec. 2020 </a><br>
     
+
+ <ul>
+    <li> Funded by Jiangsu Power Grid Corporation Scientific Research Project (No. J2019082) </li>
+    <li>Studied the various characteristics of multi-energy flows on different spatio-temporal scales  </li>
+    <li> Established a matrix modeling of energy hub to portray the conversion relationships between multi-energy flows </li>
+    <li> Proposed power-to-gas (P2G) optimized scheduling model of IES based on second-order cone programming (SOCP) </li>
+    <li> Verified the feasibility, economy, low carbon, and effectiveness of the proposed mechanism by MATLAB/CPLEX </li>
+  </ul>
+
   My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
     
   <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
