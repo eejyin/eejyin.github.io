@@ -138,13 +138,13 @@ menu: true
 <div>
 <ol ><li><p>
   <div>
-    <b>J. Yin</b>. "Research on Transient Stability of Grid-connected Converter," Master Thesis, Southeast University, Nanjing, June 2023. (To be expected)<br>
+    <b>J. Yin</b>. "Research on Transient Stability of Grid-connected Converter," <b>Master Thesis</b>, Southeast University, Nanjing, June 2023. (To be expected)<br>
     Supervisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang in SEU" target="_blank">Prof. Jianhua Wang</a>  
   </div>
 </p></li>
 <li><p>  
    <div>
-    <b>J. Yin</b>. "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System," Bachelor Thesis, North China Electrical Power University, Beijing, June 2020.<br>
+    <b>J. Yin</b>. "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System," <b>Bachelor Thesis</b>, North China Electrical Power University, Beijing, June 2020.<br>
     Supervisor: <a href="https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/5840bd9c828e44cf81b00d7dd460e37e.htm" title="Prof. Zeng in NCEPU" target="_blank">Prof. Bo Zeng</a>
   </div>
 </p></li></ol>
