@@ -33,7 +33,7 @@ author1:
     googlescholar:     4UxQ7JcAAAAJ
     orcid:             0000-0001-7782-7274
     researchgate:      Junjie-Yin-3
-    webofscience:      1963852
+    # webofscience:      1963852
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -63,7 +63,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+     linkedin:        junjie-yin-b8005b240
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
