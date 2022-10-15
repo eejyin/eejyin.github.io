@@ -9,7 +9,7 @@ menu: true
 
 
 
-<h3 class="h2" style="color: rgb(1,92,171)" id="Journal-Article">Journal Articles</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Journal-Article">Journal Papers</h3>
 <div>
 <ol ><li><p>
   <div>
@@ -78,7 +78,7 @@ menu: true
 
 ---
 
-<h3 class="h2" style="color: rgb(1,92,171)">Conference Articles</h3>
+<h3 class="h2" style="color: rgb(1,92,171)">Conference Papers</h3>
 <div>
 <ol>
 
