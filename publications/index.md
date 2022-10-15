@@ -35,7 +35,7 @@ menu: true
 
 <li><p> 
 <div>
-    B. Kong, J. Zhu, S. Wang, X. Xu, X. Jin, <b>J. Yin</b>, J. Wang. "Comparative Study of the Transmission Capacity of Grid Forming Converters and Grid Following Converters," <i>Energy Reports</i>, 2022. (SCI, IF:4.937, Accepted on Oct. 2022)
+    B. Kong, J. Zhu, S. Wang, X. Xu, X. Jin, <b>J. Yin</b>, J. Wang. "Comparative Study of the Transmission Capacity of Grid Forming Converters and Grid Following Converters," <i>Energy Reports</i>, 2022. (Accepted on Oct. 2022)
   </div>
 </p></li>
 
