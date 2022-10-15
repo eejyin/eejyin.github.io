@@ -18,7 +18,7 @@ comments: false
                                                                                         
                                                                                    
 -->
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Research </h2>
+
 
 <h3 class="h2" style="color: rgb(1,92,171)">Current Projects</h3>
 <div id="2021Transient">
