@@ -12,7 +12,7 @@ menu: true
 <h3 class="h2" style="color: rgb(1,92,171)" id="Journal-Article">Journal Papers</h3>
 <div>
 <ol ><li><p>
-  <div>
+  <div id="2021FIE">
     <b>J. Yin</b>, J. Wang, J. You, H. Chen, and W. Shi. "Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks,"
    <i>Frontiers in Energy Research,</i> vol. 9, pp. 1-14, 2021.  <br>
    [<a href="/assets/files/2020FER-Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
@@ -22,7 +22,7 @@ menu: true
 </p></li>
 
 <li><p> 
-<div>
+<div id="2019ACCESS">
    <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
     [<a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
@@ -34,40 +34,40 @@ menu: true
 
 
 <li><p> 
-<div>
+<div id="2022Energy">
     B. Kong, J. Zhu, S. Wang, X. Xu, X. Jin, <b>J. Yin</b>, J. Wang. "Comparative Study of the Transmission Capacity of Grid Forming Converters and Grid Following Converters," <i>Energy Reports</i>, 2022. (Accepted on Oct. 2022)
   </div>
 </p></li>
 
 <li><p> 
-<div>
+<div id="2022CAES">
     W. Xu, W. Zhang, Y. Hu, <b>J. Yin</b> and J. Wang, "Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub," 
     <i>Transactions of China Electrotechnical Society</i>. (In Chinese, Aug. 2022 accepted)
   </div>
 </p></li>
 
 <li><p> 
-<div>
+<div id="2022Matrix">
     H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
     <i>Machine Building & Automation</i>, vol. 5, pp. 90-96, 2022. (In Chinese)
   </div>
 </p></li>
 
 <li><p> 
-<div>
+<div id="2022TPE">
     J. Wang, <b>J. Yin</b>, X. Jin. "Improved Reactive Loop-Based Sequence Impedance Model and Stability Analysis of VSG Inverters with Coupling Frequency," <i>IEEE Transactions on Power Electronics</i>, 2022. (Submitted)
   </div>
 </p></li>
 
 <li><p> 
-<div>
+<div id="2022TPD">
     S. Li, J. Wang, <b>J. Yin</b>, et al. "Impedance Modeling and Additional Current Feedback Control of DC Transformer Based on Switched Capacitor,” <i>IEEE Transactions on Power Delivery</i>, 2022. (Submitted)
   </div>
 </p></li>
 
 
 <li><p> 
-<div>
+<div id="2022CSEE">
     X. Jin, J. Wang, G. Lou, <b>J. Yin</b>, Y. Hu. "Series Optimization Design of Advanced Adiabatic Compressed Air Energy Storage Power System Based on Thermodynamic Analysis,” <i>Proceedings of the CSEE</i>, 2022. (In Chinese, Submitted)
   </div>
 </p></li>
@@ -83,7 +83,7 @@ menu: true
 <ol>
 
 <li><p>
-    <div>
+    <div id="2022ICPET">
     W. Zhang, W. Xu,  Y. Hu, <b>J. Yin</b>. "Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub,"
    <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, pp. 789-794, Xining, China, Jul. 2022.<br>
    [<a href="/assets/files/2022ICPET.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
@@ -94,7 +94,7 @@ menu: true
 </p></li>
 
 <li><p>
-  <div>
+  <div id="2020SGEE">
     S. Jiang, Y. Wang, D. Wang, <b>J. Yin*</b>, H. Yan and J. Wang. "Reliability Assessment of Distribution Network Considering Differentiated End-Users Demand for Reliability,"
    <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, pp. 012026-012032, Guilin, China, Nov. 2020.<br>
    [<a href="/assets/files/2020SGEE.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
