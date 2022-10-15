@@ -56,11 +56,8 @@ comments: false
   </ul>
 
 
-
-  My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......   <span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
-  
-  <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
-  -->
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
   
 
 
@@ -86,10 +83,8 @@ comments: false
     <li> Proposed the VSG-based inertia evaluation and control method for PV system to realize the friendly interaction </li>
   </ul>
 
-  My ongoing <b>master's thesis</b>, titled "Research on Transient Stability of Grid-connected Converter", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......<span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
-  
-  <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
-  -->
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
   
   </div>
 
@@ -111,10 +106,9 @@ comments: false
     <li> Verified the feasibility, economy, low carbon, and effectiveness of the proposed mechanism by MATLAB/CPLEX </li>
   </ul>
 
-  My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
-    
-  <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
-    -->
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
+
 <span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 
     
@@ -127,10 +121,17 @@ comments: false
    <strong>RESEARCH ON POWER INTERNET OF THINGS TECHNOLOGY FOR MASS TERMINAL ACCESS</strong><br>
     <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2017 - Dec. 2019 </a><br>
       
- 大创也写进这个里面My ongoing master's thesis, titled "<b>Research on Transient Stability of Grid-connected Converter</b>", is based on this project. It is funded by <b>National Key Research and Development Program of China</b> (No. 2021YFB2400500). In this project, .......
-      
-  <!-- I use interviews, observations, and content analysis to understand how people with vision impairments use mainstream and custom-made software and hardware tools to produce audio content. Taking their current work practices into account, I design accessible tools to support accessible learning in audio production tools for blind audio producers.
-      -->
+ <ul>
+    <li> Funded by North China Electric Power University "Double First-Class" Discipline Research Project</li>
+    <li>Proposed a new QoE-oriented uplink rate control and resource allocation scheme for the Internet of Things (IoT) network  </li>
+    <li> Introduced an evaluation model based on mean opinion score (MOS) for different machine-type communication (MTC) devices </li>
+    <li>  Converted the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot, based on Lyapunov optimization </li>
+    <li> Utilized Gale–Shapley algorithm to formulate a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR) </li>
+  </ul>
+
+
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
       
   
  <span  style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
