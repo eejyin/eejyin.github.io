@@ -106,7 +106,7 @@ comments: false
     <li>Studied the various characteristics of multi-energy flows on different spatio-temporal scales  </li>
     <li> Established a matrix modeling of energy hub to portray the conversion relationships between multi-energy flows </li>
     <li> Proposed power-to-gas (P2G) optimized scheduling model of IES based on second-order cone programming (SOCP) </li>
-    <li> Verified the feasibility, economy, low carbon, and effectiveness of the proposed mechanism by MATLAB/CPLEX </li>
+    <li> Verified the feasibility, economy, low carbon, and effectiveness of the proposed mechanism by MATLAB/<a href="https://www.ibm.com/analytics/cplex-optimizer">CPLEX</a> + <a href="https://yalmip.github.io/">Yalmip</a> </li>
   </ul>
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
