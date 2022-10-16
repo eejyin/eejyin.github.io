@@ -191,7 +191,7 @@ comments: false
     </tr>
     <tr>
       <td>Jun. 2020 </td>
-      <td>"Excellent Graduate of Beijing" Honorary Title </td>
+      <td>"Excellent Graduate of Beijing" Honorary Title (Top 5%)</td>
       <td><a href="http://jw.beijing.gov.cn/" target="_blank"> Beijing Municipal Education Commission</a>, Beijing</td>
     </tr>
     <tr>
