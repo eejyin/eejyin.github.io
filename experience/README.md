@@ -219,7 +219,6 @@ comments: false
       <td>Undergraduate Scholarship of NCEPU</td>
       <td>North China Electric Power University, Beijing</td>
     </tr>
-    </tr>
        <tr>
       <td>Oct. 2018 </td>
       <td>Scholarship of CPCEP Co., Ltd</td>
@@ -230,12 +229,10 @@ comments: false
       <td>Outstanding Student Leaders (One candidate per school)</td>
       <td>North China Electric Power University, Beijing</td>
     </tr>
-     </tr>
        <tr>
       <td>Oct. 2017 </td>
       <td>Undergraduate Scholarship of NCEPU</td>
       <td>North China Electric Power University, Beijing</td>
-    </tr>
     </tr>
        <tr>
       <td>Oct. 2017 </td>
