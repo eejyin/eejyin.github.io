@@ -13,6 +13,9 @@ comments: false
 
                                                                                                                                                                     
 -->
+* this unordered seed list will be replaced by the toc
+{:toc}
+
 
 <h3 class="h2" style="color: rgb(1,92,171)">Academic Activity</h3>
 <div id="Peer Reviewer">
