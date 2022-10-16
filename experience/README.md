@@ -14,17 +14,16 @@ comments: false
                                                                                                                                                                     
 -->
 
-<h3 class="h2" style="color: rgb(1,92,171)">Current Projects</h3>
-<div id="2021Transient">
-   <strong>RESEARCH ON ACTIVE AND RAPID SUPPORT TECHNOLOGY OF TRANSIENT FREQUENCY AND VOLTAGE FOR PHOTOVOLTAIC/WIND FARM STATIONS</strong><br>
-   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Dec. 2021 - Nov. 2025 </a><br>
+<h3 class="h2" style="color: rgb(1,92,171)">Academic Activity</h3>
+<div id="Peer Reviewer">
+   <strong>Academic Journals</strong><br>
+   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Peer Reviewer</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2020 - Present</a><br>
 
  <ul>
-    <li> Funded by National Key Research and Development Program of China (No. 2021YFB2400500) </li>
-    <li>Studied the difference and integration between Grid-Forming (GFM) and Grid-Following (GFL) converters  </li>
-    <li> Conducted qualitative and quantitative analysis of transient stability, by Equal area criterion (EAC) and Lyapunov function </li>
-    <li> Proposed Virtual Synchronous Generator (VSG)-based converters stabilization control methods </li>
-    <li> Verified by Hardware-in-the-Loop (HIL) experiment, utilizing the RT-Box and PLECS </li>
+    <li> Reviewed 15 manuscripts submitted to IEEE ACCESS </li>
+    <li> Reviewed 2 manuscripts submitted to IEEE Transactions on Industry Applications </li>
+    <li> Assisted the advisor in reviewing severval journals </li>
+    <li> The related recording can be found at <a href="https://www.webofscience.com/wos/author/record/1963852" title="Peer Review Record" target="_blank" alt="Clarivate"> <span class="icon-clarivate-logo"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span> <span aria-hidden="true">Web of Science </span><span class="sr-only"></span></a> </li>
   </ul>
 
 
@@ -37,16 +36,17 @@ comments: false
 <br>
 
 
-<div id="2021Yangzhou">
+<div id="Conferences">
 
-  <strong>RESEARCH ON FRIENDLY GRID-SUPPORTING AND ONLINE EVALUATION TECHNOLOGY OF NEW ENERGY FOR BILATERAL SERVICE BETWEEN PLANT AND GRID</strong><br>
-  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jun. 2021 - Dec. 2022 </a><br>
+  <strong>International Conferences</strong><br>
+  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Presentation / Attendance </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2019 - Present </a><br>
 
    <ul>
-    <li> Funded by State Grid Corporation Headquarters Technology Project (No. 5400-202012118A-0-0-00) </li>
-    <li>Proposed innovatively the distributed network reliability evaluation index based on the value engineering theory  </li>
-    <li> Established a comprehensive reliability evaluation index system considering the number of users and power supply capacity </li>
-    <li> Calculated the reliability evaluation index weight based on Analytic hierarchy process (AHP)-Entropy weight method (EWM) </li>
+    <li> <a href="http://www.cieec-conf.org/" target="_blank">IEEE 5th International Electrical and Energy Conference (CIEEC 2022)</a>, Nanjing, May. 2022 </li>
+    <li> <a href="https://attend.ieee.org/ei2-2021/" target="_blank">The 5th IEEE Conference on Energy Internet and Energy System Integration (EI2 2021)</a>, Taiyuan, Oct. 2021 </li>
+    <li> <a href="https://mp.weixin.qq.com/s/UW4-CaXctjMPGjMizglilw" target="_blank">2021 Joint Annual Conference of the Power System Committee-New Energy Committee of the Chinese Society of Electrical Engineering</a>, Nanjing, May. 2021 </li>
+    <li> <a href="http://2020.meeting-sgee.org/" target="_blank">International Conference on Smart Grid and Energy Engineering (SGEE 2020)</a>, Guilin, Nov. 2020 </li>
+    <li> <a href="http://www.csee.org.cn/" target="_blank">2019 Annual Meeting of Chinese Society for Electrical Engineering (CSEE Annual 2019)</a>, Beijing, Nov. 2019 </li>
   </ul>
 
 
@@ -59,6 +59,49 @@ comments: false
   </div>
 
 <br>
+
+
+<h3 class="h2" style="color: rgb(1,92,171)">Internship</h3>
+<div id="HEP">
+   <strong>Frontiers Journals, Higher Education Press</strong><br>
+   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Peer Reviewer</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2020 - Present</a><br>
+
+ <ul>
+    <li> Promoted the public acknowledgment of <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml"> <i>"Frontiers Journals"</i></a>, an English academic journal series launched by <a href="https://www.hep.com.cn/">Higher Education Press (HEP)</a>, through posters, online forums, and meetings with scholars </li>
+  </ul>
+
+
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
+
+
+</div>
+
+<br>
+
+
+<div id="Conferences">
+
+  <strong>Yangzhou Electric Power Co., Ltd, <a href="http://www.sgcc.com.cn/ywlm/index.shtml">State Grid</a></strong><br>
+  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2021 - Jan. 2022 </a><br>
+
+   <ul>
+    <li> Investigated the power overcapacity problems of typical users (e.g., Tea factory) and designed suitable methods </li>
+  </ul>
+  
+  <p><img src="./Yangzhou.png"></p>
+
+
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
+  
+
+
+  
+  </div>
+
+<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
+<p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
