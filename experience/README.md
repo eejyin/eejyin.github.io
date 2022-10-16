@@ -67,7 +67,7 @@ comments: false
    <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Peer Reviewer</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2020 - Present</a><br>
 
  <ul>
-    <li> Promoted the public acknowledgment of <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml"> <i>"Frontiers Journals"</i></a>, an English academic journal series launched by <a href="https://www.hep.com.cn/">Higher Education Press (HEP)</a>, through posters, online forums, and meetings with scholars </li>
+    <li> Promoted the public acknowledgment of <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml" target="_blank"> <i>"Frontiers Journals"</i></a>, an English academic journal series launched by <a href="https://www.hep.com.cn/" target="_blank">Higher Education Press (HEP)</a>, through posters, online forums, and meetings with scholars </li>
   </ul>
 
 
@@ -82,11 +82,13 @@ comments: false
 
 <div id="Intern-yangzhou">
 
-  <strong>Yangzhou Electric Power Co., Ltd, <a href="http://www.sgcc.com.cn/ywlm/index.shtml">State Grid</a></strong><br>
+  <strong>Yangzhou Electric Power Co., Ltd, <a href="http://www.sgcc.com.cn/ywlm/index.shtml" target="_blank">State Grid</a></strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2021 - Jan. 2022 </a><br>
 
    <ul>
-    <li> Investigated the power overcapacity problems of typical users (e.g., Tea factory) and designed suitable methods </li>
+    <li> Investigated the power overcapacity problems of typical users (e.g., Tea factory, Fish breeding pond) </li>
+    <li> Compare the pros and cons of multiple schemes such as capacity increase, overcapacity fines, and shared energy storage</li> 
+    <li> Proposed the suitable and economical method to solve the above-mentioned issues by optimizing spatiotemporal scheduling of shared energy storage</li>
   </ul>
   
   <p><img src="./Yangzhou.png"></p>
@@ -102,7 +104,7 @@ comments: false
 
 <div id="Intern-huizhou">
 
-  <strong>Huizhou Electric Power Co., Ltd, <a href="https://en.wikipedia.org/wiki/China_Southern_Power_Grid">China Southern Power Grid</a></strong><br>
+  <strong>Huizhou Electric Power Co., Ltd, <a href="https://en.wikipedia.org/wiki/China_Southern_Power_Grid" target="_blank">China Southern Power Grid</a></strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2021 - Jan. 2022 </a><br>
 
    <ul>
