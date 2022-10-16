@@ -63,14 +63,14 @@ comments: false
 
 <h3 class="h2" style="color: rgb(1,92,171)">Internship</h3>
 <div id="HEP">
-   <strong>Frontiers Journals, Higher Education Press</strong><br>
-   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Peer Reviewer</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2020 - Present</a><br>
+   <strong>Frontiers Journals, <a href="https://www.hep.com.cn/" target="_blank">Higher Education Press</a></strong><br>
+   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Publicist</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> May. 2022 - Aug. 2022</a><br>
 
  <ul>
-    <li> Promoted the public acknowledgment of <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml" target="_blank"> <i>"Frontiers Journals"</i></a>, an English academic journal series launched by <a href="https://www.hep.com.cn/" target="_blank">Higher Education Press (HEP)</a>, through posters, online forums, and meetings with scholars </li>
+    <li> Promoted the public acknowledgment of <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml" target="_blank"> <i>"Frontiers Journals"</i></a>, an English academic journal series launched by Higher Education Press (HEP), through posters, online forums, and meetings with scholars </li>
   </ul>
 
-
+![](Frontier.png)
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
 
@@ -129,6 +129,7 @@ comments: false
 
  <ul>
     <li> Received and dispatched messages/materials, and allocated tasks detailedly </li>
+    <li> Assisted teachers in daily management in order to better serve students </li>
   </ul>
 
 
