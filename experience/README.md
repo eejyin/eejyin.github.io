@@ -16,6 +16,7 @@ comments: false
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+<hr>
 
 <h3 class="h2" style="color: rgb(1,92,171)">Academic Activity</h3>
 <div id="Peer Reviewer">
@@ -63,6 +64,7 @@ comments: false
 
 <br>
 
+<hr>
 
 <h3 class="h2" style="color: rgb(1,92,171)">Internship</h3>
 <div id="HEP">
@@ -124,6 +126,7 @@ comments: false
   
   </div>
 
+<hr>
 
 <h3 class="h2" style="color: rgb(1,92,171)">Leadership</h3>
 <div id="leader">
@@ -162,6 +165,7 @@ comments: false
 
   </div>
 
+<hr>
 
 <h3 class="h2" style="color: rgb(1,92,171)">Awards and Honors</h3>
 
