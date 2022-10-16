@@ -14,6 +14,7 @@ menu: true
     <li><a href="#Journal Papers">Journal Papers</a></li>
     <li><a href="#Conference Papers">Conference Papers</a></li>
     <li><a href="#Patents">Patents</a></li>
+    <li><a href="#Thesis">Thesis</a></li>
     <li><a href="#Citation Map">Citation Map</a></li>
   </ul>
 </div>
