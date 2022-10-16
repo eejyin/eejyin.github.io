@@ -6,10 +6,20 @@ cover: false
 hide_description: true
 menu: true
 ---
+<div id="toc_container">
+  <a class="toc_title" style="font-size: 15px; color: rgb(1,92,171)" id="toc"> TOC of This Page </a>
+  <ul class="toc_list">
+    <li><a href="#Journal Papers">Journal Papers</a></li>
+    <li><a href="#Conference Papers">Conference Papers</a></li>
+    <li><a href="#Patents">Patents</a></li>
+    <li><a href="#Citation Map">Citation Map</a></li>
+  </ul>
+</div>
+
+<hr>
 
 
-
-<h3 class="h2" style="color: rgb(1,92,171)" id="Journal-Article">Journal Papers</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Journal Papers">Journal Papers</h3>
 <div>
 <ol ><li><p>
   <div id="2021FIE">
@@ -78,7 +88,7 @@ menu: true
 
 ---
 
-<h3 class="h2" style="color: rgb(1,92,171)">Conference Papers</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Conference Papers">Conference Papers</h3>
 <div>
 <ol>
 
@@ -114,7 +124,7 @@ menu: true
 ---
 
 
-<h3 class="h2" style="color: rgb(1,92,171)" id="patents">Patents</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Patents">Patents</h3>
 <div>
 <ol >
   <li><p><div><b>J. Yin</b>, J. Wang, N. Wang, et al. "A User-Oriented Calculation Method of Distribution Network Reliability Evaluation Index." China Patent No. 2022108630263.  Jul. 2022.</div></p></li>
@@ -129,7 +139,7 @@ menu: true
 
 ---
 
-<h3 class="h2" style="color: rgb(1,92,171)">Thesis</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Thesis">Thesis</h3>
 <div>
 <ol ><li><p>
   <div>
@@ -147,6 +157,6 @@ menu: true
 
 ---
 
-## Citation Map
+<h3 class="h2" style="color: rgb(1,92,171)" id="Citation Map">Citation Map</h3> 
 
 ![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%" loading="lazy"}
