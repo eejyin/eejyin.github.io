@@ -119,12 +119,144 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
   
-
-
-  
   </div>
 
-<p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
+
+<h3 class="h2" style="color: rgb(1,92,171)">Leadership</h3>
+<div id="leader">
+   <strong>School of Electrical and Electronic Engineering, North China Electric Power University</strong><br>
+   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Student Leader</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sept. 2016 - Jun. 2020</a><br>
+
+ <ul>
+    <li> Received and dispatched messages/materials, and allocated tasks detailedly </li>
+  </ul>
+
+
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
+
+
+</div>
+
+<br>
+
+
+<div id="Student Committee">
+
+  <strong>Student Committee, North China Electric Power University</strong><br>
+  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Member of Student Committee </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Feb. 2016 - Jun. 2019 </a><br>
+
+   <ul>
+    <li> Held responsible for elections, proposals, candidate reviews, and the annual Congress </li>
+    <li> Served for 3 terms as a Member of Student Committee</li> 
+  </ul>
+  
+
+
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
+
+  </div>
+
+
+<h3 class="h2" style="color: rgb(1,92,171)">Awards and Honors</h3>
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>Oct. 2022</td>
+      <td>Graduate Scholarship of SEU</td>
+      <td>Southeast University, Nanjing</td>
+    </tr>
+      <tr>
+      <td>Nov. 2022</td>
+      <td>Second Prize of China in "<a href="https://cpipc.acge.org.cn/cw/hp/4" target="_blank"> National Post-Graduate Mathematical Contest in Modeling</a>" </td>
+      <td>Ministry of Education, Shanghai</td>
+    </tr>
+    <tr>
+      <td>Oct. 2022</td>
+      <td>Graduate Scholarship of NR Electric Co., Ltd</td>
+      <td><a href="http://www.narigroup.com/NR" target="_blank"> Electric Co., Ltd</a>, Nanjing</td>
+    </tr>
+    <tr>
+      <td>Oct. 2021</td>
+      <td>Graduate Scholarship of SEU</td>
+      <td>Southeast University, Nanjing</td>
+    </tr>
+    <tr>
+      <td>Oct. 2020</td>
+      <td>Graduate Scholarship of SEU</td>
+      <td>Southeast University, Nanjing</td>
+    </tr>
+    <tr>
+      <td>Jun. 2020 </td>
+      <td>"Excellent Graduate of Beijing" Honorary Title </td>
+      <td><a href="http://jw.beijing.gov.cn/" target="_blank"> Beijing Municipal Education Commission</a>, Beijing</td>
+    </tr>
+    <tr>
+      <td>Nov. 2019 </td>
+      <td>First Prize of Beijing in "Contemporary Undergraduate Mathematical Contest in Modeling"</td>
+      <td><a href="http://jw.beijing.gov.cn/" target="_blank"> Beijing Municipal Education Commission</a>, Beijing</td>
+    </tr>
+     <tr>
+      <td>Oct. 2019 </td>
+      <td>Undergraduate Scholarship of NCEPU</td>
+      <td>North China Electric Power University, Beijing</td>
+    </tr>
+    <tr>
+      <td>Sept. 2019 </td>
+      <td>Distinction Student of NCEPU</td>
+      <td>North China Electric Power University, Beijing</td>
+    </tr>
+    <tr>
+      <td>May. 2019 </td>
+      <td>"National Excellent" Degree in "National College Student Innovation and Entrepreneurship Training Program"</td>
+      <td>Ministry of Education, Beijing</td>
+    </tr>
+       <tr>
+      <td>Oct. 2018 </td>
+      <td>Undergraduate Scholarship of NCEPU</td>
+      <td>North China Electric Power University, Beijing</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>Oct. 2018 </td>
+      <td>Scholarship of CPCEP Co., Ltd</td>
+      <td><a href="http://www.cpcepgroup.com/index.php?siteid=2" target="_blank"> CPCEP Co., Ltd</a>, Beijing</td>
+    </tr>
+    <tr>
+      <td>Sept. 2018 </td>
+      <td>Outstanding Student Leaders (One candidate per school)</td>
+      <td>North China Electric Power University, Beijing</td>
+    </tr>
+     </tr>
+       <tr>
+      <td>Oct. 2017 </td>
+      <td>Undergraduate Scholarship of NCEPU</td>
+      <td>North China Electric Power University, Beijing</td>
+    </tr>
+    </tr>
+       <tr>
+      <td>Oct. 2017 </td>
+      <td>Scholarship of Beijing Banner Electric Co., Ltd</td>
+      <td><a href="http://www.bjbanner.com/" target="_blank">Beijing Banner Electric Co., Ltd</a>, Beijing</td>
+    </tr>
+    <tr>
+      <td>Sept. 2017 </td>
+      <td>Outstanding Student Leaders (One candidate per school)</td>
+      <td>North China Electric Power University, Beijing</td>
+    </tr>
+  </tbody>
+  <colgroup>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+</table>
+
+
+<!-- <p><img src="./assets/img/sidebar-bg4.jpg" alt="Business models" style="float: left; margin-right: 1.25rem; margin-bottom: 0.5rem; " width="200" loading="lazy"></p>
 <p>Innovation starts here. We’ll design—or transform—your business, revenue, and pricing models for product/market fit, competitive strength, and durability against the future. We’ll uncover and address hidden assumptions, blind spots, and risks, and then put your models into play.</p>
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
@@ -135,4 +267,4 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.note}
 
 
-![lalalallala](/assets/img/blog/jeremy-bishop@0,5x.jpg)
+![lalalallala](/assets/img/blog/jeremy-bishop@0,5x.jpg)  -->
