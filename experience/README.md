@@ -80,7 +80,7 @@ comments: false
 <br>
 
 
-<div id="Conferences">
+<div id="Intern-yangzhou">
 
   <strong>Yangzhou Electric Power Co., Ltd, <a href="http://www.sgcc.com.cn/ywlm/index.shtml">State Grid</a></strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2021 - Jan. 2022 </a><br>
@@ -90,6 +90,28 @@ comments: false
   </ul>
   
   <p><img src="./Yangzhou.png"></p>
+
+
+<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
+-->
+
+  </div>
+
+  <br>
+
+
+<div id="Intern-huizhou">
+
+  <strong>Huizhou Electric Power Co., Ltd, <a href="https://en.wikipedia.org/wiki/China_Southern_Power_Grid">China Southern Power Grid</a></strong><br>
+  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2021 - Jan. 2022 </a><br>
+
+   <ul>
+    <li> Experienced the workflow of dispatch centers, transformer substations and other departments on the spot </li>
+    <li> Participated in safety training and electrical safety physical perception test </li>
+    <li> Strengthened  cooperation and publicity between NCEPU and Guangdong Electric Power Co., Ltd</li>
+  </ul>
+  
+  <p><img src="./Huizhou.jpg"></p>
 
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
