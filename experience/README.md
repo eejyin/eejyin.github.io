@@ -14,7 +14,9 @@ comments: false
                                                                                                                                                                     
 -->
 <div id="toc_container">
-  <a class="toc_title" style="font-size: 15px;" id="toc"> <b>TOC of This Page</b> </a>
+<!--
+<a class="toc_title" style="font-size: 15px;" id="toc"> <b>TOC of This Page</b> </a>
+-->
   <ul class="toc_list">
     <li><a href="#Academic Activity">Academic Activity</a></li>
     <li><a href="#Internship">Internship</a></li>
