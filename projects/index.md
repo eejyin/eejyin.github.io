@@ -36,7 +36,7 @@ comments: false
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
-
+ <p><img src="./2021Transient.png"></p>
 
 </div>
 
@@ -49,19 +49,18 @@ comments: false
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Project Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jun. 2021 - Dec. 2022 </a><br>
 
    <ul>
-    <li> Funded by State Grid Corporation Headquarters Technology Project (No. 5400-202012118A-0-0-00) </li>
-    <li>Proposed innovatively the distributed network reliability evaluation index based on the value engineering theory  </li>
-    <li> Established a comprehensive reliability evaluation index system considering the number of users and power supply capacity </li>
-    <li> Calculated the reliability evaluation index weight based on Analytic hierarchy process (AHP)-Entropy weight method (EWM) </li>
+    <li> Funded by Jiangsu Power Grid Corporation Scientific Research Project (No. J2021012) </li>
+    <li>Studied Kmeans-based PV generation units clustering and characteristics extraction technology  </li>
+    <li> Constructed the fault self-diagnosis evaluation system of PV, aiming to accurately locate the fault panel </li>
+    <li> Proposed the VSG-based inertia evaluation and control method for PV system to realize the friendly interaction </li>
   </ul>
 
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
   
+  <p><img src="./2020Yangzhou"></p>
 
-
-  
   </div>
 
 <br>
@@ -76,16 +75,20 @@ comments: false
   <strong>RESEARCH ON DISTRIBUTION NETWORK PLANNING AND POWER SUPPLY RESTORATION TECHNOLOGY FACING THE RELIABILITY NEEDS OF END USERS</strong><br>
   <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jan. 2020 - Dec. 2021 </a><br>
   
-   <ul>
-    <li> Funded by Jiangsu Power Grid Corporation Scientific Research Project (No. J2021012) </li>
-    <li>Studied Kmeans-based PV generation units clustering and characteristics extraction technology  </li>
-    <li> Constructed the fault self-diagnosis evaluation system of PV, aiming to accurately locate the fault panel </li>
-    <li> Proposed the VSG-based inertia evaluation and control method for PV system to realize the friendly interaction </li>
+
+
+  <ul>
+    <li> Funded by State Grid Corporation Headquarters Technology Project (No. 5400-202012118A-0-0-00) </li>
+    <li>Proposed innovatively the distributed network reliability evaluation index based on the value engineering theory  </li>
+    <li> Established a comprehensive reliability evaluation index system considering the number of users and power supply capacity </li>
+    <li> Calculated the reliability evaluation index weight based on Analytic hierarchy process (AHP)-Entropy weight method (EWM) </li>
   </ul>
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
   
+  <p><img src="./2020Tianjin"></p>
+
   </div>
 
 
@@ -109,7 +112,8 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
 
-    
+  <p><img src="./2019Changzhou"></p>  
+
 </div>
 
    <br>
@@ -131,4 +135,6 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
       
+  <p><img src="./2017M2M"></p> 
+
  </div>
