@@ -59,7 +59,7 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
   
-  <p><img src="./2020Yangzhou"></p>
+  <p><img src="./2020Yangzhou.png"></p>
 
   </div>
 
@@ -87,7 +87,7 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
   
-  <p><img src="./2020Tianjin"></p>
+  <p><img src="./2020Tianjin.png"></p>
 
   </div>
 
@@ -112,7 +112,7 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
 
-  <p><img src="./2019Changzhou"></p>  
+  <p><img src="./2019Changzhou.png"></p>  
 
 </div>
 
@@ -135,6 +135,6 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
       
-  <p><img src="./2017M2M"></p> 
+  <p><img src="./2017M2M.jpg"></p> 
 
  </div>
