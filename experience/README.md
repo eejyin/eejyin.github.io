@@ -75,7 +75,7 @@ comments: false
     <li> Promoted the public acknowledgment of <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml" target="_blank"> <i>"Frontiers Journals"</i></a>, an English academic journal series launched by Higher Education Press (HEP), through posters, online forums, and meetings with scholars </li>
   </ul>
 
-![](Frontier.png)
+  <p><img src="./Frontier.png"></p>
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
 
