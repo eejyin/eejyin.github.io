@@ -13,12 +13,19 @@ comments: false
 
                                                                                                                                                                     
 -->
-* this unordered seed list will be replaced by the toc
-{:toc}
+<div id="toc_container">
+  <a class="toc_title" style="font-size: 15px; color: rgb(1,92,171)" id="toc"> TOC of this page </a>
+  <ul class="toc_list">
+    <li><a href="#Academic Activity">Academic Activity</a></li>
+    <li><a href="#Internship">Internship</a></li>
+    <li><a href="#Leadership">Leadership</a></li>
+    <li><a href="#Awards and Honors">Awards and Honors</a></li>
+  </ul>
+</div>
 
 <hr>
 
-<h3 class="h2" style="color: rgb(1,92,171)">Academic Activity</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Academic Activity">Academic Activity</h3>
 <div id="Peer Reviewer">
    <strong>Academic Journals</strong><br>
    <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Peer Reviewer</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2020 - Present</a><br>
@@ -66,7 +73,7 @@ comments: false
 
 <hr>
 
-<h3 class="h2" style="color: rgb(1,92,171)">Internship</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Internship">Internship</h3>
 <div id="HEP">
    <strong>Frontiers Journals, <a href="https://www.hep.com.cn/" target="_blank">Higher Education Press</a></strong><br>
    <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Publicist</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> May. 2022 - Aug. 2022</a><br>
@@ -128,7 +135,7 @@ comments: false
 
 <hr>
 
-<h3 class="h2" style="color: rgb(1,92,171)">Leadership</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Leadership">Leadership</h3>
 <div id="leader">
    <strong>School of Electrical and Electronic Engineering, North China Electric Power University</strong><br>
    <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Student Leader</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sept. 2016 - Jun. 2020</a><br>
@@ -167,7 +174,7 @@ comments: false
 
 <hr>
 
-<h3 class="h2" style="color: rgb(1,92,171)">Awards and Honors</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Awards and Honors">Awards and Honors</h3>
 
 
 <table>
