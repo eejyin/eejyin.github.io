@@ -172,7 +172,7 @@ comments: false
       <tr>
       <td>Nov. 2022</td>
       <td>Second Prize of China in "<a href="https://cpipc.acge.org.cn/cw/hp/4" target="_blank"> National Post-Graduate Mathematical Contest in Modeling</a>" </td>
-      <td>Ministry of Education, Shanghai</td>
+      <td>Ministry of Education & East China University of Science and Technology, Shanghai</td>
     </tr>
     <tr>
       <td>Oct. 2022</td>
