@@ -7,7 +7,7 @@ hide_description: true
 menu: true
 ---
 <div id="toc_container">
-  <a class="toc_title" style="font-size: 15px; color: rgb(1,92,171)" id="toc"> TOC of This Page </a>
+  <a class="toc_title" style="font-size: 15px; color: rgb(1,92,171)" id="toc"> <b>TOC of This Page</b></a>
   <ul class="toc_list">
     <li><a href="#Journal Papers">Journal Papers</a></li>
     <li><a href="#Conference Papers">Conference Papers</a></li>
