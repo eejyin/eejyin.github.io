@@ -2,7 +2,7 @@
 layout: page
 title: Résumé/CV
 description: >
- <a style="color:#333">Feel free to download my </a> <a href="/assets/files/CV_junjie_yin.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé/CV </a> <a style="color:#333"> and use my LaTeX template, which has been uploaded to </a> <a href="https://www.overleaf.com/latex/templates/resume-one-page/hsrxmjssndwc" title="Prof. Wang's Researchgate" target="_blank"> <span class="icon-overleaf" style="font-size:10px">Overleaf</span></a>.
+ <a style="color:#333">Feel free to download my </a> <a href="/assets/files/CV_junjie_yin.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> Résumé/CV </a> <a style="color:#333"> and use my LaTeX template, which has been uploaded to </a> <a href="https://www.overleaf.com/latex/templates/resume-one-page/hsrxmjssndwc" title="Overleaf Template" target="_blank"> <span class="icon-overleaf" style="font-size:10px">Overleaf</span></a>.
 cover: false
 hide_description: false
 menu: true
