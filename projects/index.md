@@ -155,7 +155,12 @@ comments: false
 
  </div>
 
+ <hr>
+
  <h3 class="h2" style="color: rgb(1,92,171)" id="Testimonials">Testimonials</h3>
+
+Now, I am supervised by <a href="#wang" title="Click to see Prof. Wang's testimonial">Prof. Jianhua Wang</a> at Southeast University (SEU), through the exam-free postgraduate recommendation in 2020. Since my sophomore year 2017 in North China Electrical Power University (NCEPU), I joined <a href="#zhou" title="Click to see Prof. Zhou's testimonial">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="#zeng" title="Click to see Prof. Zeng's testimonial">Prof. Bo Zeng</a>.
+
 
 <div>
 <p><img src="./wang.jpg" id="wang" class="avatar" style="float: right;" ></p>
