@@ -24,8 +24,23 @@ comments: false
 -->
   <ul class="toc_list">
     <li><a href="#Current Projects">Current Projects</a></li>
+      <ul>
+      <li><a href="#2021Transient">Transient stability of power systems</a></li> 
+      <li><a href="#2021Yangzhou">Fault evaluation and control of PV system</a></li> 
+      </ul>
     <li><a href="#Completed Projects">Completed Projects</a></li>
+      <ul>
+      <li><a href="#2020Tianjin">Reliability of distribution network</a></li> 
+      <li><a href="#2019Changzhou">Integrated energy system</a></li> 
+      <li><a href="#2017Beijing">Machine-to-machien(M2M) communication</a></li> 
+      <li><a href="/experience/#Intern-yangzhou" target="_blank">Shared energy storage</a></li> 
+      </ul>
     <li><a href="#Testimonials">Testimonials</a></li>
+    <ul>
+      <li><a href="#wang">Prof. Jianhua Wang - Master advisor</a></li> 
+      <li><a href="#zhou">Prof. Zhenyu Zhou - paper instructor & lab chief</a></li> 
+      <li><a href="#zeng">Prof. Zng Bo - Bachelor's thesis advisor</a></li> 
+      </ul>
   </ul>
 </div>
 
