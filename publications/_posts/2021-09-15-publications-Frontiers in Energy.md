@@ -2,7 +2,7 @@
 layout: post
 title: Frontiers in Energy Research - Integrated Energy System
 description: >
-  Feel free to download <a href="/assets/files/2020FER-Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>. <a href="https://scholar.google.co.uk/citations?view_op=view_citation&amp;hl=en&amp;user=4UxQ7JcAAAAJ&amp;sortby=pubdate&amp;citation_for_view=4UxQ7JcAAAAJ:Y0pCki6q_DkC" class="no-mark-external" target="_blank" alt="Google Scholar"> <span class="icon-googlescholar1"></span> <span aria-hidden="true">Google Scholar </span><span class="sr-only"></span></a>
+  Feel free to download <a href="/assets/files/2020FER-Integrated Energy System Optimal Operation in Coal District With Hydrogen Heavy Trucks.pdf"  target="_blank"> <span class="icon-file-pdf" style="font-size:10px; color: #ee3f24"></span> PDF</a>.
 image: 
   path: /assets/img/blog/frontiers.jpg
   srcset:
