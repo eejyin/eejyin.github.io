@@ -151,7 +151,7 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
       
-  <p><img src="./2017M2M.jpg" style="width: 80%; float:center"></p> 
+  <p style="text-align:center"><img src="./2017M2M.jpg" style="width: 80%></p> 
 
  </div>
 
