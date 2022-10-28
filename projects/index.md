@@ -2,7 +2,7 @@
 layout: page
 title: Research Projects
 description: >
-    Since my sophomore year in North China Electrical Power University (NCEPU), I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>. In 2020, through the exam-free postgraduate recommendation, I entered Southeast University (SEU), supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>.
+    Now, I am supervised by <a href="#wang" title="Click to see Prof. Wang's testimonial">Prof. Jianhua Wang</a> at Southeast University (SEU), through the exam-free postgraduate recommendation in 2020. Since my sophomore year 2017 in North China Electrical Power University (NCEPU), I joined <a href="#zhou" title="Click to see Prof. Zhou's testimonial">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="#zeng" title="Click to see Prof. Zeng's testimonial">Prof. Bo Zeng</a>. 
 hide_description: false
 permalink: /projects/
 comments: false
@@ -18,19 +18,21 @@ comments: false
                                                                                         
                                                                                    
 -->
+<div id="toc_container">
+<!--
+<a class="toc_title" style="font-size: 15px;" id="toc"> <b>TOC of This Page</b> </a>
+-->
+  <ul class="toc_list">
+    <li><a href="#Current Projects">Current Projects</a></li>
+    <li><a href="#Completed Projects">Completed Projects</a></li>
+    <li><a href="#Testimonials">Testimonials</a></li>
+  </ul>
+</div>
+
+<hr>
 
 
-<p><img src="./wang.jpg"  class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
-
-<p><img src="./zhou.jpg"  class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
-
-<p><img src="./zeng.jpg"  class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
-
-
-<h3 class="h2" style="color: rgb(1,92,171)">Current Projects</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Current Projects">Current Projects</h3>
 <div id="2021Transient">
    <strong>RESEARCH ON ACTIVE AND RAPID SUPPORT TECHNOLOGY OF TRANSIENT FREQUENCY AND VOLTAGE FOR PHOTOVOLTAIC/WIND FARM STATIONS</strong><br>
    <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Dec. 2021 - Nov. 2025 </a><br>
@@ -79,7 +81,7 @@ comments: false
 
 
 <div>
-<h3 class="h2" style="color: rgb(1,92,171)">Completed Projects</h3>
+<h3 class="h2" style="color: rgb(1,92,171)" id="Completed Projects">Completed Projects</h3>
 </div>
 
 
@@ -149,6 +151,23 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
       
-  <p><img src="./2017M2M.jpg" style="width: 80%"></p> 
+  <p><img src="./2017M2M.jpg" style="width: 80%; float:center"></p> 
 
  </div>
+
+ <h3 class="h2" style="color: rgb(1,92,171)" id="Testimonials">Testimonials</h3>
+
+<div>
+<p><img src="./wang.jpg" id="wang" class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>, Founder, Systemic</strong></p></blockquote>
+</div>
+
+<div>
+<p><img src="./zhou.jpg"  id="zhou" class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>, Founder, Systemic</strong></p></blockquote>
+</div>
+
+<div>
+<p><img src="./zeng.jpg"  id="zeng" class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>, Founder, Systemic</strong></p></blockquote>
+</div>
