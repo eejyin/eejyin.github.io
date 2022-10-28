@@ -32,7 +32,7 @@ comments: false
       <ul>
       <li><a href="#2020Tianjin">Reliability of distribution network</a></li> 
       <li><a href="#2019Changzhou">Integrated energy system</a></li> 
-      <li><a href="#2017Beijing">Machine-to-machien(M2M) communication</a></li> 
+      <li><a href="#2017Beijing">Machine-to-machien communication</a></li> 
       <li><a href="/experience/#Intern-yangzhou" target="_blank">Shared energy storage</a></li> 
       </ul>
     <li><a href="#Testimonials">Testimonials</a></li>
