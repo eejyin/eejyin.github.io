@@ -2,7 +2,7 @@
 layout: page
 title: Research Projects
 description: >
-    I have conducted several projects in various fields, including <a href="#2021Transient">the transient stability of power systems</a>, <a href="#2021Yangzhou">the fault evaluation and control of PV system</a>, <a href="#2020Tianjin">the reliability of distribution network</a>,  <a href="#2019Changzhou">the integrated energy system</a>,  <a href="#2017Beijing">the machine-to-machien(M2M) communication</a>,  <a href="./experience/#Intern-yangzhou" target="_blank">the shared energy storage</a>.
+    I have conducted several projects in various fields, including <a href="#2021Transient">the transient stability of power systems</a>, <a href="#2021Yangzhou">the fault evaluation and control of PV system</a>, <a href="#2020Tianjin">the reliability of distribution network</a>,  <a href="#2019Changzhou">the integrated energy system</a>,  <a href="#2017Beijing">the machine-to-machien(M2M) communication</a>,  <a href="/experience/#Intern-yangzhou" target="_blank">the shared energy storage</a>.
 hide_description: false
 permalink: /projects/
 comments: false
