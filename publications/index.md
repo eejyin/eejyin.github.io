@@ -153,7 +153,7 @@ menu: true
 <li><p>  
    <div>
     <b>J. Yin</b>. "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System," <b>Bachelor Thesis</b>, North China Electrical Power University, Beijing, June 2020.<br>
-    Supervisor: <a href="https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/5840bd9c828e44cf81b00d7dd460e37e.htm" title="Prof. Zeng in NCEPU" target="_blank">Prof. Bo Zeng</a>
+    Supervisor: <a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in NCEPU" target="_blank">Prof. Bo Zeng</a>
   </div>
 </p></li></ol>
 </div>
