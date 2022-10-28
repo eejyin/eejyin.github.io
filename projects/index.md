@@ -39,7 +39,7 @@ comments: false
     <ul>
       <li><a href="#wang">Prof. Jianhua Wang - Master advisor</a></li> 
       <li><a href="#zhou">Prof. Zhenyu Zhou - paper instructor & lab chief</a></li> 
-      <li><a href="#zeng">Prof. Zng Bo - Bachelor's thesis advisor</a></li> 
+      <li><a href="#zeng">Prof. Zeng Bo - Bachelor's thesis advisor</a></li> 
       </ul>
   </ul>
 </div>
