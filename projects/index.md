@@ -20,6 +20,16 @@ comments: false
 -->
 
 
+<p><img src="./wang.jpg"  class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
+
+<p><img src="./zhou.jpg"  class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
+
+<p><img src="./zeng.jpg"  class="avatar" style="float: right;" ></p>
+<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong>Charles Alexander, Founder, Systemic</strong></p></blockquote>
+
+
 <h3 class="h2" style="color: rgb(1,92,171)">Current Projects</h3>
 <div id="2021Transient">
    <strong>RESEARCH ON ACTIVE AND RAPID SUPPORT TECHNOLOGY OF TRANSIENT FREQUENCY AND VOLTAGE FOR PHOTOVOLTAIC/WIND FARM STATIONS</strong><br>
@@ -139,6 +149,6 @@ comments: false
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
       
-  <p><img src="./2017M2M.jpg"></p> 
+  <p><img src="./2017M2M.jpg" style="width: 80%"></p> 
 
  </div>
