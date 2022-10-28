@@ -159,15 +159,16 @@ comments: false
 
 <div>
 <p><img src="./wang.jpg" id="wang" class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>, Founder, Systemic</strong></p></blockquote>
+<blockquote><p>“From the perspective of his master advisor, I would evaluate Mr. Yin as one of the best students I taught, based on my experience from 12 years of teaching. Mr. Yin always smiles and shows a positive attitude in daily life. He is friendly and willing to help others.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a>, Southeast University</strong></p></blockquote>
 </div>
 
 <div>
 <p><img src="./zhou.jpg"  id="zhou" class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>, Founder, Systemic</strong></p></blockquote>
+<blockquote><p>“During the process of his staying in my lab, I am sincerely delighted with his growth: from a novice in reading academic paper to the first author of an IEEE journal paper. With outstanding academic
+outcomes, he ranked top 1% in his major and granted "Excellent Graduate of Beijing".” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>, North China Electric Power University</strong></p></blockquote>
 </div>
 
 <div>
 <p><img src="./zeng.jpg"  id="zeng" class="avatar" style="float: right;" ></p>
-<blockquote><p>“Shawn is by far one of the smartest and savviest people I know. He is equally adept in conventional and unconventional business environments. Shawn is a master magician at getting things moving in the right direction with focus and clarity. He is a leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>, Founder, Systemic</strong></p></blockquote>
+<blockquote><p>“Before weekly meetings, he always prepared the materials carefully, which made our discussions more efficient and time-saving. In addition, excellent organizational skills and leadership can be found in Mr. Yin. He will deliver on his role as the group leader.” <br> —<strong><a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>, North China Electric Power University</strong></p></blockquote>
 </div>
