@@ -2,7 +2,16 @@
 layout: page
 title: Research Projects
 description: >
-    Now, I am supervised by <a href="#wang" title="Click to see Prof. Wang's testimonial">Prof. Jianhua Wang</a> at Southeast University (SEU), through the exam-free postgraduate recommendation in 2020. Since my sophomore year 2017 in North China Electrical Power University (NCEPU), I joined <a href="#zhou" title="Click to see Prof. Zhou's testimonial">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="#zeng" title="Click to see Prof. Zeng's testimonial">Prof. Bo Zeng</a>. 
+    I have conducted several projects in various fields, including 
+    <a href="#2021Transient">the transient stability of power systems</a>, 
+    <a href="#2021Yangzhou">the fault evaluation and control of PV system</a>, 
+    <a href="#2020Tianjin">the reliability of distribution network</a>, 
+    <a href="#2019Changzhou">the integrated energy system</a>, 
+    <a href="#2017Beijing">the machine-to-machien(M2M) communication</a>,
+    <a href="./experience/#Intern-yangzhou" target="_blank">the shared energy storage</a>.
+
+
+<a href="#wang" title="Click to see Prof. Wang's testimonial">Prof. Jianhua Wang</a> at Southeast University (SEU), through the exam-free postgraduate recommendation in 2020. Since my sophomore year 2017 in North China Electrical Power University (NCEPU), I joined <a href="#zhou" title="Click to see Prof. Zhou's testimonial">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="#zeng" title="Click to see Prof. Zeng's testimonial">Prof. Bo Zeng</a>. 
 hide_description: false
 permalink: /projects/
 comments: false
