@@ -176,7 +176,7 @@ comments: false
 
 Now, I am supervised by <a href="https://ieeexplore.ieee.org/author/37085418471" title="Prof. Wang in IEEEXplore" target="_blank">Prof. Jianhua Wang</a> at Southeast University (SEU), through the exam-free postgraduate recommendation in 2020. Since my sophomore year 2017 in North China Electrical Power University (NCEPU), I joined <a href="https://ieeexplore.ieee.org/author/37404367100" title="Prof. Zhou in IEEEXplore" target="_blank">Prof. Zhenyu Zhou</a>'s Lab and actively participated in scientific research. After that, my undergraduate thesis was supervised by <a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in IEEEXplore" target="_blank">Prof. Bo Zeng</a>.
 
-<br><br>
+<br>
 
 
 <div>
