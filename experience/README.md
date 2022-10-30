@@ -243,7 +243,7 @@ comments: false
     </tr>
     <tr>
       <td>Sept. 2018 </td>
-      <td>Outstanding Student Leaders (One candidate per school)</td>
+      <td>Outstanding Student Leaders (One recipient per school)</td>
       <td>North China Electric Power University, Beijing</td>
     </tr>
        <tr>
@@ -258,7 +258,7 @@ comments: false
     </tr>
     <tr>
       <td>Sept. 2017 </td>
-      <td>Outstanding Student Leaders (One candidate per school)</td>
+      <td>Outstanding Student Leaders (One recipient per school)</td>
       <td>North China Electric Power University, Beijing</td>
     </tr>
   </tbody>
