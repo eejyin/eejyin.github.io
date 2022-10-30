@@ -119,7 +119,7 @@ comments: false
 <div id="Intern-huizhou">
 
   <strong>Huizhou Electric Power Co., Ltd, <a href="https://en.wikipedia.org/wiki/China_Southern_Power_Grid" target="_blank">China Southern Power Grid</a></strong><br>
-  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2021 - Jan. 2022 </a><br>
+  <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Intern </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Jul. 2019 - Aug. 2019 </a><br>
 
    <ul>
     <li> Experienced the workflow of dispatch centers, transformer substations and other departments on the spot </li>
