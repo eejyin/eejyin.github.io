@@ -186,13 +186,8 @@ comments: false
       <td>Graduate Scholarship of SEU</td>
       <td>Southeast University, Nanjing</td>
     </tr>
-      <tr>
-      <td>Nov. 2022</td>
-      <td>Second Prize of China in "<a href="https://cpipc.acge.org.cn/cw/hp/4" target="_blank"> National Post-Graduate Mathematical Contest in Modeling</a>" </td>
-      <td>Ministry of Education & East China University of Science and Technology, Shanghai</td>
-    </tr>
     <tr>
-      <td>Oct. 2022</td>
+      <td>Nov. 2021</td>
       <td>Graduate Scholarship of NR Electric Co., Ltd</td>
       <td><a href="http://www.narigroup.com/NR" target="_blank"> Electric Co., Ltd</a>, Nanjing</td>
     </tr>
@@ -200,6 +195,11 @@ comments: false
       <td>Oct. 2021</td>
       <td>Graduate Scholarship of SEU</td>
       <td>Southeast University, Nanjing</td>
+    </tr>
+    <tr>
+      <td>Nov. 2020</td>
+      <td>Second Prize of China in "<a href="https://cpipc.acge.org.cn/cw/hp/4" target="_blank"> National Post-Graduate Mathematical Contest in Modeling</a>" </td>
+      <td>Ministry of Education & East China University of Science and Technology, Shanghai</td>
     </tr>
     <tr>
       <td>Oct. 2020</td>
