@@ -162,4 +162,4 @@ menu: true
 
 <h3 class="h2" style="color: rgb(1,92,171)" id="Citation Map">Citation Map</h3> 
 
-![Full-width image](/assets/img/blog/M2M-citation.png){:.lead width="100%" loading="lazy"}
+![Full-width image](./citation.png){:.lead width="100%" loading="lazy"}
