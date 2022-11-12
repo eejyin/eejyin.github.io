@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Documents
+title: Backdoor
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-hide_description: true
+  This is my personal secret space. If you visit here by accident, please leave now and the system will report to me if you play any tricks.
+hide_description: false
 sitemap: false
 permalink: /backdoor/
 comments: false
@@ -13,7 +13,9 @@ Visitor records:
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0"></script>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0&cl=ffffff&w=a"></script>
 
+<a href="https://clustrmaps.com/site/1brbn"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0&cl=ffffff" /></a>
 
 <!--
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
