@@ -11,11 +11,12 @@ comments: false
 
 Visitor records:
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0"></script>
-
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0&cl=ffffff&w=a"></script>
 
-<a href="https://clustrmaps.com/site/1brbn"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0&cl=ffffff" /></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0"></script>
+
+
+
 
 <!--
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
