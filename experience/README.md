@@ -223,7 +223,7 @@ comments: false
     </tr>
     <tr>
       <td>Sept. 2019 </td>
-      <td>Distinction Student of NCEPU</td>
+      <td>Student of Merit of NCEPU</td>
       <td>North China Electric Power University, Beijing</td>
     </tr>
     <tr>
