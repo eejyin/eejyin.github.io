@@ -5,9 +5,13 @@ description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
-permalink: /docs/
+permalink: /backdoor/
 comments: false
 ---
+
+Visitor records:
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0"></script>
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
