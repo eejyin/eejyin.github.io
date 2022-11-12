@@ -13,6 +13,9 @@ Visitor records:
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=yBZDuCV9TGIcqKDySYCG1x1ab2L9Z8iwKqpQXamw4L0"></script>
 
+
+
+<!--
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
 Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
@@ -60,3 +63,4 @@ continue to see [Install]
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
+-->
