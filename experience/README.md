@@ -189,7 +189,7 @@ comments: false
     <tr>
       <td>Nov. 2021</td>
       <td>Graduate Scholarship of NR Electric Co., Ltd</td>
-      <td><a href="http://www.narigroup.com/NR" target="_blank"> Electric Co., Ltd</a>, Nanjing</td>
+      <td><a href="http://www.narigroup.com/NR" target="_blank"> NR Electric Co., Ltd</a>, Nanjing</td>
     </tr>
     <tr>
       <td>Oct. 2021</td>
