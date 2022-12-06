@@ -63,7 +63,7 @@ menu: true
 <div id="2022Matrix">
     H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
     <i>Machine Building & Automation</i>, vol. 5, pp. 228-234, 2022. (In Chinese) <br>
-   [<a href="/assets/files/2022Enegy hub" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
+   [<a href="/assets/files/2022Enegy hub.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19344/j.cnki.issn1671-5276.2022.05.055" target="_blank"><img src="/assets/icons/cnki.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="CNKI Website">  CNKI Website</a>]
   </div>
 </p></li>
