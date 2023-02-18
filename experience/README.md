@@ -33,8 +33,8 @@ comments: false
    <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Peer Reviewer</a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Oct. 2020 - Present</a><br>
 
  <ul>
-    <li> Reviewed 15 manuscripts submitted to IEEE ACCESS </li>
     <li> Reviewed 2 manuscripts submitted to IEEE Transactions on Industry Applications </li>
+    <li> Reviewed 21 manuscripts submitted to IEEE ACCESS </li>
     <li> Assisted the advisor in reviewing severval journals </li>
     <li> The related recording can be found at  <a href="https://www.webofscience.com/wos/author/record/1963852" title="Peer Review Record" target="_blank" alt="Clarivate"> <span class="icon-clarivate-logo"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span> <span aria-hidden="true"> Web of Science </span><span class="sr-only"></span></a> </li>
   </ul>
