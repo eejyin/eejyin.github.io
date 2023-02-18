@@ -147,6 +147,8 @@ comments: false
 </div>
 
    <br>
+
+<!--    
    <hr>
 
 <div id="2017Beijing">
@@ -161,7 +163,7 @@ comments: false
     <li>  Converted the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot, based on Lyapunov optimization </li>
     <li> Utilized Gale–Shapley algorithm to formulate a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR) </li>
   </ul>
-
+-->
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
