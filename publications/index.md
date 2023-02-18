@@ -34,7 +34,7 @@ menu: true
   </div>
 </p></li>
 
-<li><p> 
+<!--<li><p> 
 <div id="2019ACCESS">
    <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
@@ -43,7 +43,7 @@ menu: true
    <span  style="float: right;"><a href="/publications/2019M2M">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
   </div>
 </p></li>
-
+-->
 
 
 <li><p> 
@@ -103,7 +103,7 @@ menu: true
    <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, pp. 789-794, Xining, China, Jul. 2022.<br>
    [<a href="/assets/files/2022ICPET.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [Oral Presenter] &nbsp;
-   [<a href="http://www.icpet.org/" target="_blank">Link</a>] &nbsp;
+   [<a href="https://ieeexplore.ieee.org/document/9918430" target="_blank">Link</a>] &nbsp;
    <!--<span  style="float: right;"><a href="/publications/ICPET2022">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span> -->
   </div>
 </p></li>
@@ -149,13 +149,13 @@ menu: true
 <ol ><li><p>
   <div>
     <b>J. Yin</b>. "Research on Transient Stability of Grid-connected Converter," <b>Master Thesis</b>, Southeast University, Nanjing, June 2023. (To be expected)<br>
-    Supervisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang in SEU" target="_blank">Prof. Jianhua Wang</a>  
+    Advisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang in SEU" target="_blank">Prof. Jianhua Wang</a>  
   </div>
 </p></li>
 <li><p>  
    <div>
     <b>J. Yin</b>. "Research on Multi-energy Flow Interactive Coupling Characteristics and Optimal Scheduling of Integrated Energy System," <b>Bachelor Thesis</b>, North China Electrical Power University, Beijing, June 2020.<br>
-    Supervisor: <a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in NCEPU" target="_blank">Prof. Bo Zeng</a>
+    Advisor: <a href="https://ieeexplore.ieee.org/author/37089503434" title="Prof. Zeng in NCEPU" target="_blank">Prof. Bo Zeng</a>
   </div>
 </p></li></ol>
 </div>
