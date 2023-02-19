@@ -32,7 +32,7 @@ comments: false
       <ul>
       <li><a href="#2020Tianjin">Reliability of distribution network</a></li> 
       <li><a href="#2019Changzhou">Integrated energy system</a></li> 
-      <li><a href="#2017Beijing">Machine-to-machien communication</a></li> 
+      <!--   <li><a href="#2017Beijing">Machine-to-machien communication</a></li> -->
       <li><a href="/experience/#Intern-yangzhou" target="_blank">Shared energy storage</a></li> 
       </ul>
     <li><a href="#Testimonials">Testimonials</a></li>
@@ -167,11 +167,12 @@ comments: false
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->
-      
+
+ <!--       
   <p style="text-align:center"><img src="./2017M2M.jpg" style="width: 80%">  </p> 
 
  </div>
-
+-->
  <hr>
 
  <h3 class="h2" style="color: rgb(1,92,171)" id="Testimonials">Testimonials</h3>
