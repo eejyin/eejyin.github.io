@@ -151,7 +151,7 @@ comments: false
 <!--    
    <hr>
 
-<div id="2017Beijing">
+  <div id="2017Beijing">
   
    <strong>RESEARCH ON POWER INTERNET OF THINGS TECHNOLOGY FOR MASS TERMINAL ACCESS</strong><br>
     <a style="margin-right: 2em;color: black;"><span class="icon-user" style="font-size: 10px;"></span> Topic Investigator </a>   <a style="margin-right: 2em;color: black;"><span class="icon-clock" style="font-size: 10px;"></span> Sep. 2017 - Dec. 2019 </a><br>
@@ -163,15 +163,10 @@ comments: false
     <li>  Converted the original long-term optimization problem into the admission rate control subproblem and the resource allocation subproblem in each time slot, based on Lyapunov optimization </li>
     <li> Utilized Gale–Shapley algorithm to formulate a two-dimensional matching problem, and the preference lists are established by the transmission rate and signal to interference plus noise ratio (SINR) </li>
   </ul>
--->
-
-<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
--->
-
- <!--       
+  
   <p style="text-align:center"><img src="./2017M2M.jpg" style="width: 80%">  </p> 
 
- </div>
+  </div>
 -->
  <hr>
 
