@@ -60,7 +60,7 @@ menu: true
     徐卫君, 张伟, 胡宇涛, <b>尹俊杰</b>, 王建华. 先进绝热压缩空气储能多能流优化调度模型[J]. 电工技术学报, 2022, 37(23):5944-5955.<br>
    [<a href="/assets/files/2022Compressed Air.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19595/j.cnki.1000-6753.tces.220772" target="_blank"><img src="/assets/icons/cnki.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="CNKI Website">  CNKI Website</a>]&nbsp;
-   [<a href="https://mp.weixin.qq.com/s/alND9Crx-8ABDW1FMADdgQ" target="_blank"> <span class="icon-wechat" style="font-size:15px;"></span> Journal official reports (期刊官方报道)  <span class="icon-star" style="font-size:10px; color: #FFD700;"></span> </a>]
+   [<span class="icon-wechat" style="font-size:15px;"></span> <a href="https://mp.weixin.qq.com/s/alND9Crx-8ABDW1FMADdgQ" target="_blank">  Journal official reports (期刊官方报道)  <span class="icon-star" style="font-size:18px; color: #FFD700;"></span> </a>]
   </div>
 </p></li>
 
