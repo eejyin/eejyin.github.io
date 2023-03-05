@@ -39,7 +39,7 @@ menu: true
    <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
    [<a href="/assets/files/2019ACCESS-QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
-   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="Frontiers Website">  IEEE Xplore Website</a>] &nbsp;
+   [<a href="https://ieeexplore.ieee.org/document/8678771" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="IEEE Website">  IEEE Xplore Website</a>] &nbsp;
    <span  style="float: right;"><a href="/publications/2019M2M">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
   </div>
 </p></li>
@@ -54,8 +54,13 @@ menu: true
 
 <li><p> 
 <div id="2022CAES">
-    W. Xu, W. Zhang, Y. Hu, <b>J. Yin</b> and J. Wang, "Multi Energy Flow Optimal Scheduling Model of Compressed Air Energy Storage Based on Matrix Modeling of Energy Hub," 
-    <i>Transactions of China Electrotechnical Society</i>. (In Chinese, Aug. 2022 accepted)
+    W. Xu, W. Zhang, Y. Hu, <b>J. Yin</b> and J. Wang, "Multi Energy Flow Optimal Scheduling Model of Advanced Adiabatic Compressed Air Energy Storage," 
+    <i>Transactions of China Electrotechnical Society</i>, vol. 37, no. 23, pp. 5944-5955, 2022. (In Chinese)<br>
+
+    徐卫君, 张伟, 胡宇涛, <b>尹俊杰</b>, 王建华. 先进绝热压缩空气储能多能流优化调度模型[J]. 电工技术学报, 2022, 37(23):5944-5955.<br>
+   [<a href="/assets/files/2022Compressed Air.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
+   [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19595/j.cnki.1000-6753.tces.220772" target="_blank"><img src="/assets/icons/cnki.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="CNKI Website">  CNKI Website</a>]&nbsp;
+   [<a href="https://mp.weixin.qq.com/s/alND9Crx-8ABDW1FMADdgQ" target="_blank"> <span class="icon-wechat" style="font-size:15px;"></span> Journal official reports (期刊官方报道)  <span class="icon-star" style="font-size:10px; color:#FFFF00"></span> </a>]
   </div>
 </p></li>
 
@@ -63,6 +68,9 @@ menu: true
 <div id="2022Matrix">
     H. Lu, Z. Zhuang, L. Chen, W. Zhang, <b>J. Yin</b> and J. Wang, "Optimal Scheduling of Multi-energy Flow of CCHP Based on Matrix Modeling of Energy Hub," 
     <i>Machine Building & Automation</i>, vol. 5, pp. 228-234, 2022. (In Chinese) <br>
+
+
+   陆怀谷, 庄重, 陈亮, 张伟, <b>尹俊杰</b>, 王建华. 基于能源集线器矩阵化建模的冷热电多能流优化调度[J]. 机械制造与自动化, 2022, 51(05):228-234.<br>
    [<a href="/assets/files/2022Enegy hub.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19344/j.cnki.issn1671-5276.2022.05.055" target="_blank"><img src="/assets/icons/cnki.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="CNKI Website">  CNKI Website</a>]
   </div>
@@ -103,7 +111,7 @@ menu: true
    <i>Proceedings of 2022 The 4th International Conference on Power and Energy Technology</i>, pp. 789-794, Xining, China, Jul. 2022.<br>
    [<a href="/assets/files/2022ICPET.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [Oral Presenter] &nbsp;
-   [<a href="https://ieeexplore.ieee.org/document/9918430" target="_blank">Link</a>] &nbsp;
+   [<a href="https://ieeexplore.ieee.org/document/9918430" target="_blank"><img src="/assets/icons/ieee.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="IEEE Website">Link</a>] &nbsp;
    <!--<span  style="float: right;"><a href="/publications/ICPET2022">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span> -->
   </div>
 </p></li>
@@ -114,7 +122,7 @@ menu: true
    <i>Proceedings of  2020 International Conference on Smart Grid and Energy Engineering</i>, pp. 012026-012032, Guilin, China, Nov. 2020.<br>
    [<a href="/assets/files/2020SGEE.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="/assets/files/2020SGEE_poster.pdf" target="_blank"> Poster</a>] &nbsp;
-   [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank">Link</a>] &nbsp;
+   [<a href="https://iopscience.iop.org/article/10.1088/1755-1315/645/1/012026" target="_blank"><img src="/assets/icons/IOP.png" style="width:1em;margin:0 0.2em 0 0.1em;" alt="IOP Website">Link</a>] &nbsp;
    <!-- <span  style="float: right;"> <a href="/publications/SGEE2020">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>  -->
   </div>
 </p></li>
