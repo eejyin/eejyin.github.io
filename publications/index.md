@@ -174,4 +174,4 @@ menu: true
 
 <h3 class="h2" style="color: rgb(1,92,171)" id="Citation Map">Citation Map</h3> 
 
-![Full-width image](./citation.png){:.lead width="100%" loading="lazy"}
+<img src="./citation.png" style="width:10 em;margin:0 0.1em 0 0.1em;" alt="citaion map">
