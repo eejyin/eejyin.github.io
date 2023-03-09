@@ -48,7 +48,7 @@ menu: true
 
 <li><p> 
 <div id="2022Energy">
-    B. Kong, J. Zhu, S. Wang, X. Xu, X. Jin, <b>J. Yin</b>, J. Wang. "Comparative Study of the Transmission Capacity of Grid-Forming Converters and Grid-Following Converters," <i>Energies</i>, 2023, 16, 2594. <br>
+    B. Kong, J. Zhu, S. Wang, X. Xu, X. Jin, <b>J. Yin</b>, J. Wang. "Comparative Study of the Transmission Capacity of Grid-Forming Converters and Grid-Following Converters," <i>Energies</i>, vol. 16, no. 6, pp. 2594-2607, 2023. <br>
 
   [<a href="/assets/files/2023energies.pdf" target="_blank"> <span class="icon-file-pdf" style="font-size:15px; color: #ee3f24"></span> PDF</a>] &nbsp;
    [<a href="https://www.mdpi.com/1996-1073/16/6/2594" target="_blank"><img src="/assets/icons/mdpi.png" style="width:1em;margin:0 0.1em 0 0.1em;" alt="CNKI Website">  MDPI Website</a>]
