@@ -145,13 +145,25 @@ menu: true
 <h3 class="h2" style="color: rgb(1,92,171)" id="Patents">Patents</h3>
 <div>
 <ol >
-  <li><p><div><b>J. Yin</b>, J. Wang, N. Wang, et al. "A User-Oriented Calculation Method of Distribution Network Reliability Evaluation Index." China Patent No. 2022108630263.  Jul. 2022.</div></p></li>
+  <li><p><div><b>J. Yin</b>, J. Wang, N. Wang, et al. "A User-Oriented Calculation Method of Distribution Network Reliability Evaluation Index." China Patent No. 2022108630263.  Jul. 2022. (The First Inventor, Examining)</div></p>
+  <p><div><b>尹俊杰</b>, 王建华, 王楠, 范须露. 一种面向用户侧的配电网可靠性评估方法及存储介质与流程 [P]. 中国专利, CN202210863026.3, 2022-07-20. (第一发明人, 实质审查)</div></p>
+  </li>
 
-  <li><p><div>J. Wang, <b>J. Yin</b>, H. Yan. "Method for Weight Formulating of the Evaluation Index of Distribution Network Reliability." China Patent No. 2022100109403.  Jan. 2022.</div></p></li>
+  <li><p><div>J. Wang, <b>J. Yin</b>, H. Yan. "Method for Weight Formulating of the Evaluation Index of Distribution Network Reliability." China Patent No. 2022100109403.  Jan. 2022. (The Second Inventor, Examining)</div></p>
+  <p><div>王建华, <b>尹俊杰</b>, 闫涵. 配电网可靠性评估指标权重制定方法、设备及存储介质 [P]. 中国专利, CN202210010940.3, 2022-01-06. (第二发明人, 实质审查)</div></p>
+  </li>
 
-  <li><p><div>J. Wang, <b>J. Yin</b>, X. Li. "A Modeling Method of Converter Sequence Impedance in Rectifier-Inverter Mode." China Patent No. 2021112230502. 20 Oct. 2021.</div></p></li>
+  <li><p><div>J. Wang, <b>J. Yin</b>, X. Li. "A Modeling Method of Converter Sequence Impedance in Rectifier-Inverter Mode." China Patent No. 2021112230502. 20 Oct. 2021. (The Second Inventor, Examining)</div></p>
+  <p><div>王建华, <b>尹俊杰</b>, 李旭枫. 一种基于自适应虚拟阻抗的功率解耦改进控制方法 [P]. 中国专利, CN202111223051.7, 2021-10-20. (第二发明人, 实质审查)</div></p>
+  </li>
 
-  <li><p><div>J. Wang, <b>J. Yin</b>, X. Li. "An Improved Control Method for Power Decoupling Based on Adaptive Virtual Impedance." China Patent No. 2021112230517. Oct. 2021.</div></p></li>
+  <li><p><div>J. Wang, <b>J. Yin</b>, X. Li. "An Improved Control Method for Power Decoupling Based on Adaptive Virtual Impedance." China Patent No. 2021112230517. Oct. 2021. (The Second Inventor, Examining)</div></p>
+  <p><div>王建华, <b>尹俊杰</b>, 李旭枫. 一种整流逆变模式下的变流器序阻抗建模方法 [P]. 中国专利, CN202111223050.2, 2021-10-20. (第二发明人, 实质审查)</div></p>
+  </li>
+
+   <li><p><div>J. Liu, J. Zhu, B. Kong, S. Wang, J. Wang, S. Chen, Y. Chen, X. Zhan, <b>J. Yin</b>. "A Grid-connected Static Stability Evaluation Method Based on the Limit Transmission Power of Converter." China Patent No. 113725908B. Oct. 2022. (The First Student Inventor, authorized)</div></p>
+  <p><div>刘江东, 朱健, 孔伯骏, 王升波, 王建华, 陈思宇, 陈艳, 詹昕, <b>尹俊杰</b>. 一种基于变流器极限传输功率的并网静态稳定性评估方法 [P]. 中国专利, CN113725908B, 2022-10-28. (第一学生发明人, 已授权)</div></p>
+  </li>
 </ol>
 </div>
 
