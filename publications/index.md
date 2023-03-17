@@ -161,8 +161,8 @@ menu: true
   <p><div>王建华, <b>尹俊杰</b>, 李旭枫. 一种整流逆变模式下的变流器序阻抗建模方法 [P]. 中国专利, CN202111223050.2, 2021-10-20. (第二发明人, 实质审查)</div></p>
   </li>
 
-   <li><p><div>J. Liu, J. Zhu, B. Kong, S. Wang, J. Wang, S. Chen, Y. Chen, X. Zhan, <b>J. Yin</b>. "A Grid-connected Static Stability Evaluation Method Based on the Limit Transmission Power of Converter." China Patent No. 113725908B. Oct. 2022. (The First Student Inventor, authorized)</div></p>
-  <p><div>刘江东, 朱健, 孔伯骏, 王升波, 王建华, 陈思宇, 陈艳, 詹昕, <b>尹俊杰</b>. 一种基于变流器极限传输功率的并网静态稳定性评估方法 [P]. 中国专利, CN113725908B, 2022-10-28. (第一学生发明人, 已授权)</div></p>
+   <li><p><div>J. Liu, J. Zhu, B. Kong, S. Wang, J. Wang, S. Chen, Y. Chen, X. Zhan, <b>J. Yin</b>. "A Grid-connected Static Stability Evaluation Method Based on the Limit Transmission Power of Converter." China Patent No. 113725908B. Oct. 2022. (The First Student Inventor, <a style="color: rgb(255,0,0)">Authorized</a>)</div></p>
+  <p><div>刘江东, 朱健, 孔伯骏, 王升波, 王建华, 陈思宇, 陈艳, 詹昕, <b>尹俊杰</b>. 一种基于变流器极限传输功率的并网静态稳定性评估方法 [P]. 中国专利, CN113725908B, 2022-10-28. (第一学生发明人,  <a style="color: rgb(255,0,0)">已授权</a>)</div></p>
   </li>
 </ol>
 </div>
