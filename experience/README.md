@@ -112,7 +112,7 @@ comments: false
      <source src="./Yangzhou.mp4" type="video/mp4">
 </video>
 
-<span  style="float: right;font-size:8px;color: rgb(200,200,200)"> © 国网江苏省电力有限公司“苏电牛思”微信视频号</span>
+<span  style="float: right;font-size:10px;color: rgb(200,200,200)"> © 国网江苏省电力有限公司“苏电牛思”微信视频号</span>
 
 
 
