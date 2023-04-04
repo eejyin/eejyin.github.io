@@ -112,6 +112,9 @@ comments: false
      <source src="./Yangzhou.mp4" type="video/mp4">
 </video>
 
+<span  style="float: right;font-size:8px;color: rgb(200,200,200)"> © 国网江苏省电力有限公司“苏电牛思”微信视频号</span>
+
+
 
 <!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
 -->

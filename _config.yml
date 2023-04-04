@@ -78,7 +78,7 @@ legal:
     url:               /THANKS
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved.
+copyright:             © 2023 尹俊杰 Junjie Yin. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
