@@ -3,17 +3,17 @@
 # Change `author1` to your shortname.
 author1:
   name:                Junjie Yin
-  email:               yinjunjie@seu.edu.cn
+  email:               yin@utk.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
 
     <a style="font-size:20px;"><b>Junjie Yin</b></a><br> 
-    Master's Degree in Electrical Engineering <br><br>
-    Southeast University<br>
-    No.2 Sipailou<br>
-    Nanjing 210096, China <br> 
+    PhD student in Electrical Engineering <br><br>
+    Min H. Kao Building<br> 
+    University of Tennessee <br> 
+    Knoxville, TN 37996, United States <br> 
 
 
 
@@ -29,7 +29,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:             yinjunjie@seu.edu.cn
+    email:              yin@utk.edu
     googlescholar:     4UxQ7JcAAAAJ
     orcid:             0000-0001-7782-7274
     researchgate:      Junjie-Yin-3
