@@ -27,6 +27,12 @@ comments: false
 
 <hr>
 
+## Table of Contents
+{:.no_toc}
+
+* TOC
+{:toc}
+
 <h3 class="h2" style="color: rgb(1,92,171)" id="Academic Activity">Academic Activity</h3>
 <div id="Peer Reviewer">
    <strong>Academic Journals</strong><br>
