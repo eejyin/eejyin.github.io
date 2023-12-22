@@ -14,3 +14,5 @@ sitemap: false
 ---
 
 <img src="/Resume/CV_junjie_yin_2.png"  alt="<b>Oops</b>: This browser does not support PDFs. Please download the PDF to view it.">
+
+<iframe src="/assets/files/CV_junjie_yin.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
