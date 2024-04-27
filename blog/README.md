@@ -10,12 +10,8 @@ comments: false
 
 <!--
 
-                                                                                                                                                                    
--->
+                                                                                                                                                    
 <div id="toc_container">
-<!--
-<a class="toc_title" style="font-size: 15px;" id="toc"> <b>TOC of This Page</b> </a>
--->
   <ul class="toc_list">
     <li><a href="#Academic Activity">Academic Activity</a></li>
     <li><a href="#Internship">Internship</a></li>
@@ -39,16 +35,13 @@ comments: false
   </ul>
 
 
-<!-- <span style="float: right;"> <a href="/publications/2021IES">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
--->
+
 
 
 </div>
 
 <br>
-
+-->
 # Live in Knoxville
 ## Dental Health - Teeth cleaning
-[Dental Health - Teeth cleaning](https://eejyin.notion.site/Dental-Health-in-Knoxville-d9d41931773741a89e5f179120d4c0b2)
-## [Dental Health - Teeth cleaning](https://eejyin.notion.site/Dental-Health-in-Knoxville-d9d41931773741a89e5f179120d4c0b2)
-<a href="http://www.cieec-conf.org/" target="_blank">IEEE 5th International Electrical and Energy Conference (CIEEC 2022)</a>
+[Article link](https://eejyin.notion.site/Dental-Health-in-Knoxville-d9d41931773741a89e5f179120d4c0b2)
