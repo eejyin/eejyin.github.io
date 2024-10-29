@@ -34,7 +34,7 @@ menu: true
   </div>
 </p></li>
 
-<!--<li><p> 
+<li><p> 
 <div id="2019ACCESS">
    <b>J. Yin</b>, Y. Chen, G. Sang, B. Liao and X. Wang, "QoE-Oriented Rate Control and Resource Allocation for Cognitive M2M Communication in Spectrum-Sharing OFDM Networks," 
     <i>IEEE Access</i>, vol. 7, pp. 43318-43330, 2019. <br>
@@ -43,7 +43,6 @@ menu: true
    <span  style="float: right;"><a href="/publications/2019M2M">Reading details</a><span class="icon-arrow-right2" style="font-size:12px;margin:0 0.5em 0 0.5em;"></span></span>
   </div>
 </p></li>
--->
 
 
 <li><p> 
