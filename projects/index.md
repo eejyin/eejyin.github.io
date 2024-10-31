@@ -148,7 +148,7 @@ comments: false
 
    <br>
 
-<!--    
+ 
    <hr>
 
   <div id="2017Beijing">
@@ -167,7 +167,7 @@ comments: false
   <p style="text-align:center"><img src="./2017M2M.jpg" style="width: 80%">  </p> 
 
   </div>
--->
+
  <hr>
 
  <h3 class="h2" style="color: rgb(1,92,171)" id="Testimonials">Testimonials</h3>
