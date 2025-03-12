@@ -46,4 +46,4 @@ comments: false
 -->
 # Live in Knoxville
 ## Dental Health - Teeth cleaning
-[Article link](https://eejyin.notion.site/Dental-Health-in-Knoxville-d9d41931773741a89e5f179120d4c0b2)
+[Article link](https://trapezoidal-caravel-237.notion.site/Dental-Health-in-Knoxville-1880705abada8100b033fc2c01a40dad)
