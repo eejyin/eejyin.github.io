@@ -1,0 +1,199 @@
+cv:
+  name: Junjie (John) Yin
+  label: PhD Researcher in Electrical Engineering — AI for Power Systems
+  email: jyin10@vols.utk.edu
+  location: Knoxville, TN, USA
+  image: prof_pic.jpg
+  summary: >-
+    PhD researcher in Electrical Engineering at the University of Tennessee, Knoxville (CURENT),
+    working at the intersection of artificial intelligence and electric power systems — grid
+    resilience, stability, and operations. 2026 Research Intern at Microsoft.
+
+  social_networks:
+    - network: GitHub
+      username: eejyin
+    - network: LinkedIn
+      username: junjie-yin-b8005b240
+
+  sections:
+    Education:
+      - institution: University of Tennessee, Knoxville (UTK)
+        location: Knoxville, TN, USA
+        url: https://www.utk.edu/
+        area: Electrical Engineering
+        studyType: PhD
+        start_date: 2023-08
+        end_date: 2027-05
+        highlights:
+          - 'Advisor: Prof. Fangxing "Fran" Li. Graduate Research Assistant at CURENT.'
+          - Expected May 2027.
+
+      - institution: Southeast University (SEU)
+        location: Nanjing, China
+        url: https://www.seu.edu.cn/english/
+        area: Electrical Engineering
+        studyType: MS
+        start_date: 2020-09
+        end_date: 2023-06
+
+      - institution: North China Electric Power University (NCEPU)
+        location: Beijing, China
+        url: https://english.ncepu.edu.cn/
+        area: Electrical Engineering
+        studyType: BS
+        start_date: 2016-09
+        end_date: 2020-06
+
+    Experience:
+      - company: CURENT, University of Tennessee, Knoxville
+        position: Graduate Research Assistant
+        location: Knoxville, TN, USA
+        url: https://curent.utk.edu/
+        start_date: 2023-08
+        highlights:
+          - Developed and maintained real-time simulation models for bulk-power-system validation as a developer of the CURENT Large-scale Testbed (LTB).
+          - Implemented contingency and dynamic disturbance scenarios for operational reliability studies.
+          - Supported hardware-in-the-loop (HIL) demonstrations of inverter-based resources and frequency-stability performance.
+
+      - company: University of Tennessee, Knoxville
+        position: Graduate Teaching Assistant
+        location: Knoxville, TN, USA
+        start_date: 2023-08
+        highlights:
+          - "Courses supported: Power System Analysis, Electric Energy System Components, Circuits II."
+
+      - company: Microsoft
+        position: Research Intern
+        location: Redmond, WA, USA
+        url: https://www.microsoft.com/
+        start_date: 2026-06
+        end_date: 2026-08
+        highlights:
+          - Summer research intern working on AI/ML for electricity-infrastructure planning.
+
+      - company: Frontiers Journals, Higher Education Press (HEP)
+        position: Publicist
+        location: China
+        start_date: 2022-05
+        end_date: 2022-08
+        highlights:
+          - Promoted the "Frontiers Journals" English academic series through posters, online forums, and meetings with scholars.
+
+      - company: Yangzhou Electric Power Co., Ltd (State Grid)
+        position: Intern
+        location: Yangzhou, China
+        start_date: 2021-07
+        end_date: 2022-01
+        highlights:
+          - Analyzed load-overcapacity issues for commercial and industrial customers using peak-demand patterns and contractual limits.
+          - Conducted cost-benefit analysis of mitigation strategies (capacity upgrades, penalty payments, shared energy storage).
+          - Developed an optimization-based scheduling strategy for shared energy storage to reduce peak demand and operating costs.
+
+      - company: Huizhou Electric Power Co., Ltd (China Southern Power Grid)
+        position: Intern
+        location: Huizhou, China
+        start_date: 2019-07
+        end_date: 2019-08
+        highlights:
+          - Observed real-time dispatch-center operations and substation workflows.
+          - Completed electrical-safety and field-safety training aligned with utility operational standards.
+
+    Professional Service &amp; Leadership:
+      - bullet: "**IEEE PES AI for Power Systems Coordinating Committee (AIPSCC)** — Technical Coordinator (Dec. 2025 – present): support website/communication, coordinate the IEEE course *AI for Power and Energy Systems*, and lead AI-for-power survey initiatives."
+      - bullet: "**IEEE PES Working Group on Machine Learning for Power Systems (MLPS)** — Technical Coordinator (Aug. 2023 – Dec. 2025): supported operations, member communications, and general-meeting logistics."
+      - bullet: "**Peer reviewer** for IEEE Transactions on Smart Grid, IEEE Transactions on Industry Applications, IEEE Open Access Journal of Power and Energy, and IEEE Access (*IEEE Access Exceptional Reviewer 2025*), among others."
+      - bullet: "**Community volunteering** — ASPCA (American Society for the Prevention of Cruelty to Animals), animal-welfare initiatives."
+      - bullet: "**Student leadership**, School of Electrical and Electronic Engineering, NCEPU — Student Leader (2016–2020) and Student Committee member (2016–2019)."
+
+    Honors and Awards:
+      - title: Associate Member, Sigma Xi — The Scientific Research Honor Society
+        awarder: Sigma Xi
+        url: https://www.sigmaxi.org/
+        date: 2026-05
+      - title: IEEE Eta Kappa Nu (HKN) Member, Beta Phi Chapter
+        awarder: IEEE-HKN
+        url: https://hkn.ieee.org/
+        date: 2026-05
+      - title: IEEE Access Exceptional Reviewer
+        awarder: IEEE Access
+        url: https://ieeeaccess.ieee.org/
+        date: 2026-05
+      - title: IEEE PES PCCC Best Oral Presentation Award
+        awarder: IEEE Power &amp; Energy Society
+        url: https://www.ieee-pes.org/
+        date: 2025-07
+      - title: Graduate Scholarship of Southeast University
+        awarder: Southeast University, Nanjing
+        date: 2022-10
+      - title: Graduate Scholarship of NR Electric Co., Ltd
+        awarder: NR Electric Co., Ltd, Nanjing
+        date: 2021-11
+      - title: Second Prize of China — National Post-Graduate Mathematical Contest in Modeling
+        awarder: Ministry of Education
+        date: 2020-11
+      - title: '"Excellent Graduate of Beijing" Honorary Title (Top 5%)'
+        awarder: Beijing Municipal Education Commission
+        date: 2020-06
+      - title: First Prize of Beijing — Contemporary Undergraduate Mathematical Contest in Modeling
+        awarder: Beijing Municipal Education Commission
+        date: 2019-11
+      - title: National "Excellent" — National College Student Innovation and Entrepreneurship Training Program
+        awarder: Ministry of Education
+        date: 2019-05
+      - title: Undergraduate Scholarships of NCEPU (multiple years)
+        awarder: North China Electric Power University, Beijing
+        date: 2018-10
+
+    Certificates:
+      - name: Fundamentals of Engineering (FE), Electrical and Computer
+        issuer: NCEES
+        url: https://www.credly.com/badges/23b5e47f-30ef-4739-924b-0548eb012bbb/public_url
+        date: 2026-06
+      - name: Research Security Training
+        issuer: CITI Program
+        date: 2026-03
+      - name: Physical Science Responsible Conduct of Research
+        issuer: CITI Program
+        date: 2026-03
+      - name: Conflict of Interest
+        issuer: CITI Program
+        date: 2024-07
+
+    # [take action] The source site listed these skills as bracketed examples/placeholders.
+    # They are reasonable for your profile — please review, trim, or expand to match your actual expertise.
+    Skills:
+      - name: Programming &amp; ML
+        icon: fa-solid fa-code
+        keywords:
+          - Python
+          - PyTorch / TensorFlow
+          - NumPy / Pandas
+          - scikit-learn
+          - LLM &amp; RAG tooling
+          - MATLAB
+          - C/C++
+      - name: Power-System Software
+        icon: fa-solid fa-bolt
+        keywords:
+          - PSS/E
+          - PSCAD / EMTDC
+          - OpenDSS
+          - MATPOWER
+          - Simulink
+          - ANDES
+          - CURENT LTB
+          - GridLAB-D
+      - name: Methods &amp; Domains
+        icon: fa-solid fa-square-root-variable
+        keywords:
+          - Optimization (LP / MILP / convex)
+          - Optimal power flow
+          - Stability &amp; dynamics
+          - Real-time / HIL simulation
+          - Electricity markets
+
+    Languages:
+      - name: English
+        summary: Professional working proficiency
+      - name: Chinese (Mandarin)
+        summary: Native

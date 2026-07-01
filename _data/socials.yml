@@ -1,0 +1,13 @@
+# Social media links and academic profiles for Junjie Yin.
+# Rendered by the jekyll-socials plugin (https://github.com/george-gca/jekyll-socials).
+# Links are displayed in the order they are defined here.
+email: jyin10@vols.utk.edu # primary email address
+scholar_userid: 4UxQ7JcAAAAJ # Google Scholar ID
+orcid_id: 0000-0001-7782-7274 # ORCID iD
+research_gate_profile: Junjie-Yin-3 # ResearchGate profile slug
+linkedin_username: junjie-yin-b8005b240 # LinkedIn vanity name
+github_username: eejyin # GitHub username
+cv_pdf: /assets/pdf/CV_junjie_yin.pdf # path to the CV/résumé PDF
+rss_icon: true # show the RSS icon (comment out to hide)
+# [take action] Web of Science / Publons profile (ABB-5640-2020) has no built-in icon in
+# jekyll-socials; add it as a custom_social block if you want it in the icon row.
