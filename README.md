@@ -38,8 +38,9 @@ bundle exec jekyll serve   # then open http://localhost:4000
 
 ## Deployment
 
-Pushing to the default branch triggers `.github/workflows/deploy.yml`, which builds the
-site (Ruby + Node + Python + ImageMagick) and publishes `_site` to the **`gh-pages`** branch.
+Pushing to the default branch (`main`) triggers [.github/workflows/deploy.yml](.github/workflows/deploy.yml),
+which builds the site (Ruby + Node + Python + ImageMagick) and deploys it to GitHub Pages
+using the official GitHub Actions Pages deployment.
 
-**One-time GitHub setting:** in the repository, go to *Settings → Pages* and set
-*Source* to *Deploy from a branch* → **`gh-pages`** / `/ (root)`.
+**GitHub Pages setting:** under *Settings → Pages → Build and deployment*, the *Source*
+should be **GitHub Actions** (this is the mode the repository already uses).
