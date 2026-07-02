@@ -13,8 +13,8 @@ profile:
     <p>University of Tennessee</p>
     <p>Knoxville, TN 37996, USA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # rendered manually in the page body (Selected Publications section) so it follows the "On This Page" order, before Skills/Education
+social: false # social links are rendered inside the Contact section at the bottom of the page body
 
 announcements:
   enabled: false # rendered manually in the page body (home-news block) so a "See all news" link can follow the list
@@ -31,7 +31,19 @@ Hi! I'm **Junjie (John) Yin** ([how to say my name](https://namedrop.io/junjieyi
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I am a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning.
 
-#### Research interests
+<div id="toc_container">
+  <a class="toc_title" style="font-size: 20px; color: rgb(1,92,171)" id="toc">On This Page</a>
+  <ul class="toc_list">
+    <li><a href="#research-interests">Research Interests</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#selected-publications">Selected Publications</a></li>
+    <li><a href="#skills">Skills &amp; Tools</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#contact-me">Contact</a></li>
+  </ul>
+</div>
+
+<h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="research-interests">Research Interests</h2>
 
 - **AI &amp; machine learning for power** — AI for power systems, large language models, data-driven control
 - **Resilience &amp; extreme events** — grid resilience, extreme-event modeling, smart grid
@@ -41,8 +53,85 @@ My work sits at the intersection of **artificial intelligence** and **electric p
 I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
 
 <div class="home-news">
-  <h2><a href="/news/" style="color: inherit">news</a></h2>
+  <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="news"><a href="/news/" style="color: inherit">News</a></h2>
   {% include news.liquid limit=page.announcements.limit scrollable=page.announcements.scrollable %}
   <a class="news-more" href="/news/">See all news &rarr;</a>
+</div>
+
+<h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="selected-publications"><a href="/publications/" style="color: inherit">Selected Publications</a></h2>
+
+{% include selected_papers.liquid %}
+
+<h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="skills">Skills &amp; Tools</h2>
+
+<!-- TODO (Junjie): replace the bracketed [ ... ] placeholders with your real skills, then delete this comment and the "placeholder" note below. -->
+<p style="color:#8a8a8a;"><em>Placeholder &mdash; to be completed.</em></p>
+<div class="skills-grid">
+  <div class="skill-cat">
+    <h4>Programming &amp; ML</h4>
+    <p>[e.g., Python, PyTorch / TensorFlow, NumPy / Pandas, scikit-learn, LLM &amp; RAG tooling, MATLAB, C/C++]</p>
+  </div>
+  <div class="skill-cat">
+    <h4>Power-System Software</h4>
+    <p>[e.g., PSS/E, PSCAD / EMTDC, OpenDSS, MATPOWER, Simulink, ANDES, CURENT LTB, GridLAB-D]</p>
+  </div>
+  <div class="skill-cat">
+    <h4>Methods &amp; Domains</h4>
+    <p>[e.g., Optimization (LP / MILP / convex), optimal power flow, stability &amp; dynamics, real-time / HIL simulation, electricity markets]</p>
+  </div>
+  <div class="skill-cat">
+    <h4>Certifications &amp; Languages</h4>
+    <p>[e.g., NCEES FE (Electrical &amp; Computer); English &mdash; professional; Chinese &mdash; native]</p>
+  </div>
+</div>
+
+<h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="education">Education</h2>
+
+<table class="edu-table">
+  <tr>
+    <td><img src="/assets/img/logo-utk.svg" alt="University of Tennessee" /></td>
+    <td>
+      <h4 id="utk"><a href="https://www.utk.edu/" target="_blank" rel="noopener noreferrer">University of Tennessee, Knoxville (UTK)</a></h4>
+      <p>
+        <i class="fa-solid fa-location-dot"></i> Knoxville, TN &nbsp;&nbsp; <i class="fa-solid fa-clock"></i> Aug. 2023 - May. 2027 (Expected)<br>
+        <strong>PhD</strong> in Electrical Engineering<br>
+        Advisor: <a href="http://web.eecs.utk.edu/~fli6/" title="Prof. Li in UTK" target="_blank" rel="noopener noreferrer">Prof. Fangxing "Fran" Li</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/logo-seu.svg" alt="Southeast University" /></td>
+    <td>
+      <h4 id="seu"><a href="https://www.seu.edu.cn/english/" target="_blank" rel="noopener noreferrer">Southeast University (SEU)</a></h4>
+      <p>
+        <i class="fa-solid fa-location-dot"></i> Nanjing &nbsp;&nbsp; <i class="fa-solid fa-clock"></i> Sep. 2020 - Jun. 2023<br>
+        <strong>MS</strong> in Electrical Engineering<!--<br>
+        Advisor: <a href="https://ee.seu.edu.cn/2021/0308/c25248a362833/page.htm" title="Prof. Wang in SEU" target="_blank" id="MS tutor">Prof. Jianhua Wang</a> -->
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/logo-ncepu.svg" alt="North China Electric Power University" /></td>
+    <td>
+      <h4 id="ncepu"><a href="https://english.ncepu.edu.cn/" target="_blank" rel="noopener noreferrer">North China Electrical Power University (NCEPU)</a></h4>
+      <p>
+        <i class="fa-solid fa-location-dot"></i> Beijing &nbsp;&nbsp; <i class="fa-solid fa-clock"></i> Sep. 2016 - Jun. 2020<br>
+        <strong>BS</strong> in Electrical Engineering<!--<br>
+        "<i><strong>Excellent Graduate</strong></i>" Honor -->
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="contact-me">Contact</h2>
+
+<div class="contact-row">
+  <div class="contact-emails">
+    <a href="mailto:jyin10@vols.utk.edu"><i class="fa-solid fa-envelope"></i> <strong>jyin10[AT]vols.utk.edu</strong></a> (Primary)<br>
+    <a href="mailto:yinjunjie98@gmail.com"><i class="fa-brands fa-google"></i> <strong>yinjunjie98[AT]gmail.com</strong></a> (Alternative, valid permanently)
+  </div>
+  <div class="contact-links">
+    <div class="social-icons">{% social_links %}</div>
+  </div>
 </div>
 
