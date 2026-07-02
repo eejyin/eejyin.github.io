@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Selected research projects in AI for power systems, grid resilience, stability, and integrated energy systems.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [Current, Completed]
 horizontal: false
 ---
