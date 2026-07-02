@@ -111,3 +111,126 @@
     max-height: 280px !important;
   }
 }
+
+/* -----------------------------------------------------------------------------
+ * Home-page content sections (rendered in `_pages/about.md` body):
+ * the "On This Page" table of contents, shared blue section headings, the
+ * Skills & Tools grid, the Education table, and the Contact block. Colours use
+ * theme tokens so light and dark modes both work.
+ * -------------------------------------------------------------------------- */
+
+/* "On This Page" table of contents */
+#toc_container {
+  display: inline-block;
+  max-width: 100%;
+  margin: 1.5rem 0;
+  padding: 0.75rem 1.5rem 1rem 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  background-color: var(--global-card-bg-color);
+}
+#toc_container .toc_title {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+#toc_container .toc_list {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+#toc_container .toc_list li {
+  margin: 0.15rem 0;
+}
+
+/* Shared home-page section headings (Research Interests … Contact) */
+.section-heading {
+  scroll-margin-top: 5rem; /* clears the fixed top navbar when jumping via the TOC */
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.3rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+  border-bottom: 2px solid var(--global-divider-color);
+}
+
+/* Skills & Tools grid */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+.skills-grid .skill-cat h4 {
+  margin-bottom: 0.35rem;
+  color: var(--global-theme-color);
+}
+.skills-grid .skill-cat p {
+  margin: 0;
+}
+
+/* Education table */
+.edu-table {
+  width: 100%;
+  margin: 1rem 0;
+  border: 0;
+}
+.edu-table td {
+  border: 0;
+  padding: 0.5rem 0.4rem;
+  vertical-align: middle;
+}
+.edu-table td:first-child {
+  width: 96px;
+  text-align: center;
+}
+.edu-table img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: contain;
+  background: #fff;
+  padding: 6px;
+}
+.edu-table h4 {
+  margin-bottom: 0.25rem;
+}
+.edu-table i {
+  color: var(--global-text-color-light);
+}
+
+/* Contact: emails and social links side by side in one row */
+.contact-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 3rem;
+  align-items: flex-start;
+  margin-top: 0.5rem;
+}
+.contact-row .contact-emails {
+  flex: 1 1 260px;
+  line-height: 2;
+}
+.contact-row .contact-links {
+  flex: 1 1 220px;
+}
+.contact-row .contact-emails i {
+  width: 1.3em;
+  text-align: center;
+  margin-right: 0.4rem;
+}
+/* Social icon row (order and icons come from _data/socials.yml via social_links) */
+.contact-row .social-icons {
+  font-size: 1.6rem;
+  line-height: 2;
+}
+.contact-row .social-icons a {
+  margin-right: 0.7rem;
+  text-decoration: none;
+}
+.contact-row .social-icons a i::before {
+  color: var(--global-text-color);
+  transition: color 0.2s ease-in-out;
+}
+.contact-row .social-icons a:hover i::before {
+  color: var(--global-theme-color);
+}

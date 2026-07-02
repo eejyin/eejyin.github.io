@@ -11,8 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Junjie (John) Yin — PhD researcher in Electrical Engineering at the University of Tennessee (CURENT), working at the intersection of artificial intelligence and electric power systems.
 footer_text: >
-  © 2026 Junjie Yin (尹俊杰). Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme,
-  hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  © 2026 Junjie Yin (尹俊杰).
 keywords: Junjie Yin, AI for power systems, machine learning, power system stability, grid resilience, electricity markets, electrical engineering, CURENT, University of Tennessee
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚡ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
