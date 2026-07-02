@@ -234,3 +234,55 @@
 .contact-row .social-icons a:hover i::before {
   color: var(--global-theme-color);
 }
+
+/* -----------------------------------------------------------------------------
+ * Home-page profile photo (rendered by the `about` layout via the front matter
+ * of `_pages/about.md`). Everything is scoped to `.profile`, so no other page
+ * is affected.
+ *
+ * 1. Portrait 4:3 crop. The source `prof_pic.jpg` is square (439x439); we show
+ *    it in a vertical 4:3 frame (width:height = 3:4) WITHOUT distortion.
+ *    `object-fit: cover` crops instead of squashing, and `object-position:
+ *    center` trims the left and right edges symmetrically.
+ *
+ * 2. Responsive placement.
+ *    - Laptop / iPad landscape & portrait (>= 576px, the gem's `.profile`
+ *      breakpoint): the gem default is kept — the photo sits on top with the
+ *      address/contact block stacked directly beneath it.
+ *    - Phone portrait (< 576px): the photo and the address/contact block sit
+ *      side by side, with the photo shrunk to 60% of the row width.
+ * -------------------------------------------------------------------------- */
+.profile img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (max-width: 575.98px) and (orientation: portrait) {
+  .profile,
+  .profile.float-right,
+  .profile.float-left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    float: none;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .profile figure {
+    flex: 0 0 60%;
+    max-width: 60%;
+    margin: 0;
+  }
+  .profile .more-info {
+    flex: 1 1 auto;
+    margin: 0;
+  }
+  .profile .more-info p {
+    display: block;
+  }
+}
