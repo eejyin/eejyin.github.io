@@ -226,6 +226,7 @@ exclude:
   - vendor
   - test/
   - requirements.txt
+  - tools/
 keep_files:
   - CNAME
   - .nojekyll
