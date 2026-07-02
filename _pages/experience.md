@@ -1,10 +1,10 @@
 ---
 layout: page
-title: experience
+title: Experiences
 permalink: /experience/
 description: Research and teaching, academic activity, professional service, internships, leadership, licenses, and awards.
 nav: true
-nav_order: 4
+nav_order: 5
 toc:
   sidebar: left
 ---

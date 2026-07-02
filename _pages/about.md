@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <strong>AI for Power Systems</strong> &middot; PhD Researcher at <a href='https://curent.utk.edu/'>UTK / CURENT</a> &middot; 2026 Research Intern @ <a href='https://www.microsoft.com/'>Microsoft</a>
 
@@ -38,7 +38,7 @@ My work sits at the intersection of **artificial intelligence** and **electric p
 - **Stability &amp; inverter-based resources** — power-system stability, grid-connected converters
 - **Markets &amp; energy-system optimization** — electricity markets, integrated energy systems, Lyapunov optimization
 
-I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/cv/).
+I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
 
 <div class="home-news">
   <h2><a href="/news/" style="color: inherit">news</a></h2>
