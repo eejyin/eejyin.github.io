@@ -23,3 +23,6 @@ vendor
 # _pages/blog.md is ever committed; this keeps the un-encrypted content and the
 # encryption helpers off the public repository)
 /tools/
+
+# local push notes (personal reminder, not published)
+/PUSH_NOTES.md
