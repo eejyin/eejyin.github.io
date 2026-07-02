@@ -156,7 +156,7 @@
 /* Skills & Tools grid */
 .skills-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); /* never force a column wider than the container */
   gap: 1rem 1.5rem;
   margin: 1rem 0 1.5rem;
 }
@@ -208,7 +208,9 @@
 }
 .contact-row .contact-emails {
   flex: 1 1 260px;
+  min-width: 0; /* allow the flex item to shrink below its content width so long emails can wrap */
   line-height: 2;
+  overflow-wrap: break-word;
 }
 .contact-row .contact-links {
   flex: 1 1 220px;
@@ -236,53 +238,66 @@
 }
 
 /* -----------------------------------------------------------------------------
- * Home-page profile photo (rendered by the `about` layout via the front matter
- * of `_pages/about.md`). Everything is scoped to `.profile`, so no other page
- * is affected.
- *
- * 1. Portrait 4:3 crop. The source `prof_pic.jpg` is square (439x439); we show
- *    it in a vertical 4:3 frame (width:height = 3:4) WITHOUT distortion.
- *    `object-fit: cover` crops instead of squashing, and `object-position:
- *    center` trims the left and right edges symmetrically.
- *
- * 2. Responsive placement.
- *    - Laptop / iPad landscape & portrait (>= 576px, the gem's `.profile`
- *      breakpoint): the gem default is kept — the photo sits on top with the
- *      address/contact block stacked directly beneath it.
- *    - Phone portrait (< 576px): the photo and the address/contact block sit
- *      side by side, with the photo shrunk to 60% of the row width.
+ * Home-page hero: intro text (left, ~70%) beside a photo + contact sidebar
+ * (right, ~30%), rendered in the `_pages/about.md` body. The theme `profile`
+ * front matter is intentionally omitted; `.hero-clear` resets the float so the
+ * "On This Page" ToC and every section below span the full content width.
  * -------------------------------------------------------------------------- */
-.profile img {
+.home-hero-aside {
+  float: right;
+  width: 30%;
+  margin: 0.25rem 0 1.25rem 1.75rem;
+}
+.home-hero-photo {
+  display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 3 / 4; /* portrait crop of the square source, no distortion */
   object-fit: cover;
   object-position: center;
+  border-radius: 8px;
+}
+.hero-contact {
+  margin-top: 0.9rem;
+  font-size: 0.9rem;
+  line-height: 1.55;
+  overflow-wrap: break-word; /* break long emails/URLs instead of overflowing the narrow sidebar (cross-browser) */
+  word-break: break-word;
+}
+.hero-contact .hero-emails,
+.hero-contact .hero-address {
+  margin: 0 0 0.6rem;
+}
+.hero-contact a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+.hero-contact a:hover {
+  color: var(--global-theme-color);
+}
+.hero-contact span[class^="icon-"],
+.hero-contact span[class*=" icon-"] {
+  margin-right: 0.4rem;
+  vertical-align: -0.05em;
+}
+.hero-contact .body-social ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.hero-contact .body-social li {
+  margin: 0.3rem 0;
+}
+.hero-clear {
+  clear: both;
 }
 
-@media (max-width: 575.98px) and (orientation: portrait) {
-  .profile,
-  .profile.float-right,
-  .profile.float-left {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 1rem;
+/* Phone: stack the sidebar above the intro, centered. */
+@media (max-width: 575.98px) {
+  .home-hero-aside {
     float: none;
     width: 100%;
-    margin-right: 0;
-    margin-left: 0;
-  }
-  .profile figure {
-    flex: 0 0 60%;
-    max-width: 60%;
-    margin: 0;
-  }
-  .profile .more-info {
-    flex: 1 1 auto;
-    margin: 0;
-  }
-  .profile .more-info p {
-    display: block;
+    max-width: 280px;
+    margin: 0 auto 1.5rem;
   }
 }
