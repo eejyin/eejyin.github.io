@@ -49,3 +49,65 @@
   --global-hover-color: #1a9e34;
   --global-code-bg-color: rgba(26, 158, 52, 0.05);
 }
+
+/* -----------------------------------------------------------------------------
+ * Home-page "news" block (rendered in `_pages/about.md` body).
+ *
+ * Method A + B: keep a single column, but (A) show an explicit "See all news →"
+ * link under the latest items, and (B) wrap the list in a responsive
+ * fixed-height scroll window with a subtle bottom fade hinting "more below".
+ *
+ * Scoped to `.home-news` so the full `/news/` archive page (which also renders
+ * `.news`) is left untouched. Colours use the theme tokens so light/dark both
+ * work. `!important` is required to beat the include's inline `max-height`.
+ * -------------------------------------------------------------------------- */
+.home-news {
+  /* (B) Responsive scroll window. Replaces the include's inline `max-height:
+     60vw`, which is too tall on desktop and too short on phones. */
+  .table-responsive {
+    max-height: 360px !important;
+    overflow-y: auto;
+  }
+
+  /* (B) Bottom fade overlay hinting the list scrolls. Anchored to `.news`
+     (fixed height = the scroll window) so it stays put while content scrolls. */
+  .news {
+    position: relative;
+  }
+  .news::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 28px;
+    pointer-events: none;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), var(--global-bg-color));
+  }
+
+  /* (A) "See all news →" link under the list. */
+  .news-more {
+    display: inline-block;
+    margin-top: 0.6rem;
+    font-weight: 500;
+    color: var(--global-theme-color);
+  }
+  .news-more:hover {
+    color: var(--global-hover-color);
+    text-decoration: underline;
+  }
+}
+
+/* Tablet (e.g. iPad portrait): a slightly shorter window. */
+@media (max-width: 768px) {
+  .home-news .table-responsive {
+    max-height: 320px !important;
+  }
+}
+
+/* Phone: shortest window so the list never dominates the screen. */
+@media (max-width: 480px) {
+  .home-news .table-responsive {
+    max-height: 280px !important;
+  }
+}
