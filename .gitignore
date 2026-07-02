@@ -18,3 +18,11 @@ vendor
 
 # local build logs
 *.log
+
+# private blog authoring tools + plaintext (only the encrypted payload in
+# _pages/blog.md is ever committed; this keeps the un-encrypted content and the
+# encryption helpers off the public repository)
+/tools/
+
+# local push notes (personal reminder, not published)
+/PUSH_NOTES.md

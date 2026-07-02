@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # rendered manually in the page body (home-news block) so a "See all news" link can follow the list
+  scrollable: true # wraps the list in a fixed-height scroll window
+  limit: 5 # number of latest items shown on the home page (full archive lives at /news/)
 
 latest_posts:
   enabled: false
@@ -39,4 +39,10 @@ My work sits at the intersection of **artificial intelligence** and **electric p
 - **Markets &amp; energy-system optimization** — electricity markets, integrated energy systems, Lyapunov optimization
 
 I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/cv/).
+
+<div class="home-news">
+  <h2><a href="/news/" style="color: inherit">news</a></h2>
+  {% include news.liquid limit=page.announcements.limit scrollable=page.announcements.scrollable %}
+  <a class="news-more" href="/news/">See all news &rarr;</a>
+</div>
 
