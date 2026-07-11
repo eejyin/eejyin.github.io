@@ -35,7 +35,7 @@ latest_posts:
     </p>
     <div class="body-social sidebar-social">
       <ul>
-        <li><a href="/assets/pdf/CV_junjie_yin.pdf" target="_blank" rel="noopener noreferrer" title="Résumé/CV"><span class="icon-file-pdf" style="color: #ee3f24"></span> <span>Résumé/CV</span></a></li>
+        <li><a href="/assets/pdf/Resume_junjie_yin_update07112026.pdf" target="_blank" rel="noopener noreferrer" title="Résumé/CV"><span class="icon-file-pdf" style="color: #ee3f24"></span> <span>Résumé/CV</span></a></li>
         <li><a href="https://www.researchgate.net/profile/Junjie-Yin-3" target="_blank" rel="noopener noreferrer" title="ResearchGate"><span class="icon-researchgate"></span> <span>ResearchGate</span></a></li>
         <li><a href="https://www.linkedin.com/in/junjie-yin-b8005b240/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><span class="icon-linkedin"></span> <span>LinkedIn</span></a></li>
         <li><a href="https://scholar.google.com/citations?hl=en&amp;user=4UxQ7JcAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer" title="Google Scholar"><span class="icon-googlescholar1"></span> <span>Google Scholar</span></a></li>

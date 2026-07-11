@@ -301,3 +301,22 @@
     margin: 0 auto 1.5rem;
   }
 }
+
+/* -----------------------------------------------------------------------------
+ * Résumé/CV page (`/Resume/`, layout: cv) — local tweaks over the al_folio_cv
+ * gem defaults. Loaded from main.css, which the CV page pulls in before
+ * al-folio-cv.css; the selectors below are specific enough to win regardless.
+ * -------------------------------------------------------------------------- */
+.cv {
+  /* Remove the location pin icon in the date column (experience + education),
+     leaving just the address text under the date badge. */
+  i.iconlocation {
+    display: none;
+  }
+
+  /* Experience dates now show month + year (e.g. "Aug 2023 – Present"); let the
+     badge wrap inside the narrow date column instead of overflowing it. */
+  .table-cv .badge {
+    white-space: normal;
+  }
+}
