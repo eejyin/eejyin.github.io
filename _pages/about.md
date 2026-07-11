@@ -50,6 +50,8 @@ Hi! I'm **Junjie (John) Yin** ([how to say my name](https://namedrop.io/junjieyi
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I am a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning.
 
+I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
+
 <div class="hero-clear"></div>
 
 <div id="toc_container">
@@ -71,8 +73,6 @@ My work sits at the intersection of **artificial intelligence** and **electric p
 - **Stability &amp; inverter-based resources** — power-system stability, grid-connected converters
 - **Markets &amp; energy-system optimization** — electricity markets, integrated energy systems, Lyapunov optimization
 
-I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
-
 <div class="home-news">
   <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="news"><a href="/news/" style="color: inherit">News</a></h2>
   {% include news.liquid limit=page.announcements.limit scrollable=page.announcements.scrollable %}
@@ -85,24 +85,22 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="skills">Skills &amp; Tools</h2>
 
-<!-- TODO (Junjie): replace the bracketed [ ... ] placeholders with your real skills, then delete this comment and the "placeholder" note below. -->
-<p style="color:#8a8a8a;"><em>Placeholder &mdash; to be completed.</em></p>
 <div class="skills-grid">
   <div class="skill-cat">
-    <h4>Programming &amp; ML</h4>
-    <p>[e.g., Python, PyTorch / TensorFlow, NumPy / Pandas, scikit-learn, LLM &amp; RAG tooling, MATLAB, C/C++]</p>
+    <h4>AI &amp; Programming</h4>
+    <p>Python (PyTorch / TensorFlow), ML, RL, CNN, GNN, LLM &amp; AI Agents, MATLAB, C</p>
   </div>
   <div class="skill-cat">
-    <h4>Power-System Software</h4>
-    <p>[e.g., PSS/E, PSCAD / EMTDC, OpenDSS, MATPOWER, Simulink, ANDES, CURENT LTB, GridLAB-D]</p>
+    <h4>Power-System Modeling &amp; Simulation</h4>
+    <p>PSCAD, PSS/E, OpenDSS, Simulink, PLECS, Pandapower, PYPOWER, MATPOWER</p>
   </div>
   <div class="skill-cat">
-    <h4>Methods &amp; Domains</h4>
-    <p>[e.g., Optimization (LP / MILP / convex), optimal power flow, stability &amp; dynamics, real-time / HIL simulation, electricity markets]</p>
+    <h4>Optimization Solvers</h4>
+    <p>Gurobi, CPLEX, YALMIP, CVX (MILP / OPF / SCUC)</p>
   </div>
   <div class="skill-cat">
-    <h4>Certifications &amp; Languages</h4>
-    <p>[e.g., NCEES FE (Electrical &amp; Computer); English &mdash; professional; Chinese &mdash; native]</p>
+    <h4>Testbed Platforms</h4>
+    <p>CURENT Large-Scale Testbed (LTB), RT-Box</p>
   </div>
 </div>
 
