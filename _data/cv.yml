@@ -1,13 +1,18 @@
 cv:
   name: Junjie (John) Yin
-  label: PhD Researcher in Electrical Engineering — AI for Power Systems
+  label: PhD Candidate in Electrical Engineering — AI/ML for Power Systems
   email: jyin10@vols.utk.edu
   location: Knoxville, TN, USA
   image: prof_pic.jpg
   summary: >-
-    PhD researcher in Electrical Engineering at the University of Tennessee, Knoxville (CURENT),
-    working at the intersection of artificial intelligence and electric power systems — grid
-    resilience, stability, and operations. 2026 Research Intern at Microsoft.
+    PhD candidate in Electrical Engineering specializing in AI/ML for power systems, with hands-on
+    experience in power flow, state estimation, grid modeling, data-center planning, and
+    inverter-based-resource (IBR) frequency dynamics. Skilled in physics-informed and deep-learning
+    models — including CNN/DNN surrogates for power-flow prediction and topology-aware N–k
+    contingency analysis. A core developer of the CURENT Large-Scale Testbed (LTB), advancing its
+    AI/LLM-driven simulation; proficient in Python (LangChain, PyTorch, TensorFlow) and power-system
+    tools (OpenDSS, PSS/E, PSCAD, Pandapower, MATPOWER), with strong technical writing and
+    presentation skills.
 
   social_networks:
     - network: GitHub
@@ -26,7 +31,7 @@ cv:
         end_date: 2027-05
         highlights:
           - 'Advisor: Prof. Fangxing "Fran" Li. Graduate Research Assistant at CURENT.'
-          - Expected May 2027.
+          - GPA 3.93 / 4.0. Expected May 2027.
 
       - institution: Southeast University (SEU)
         location: Nanjing, China
@@ -35,6 +40,8 @@ cv:
         studyType: MS
         start_date: 2020-09
         end_date: 2023-06
+        highlights:
+          - GPA 3.79 / 4.0 (top 5%).
 
       - institution: North China Electric Power University (NCEPU)
         location: Beijing, China
@@ -43,6 +50,8 @@ cv:
         studyType: BS
         start_date: 2016-09
         end_date: 2020-06
+        highlights:
+          - GPA 3.73 / 4.0 (top 1%).
 
     Experience:
       - company: CURENT, University of Tennessee, Knoxville
@@ -59,17 +68,20 @@ cv:
         position: Graduate Teaching Assistant
         location: Knoxville, TN, USA
         start_date: 2023-08
+        end_date: 2025-08
         highlights:
           - "Courses supported: Power System Analysis, Electric Energy System Components, Circuits II."
 
       - company: Microsoft
-        position: Research Intern
+        position: Research Intern — AI/ML for Electricity-Infrastructure Planning
         location: Redmond, WA, USA
         url: https://www.microsoft.com/
         start_date: 2026-06
         end_date: 2026-08
         highlights:
-          - Summer research intern working on AI/ML for electricity-infrastructure planning.
+          - Developed the Power-Grid Dataset Restoration Agent that uses limited grid information to "build–diagnose–repair–verify–visualize" datasets for hyperscalers' critical-infrastructure planning.
+          - Built a game-theory-based simulation environment for hyperscaler data-center planning, integrating a public-information retrieval agent to design competitive siting and capacity strategies.
+          - Designed a data-center interconnection-queue agent that optimizes hyperscalers' interconnection applications while accounting for ISO interconnection processes and grid-upgrade costs.
 
       - company: Frontiers Journals, Higher Education Press (HEP)
         position: Publicist
@@ -80,7 +92,7 @@ cv:
           - Promoted the "Frontiers Journals" English academic series through posters, online forums, and meetings with scholars.
 
       - company: Yangzhou Electric Power Co., Ltd (State Grid)
-        position: Intern
+        position: Graduate R&amp;D Intern
         location: Yangzhou, China
         start_date: 2021-07
         end_date: 2022-01
@@ -98,10 +110,45 @@ cv:
           - Observed real-time dispatch-center operations and substation workflows.
           - Completed electrical-safety and field-safety training aligned with utility operational standards.
 
+    Projects:
+      - name: LLM-Enabled Power System Simulation and Planning Platform
+        summary: "U.S. DOE Project · Feb. 2025 – Present"
+        highlights:
+          - Developed an LLM-assisted workflow for power-system simulation, enabling natural-language interaction for grid-data input, parameter configuration, and automated result interpretation.
+          - Implemented AI-supported workflows for PV-curve visualization and continuation power flow (CPF) analysis to assess voltage stability and planning-relevant operating margins.
+          - Built Python-based DNN/CNN prototypes for surrogate modeling, including load-curve fitting and power-flow prediction on benchmark systems.
+
+      - name: Grid Resilience Operation &amp; Scheduling
+        summary: "U.S. DOE Project · Jul. 2024 – Oct. 2025"
+        highlights:
+          - Developed N–k contingency-simulation tools based on a deep variational autoencoder (VAE) to assess system performance under contingency and extreme-event scenarios.
+          - Integrated steady-state and dynamic simulations to evaluate system resilience and stability margins.
+          - Performed probabilistic contingency assessments to support resilience planning and improve computational efficiency in large-scale grid studies.
+
+      - name: Microgrid Control &amp; Resilience (ESTCP)
+        summary: "U.S. DoD Project · Jul. 2020 – Apr. 2024"
+        highlights:
+          - Designed reinforcement-learning (RL)-based V–f and P–Q control strategies for grid-forming (GFM) and grid-following (GFL) converters to enhance stability and resilience under varying grid conditions.
+          - Validated on the Large-Scale Testbed (LTB) and Hardware Testbed (HTB) at CURENT.
+
+    Selected Publications:
+      - bullet: 'J. Yin, B. She, X. Feng, et al., "**Bridging Artificial Intelligence and Power Systems Education Through Hands-On, Executable Learning Frameworks**," *IEEE Transactions on Power Systems*, 2026. (Under review)'
+      - bullet: 'X. Feng, J. Yin, C. Li, et al., "**Grid Resilience, Extreme Weather Events, and Clean Energy Development**," *Nature Reviews Clean Technology*, 2026. (Invited paper, co-first author, under review)'
+      - bullet: 'J. Yin, X. Feng, J. Han, et al., "**Topology-Aware Propagation-Based Assessment of Extreme-Weather Impacts on Distribution System Resilience**," *North American Power Symposium (NAPS)*, 2026.'
+      - bullet: 'J. Yin, X. Feng, B. She, et al., "**VAE-Based Credible Scenario Reduction for Probabilistic N-k Resilience Assessment of Distribution Systems under Extreme Events**," *IEEE Transactions on Smart Grid*, 2026. (Pending submission)'
+      - bullet: 'J. Yin, B. She, J. Wang, et al., "**Encoding Frequency Dynamics into Economic Operation of IBR-Penetrated Power Systems: Quantification, Integration, and Validation**," *IEEE Transactions on Smart Grid*, 2025. (Under review)'
+      - bullet: 'A. Ali, J. Yin, F. Li, et al., "**Pathway Toward an Open-Source Ecosystem in Power Systems**," *IEEE Electrification Magazine*, vol. 13, no. 2, 2025.'
+      - bullet: 'S. Fahad, B. She, J. Yin, et al., "**A Data-Driven Adaptive Control Approach for Enhancing the Dynamic Response of VSGs in Varying Grid Conditions**," *IEEE Transactions on Power Delivery*, 2025.'
+
+    Invited Talks:
+      - bullet: '**"AI Applications in Power Systems"** — IEEE PES DIU Student Branch Chapter, Jun. 2026.'
+      - bullet: '**"AI-Enabled Resilient and Interactive Power Grid"** — CURENT Industry Conference, Apr. 2026.'
+      - bullet: '**"Scheduling–Dynamics Interoperated Virtual Power Grid"** — CURENT Industry Conference, Apr. 2025.'
+
     Professional Service &amp; Leadership:
       - bullet: "**IEEE PES AI for Power Systems Coordinating Committee (AIPSCC)** — Technical Coordinator (Dec. 2025 – present): support website/communication, coordinate the IEEE course *AI for Power and Energy Systems*, and lead AI-for-power survey initiatives."
       - bullet: "**IEEE PES Working Group on Machine Learning for Power Systems (MLPS)** — Technical Coordinator (Aug. 2023 – Dec. 2025): supported operations, member communications, and general-meeting logistics."
-      - bullet: "**Peer reviewer** for IEEE Transactions on Smart Grid, IEEE Transactions on Industry Applications, IEEE Open Access Journal of Power and Energy, and IEEE Access (*IEEE Access Exceptional Reviewer 2025*), among others."
+      - bullet: "**Peer reviewer** (150+ reviews) for IEEE, Elsevier, and Nature journals — including IEEE Transactions on Smart Grid, IEEE Transactions on Industry Applications, IEEE Open Access Journal of Power and Energy, and IEEE Access (*IEEE Access Exceptional Reviewer 2025*), among others."
       - bullet: "**Community volunteering** — ASPCA (American Society for the Prevention of Cruelty to Animals), animal-welfare initiatives."
       - bullet: "**Student leadership**, School of Electrical and Electronic Engineering, NCEPU — Student Leader (2016–2020) and Student Committee member (2016–2019)."
 
@@ -122,6 +169,10 @@ cv:
         awarder: IEEE Power &amp; Energy Society
         url: https://www.ieee-pes.org/
         date: 2025-07
+      - title: University of Tennessee Graduate Fellowship
+        awarder: University of Tennessee, Knoxville
+        url: https://www.utk.edu/
+        date: 2023-08
       - title: Graduate Scholarship of Southeast University
         awarder: Southeast University, Nanjing
         date: 2022-10
@@ -159,38 +210,45 @@ cv:
         issuer: CITI Program
         date: 2024-07
 
-    # [take action] The source site listed these skills as bracketed examples/placeholders.
-    # They are reasonable for your profile — please review, trim, or expand to match your actual expertise.
     Skills:
-      - name: Programming &amp; ML
+      - name: AI &amp; Programming
         icon: fa-solid fa-code
         keywords:
           - Python
-          - PyTorch / TensorFlow
-          - NumPy / Pandas
-          - scikit-learn
-          - LLM &amp; RAG tooling
+          - PyTorch
+          - TensorFlow
+          - LangChain
+          - Machine Learning
+          - Reinforcement Learning
+          - CNN / GNN
+          - LLM &amp; AI Agents
           - MATLAB
-          - C/C++
-      - name: Power-System Software
+          - C
+      - name: Power-System Modeling &amp; Simulation
         icon: fa-solid fa-bolt
         keywords:
-          - PSS/E
           - PSCAD / EMTDC
+          - PSS/E
           - OpenDSS
-          - MATPOWER
           - Simulink
-          - ANDES
-          - CURENT LTB
-          - GridLAB-D
-      - name: Methods &amp; Domains
+          - PLECS
+          - Pandapower
+          - PYPOWER
+          - MATPOWER
+      - name: Optimization Solvers
         icon: fa-solid fa-square-root-variable
         keywords:
-          - Optimization (LP / MILP / convex)
-          - Optimal power flow
-          - Stability &amp; dynamics
-          - Real-time / HIL simulation
-          - Electricity markets
+          - Gurobi
+          - CPLEX
+          - YALMIP
+          - CVX
+          - MILP / OPF / SCUC
+      - name: Testbed Platforms
+        icon: fa-solid fa-server
+        keywords:
+          - CURENT Large-Scale Testbed (LTB)
+          - Hardware Testbed (HTB)
+          - RT-Box
 
     Languages:
       - name: English
