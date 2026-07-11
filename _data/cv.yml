@@ -1,6 +1,6 @@
 cv:
-  name: Junjie (John) Yin
-  label: PhD Candidate in Electrical Engineering — AI/ML for Power Systems
+  name: Junjie Yin
+  label: PhD Candidate in Electrical Engineering
   email: jyin10@vols.utk.edu
   location: Knoxville, TN, USA
   image: prof_pic.jpg
@@ -54,15 +54,24 @@ cv:
           - GPA 3.73 / 4.0 (top 1%).
 
     Experience:
-      - company: CURENT, University of Tennessee, Knoxville
+      - company: '<a href="https://curent.utk.edu/">CURENT</a>, University of Tennessee, Knoxville'
         position: Graduate Research Assistant
         location: Knoxville, TN, USA
-        url: https://curent.utk.edu/
         start_date: 2023-08
         highlights:
           - Developed and maintained real-time simulation models for bulk-power-system validation as a developer of the CURENT Large-scale Testbed (LTB).
           - Implemented contingency and dynamic disturbance scenarios for operational reliability studies.
           - Supported hardware-in-the-loop (HIL) demonstrations of inverter-based resources and frequency-stability performance.
+
+      - company: '<a href="https://www.microsoft.com/en-us">Microsoft</a>'
+        position: Research Intern — AI/ML for Electricity-Infrastructure Planning
+        location: Redmond, WA, USA
+        start_date: 2026-06
+        end_date: 2026-08
+        highlights:
+          - Developed the Power-Grid Dataset Restoration Agent that uses limited grid information to "build–diagnose–repair–verify–visualize" datasets for hyperscalers' critical-infrastructure planning.
+          - Built a game-theory-based simulation environment for hyperscaler data-center planning, integrating a public-information retrieval agent to design competitive siting and capacity strategies.
+          - Designed a data-center interconnection-queue agent that optimizes hyperscalers' interconnection applications while accounting for ISO interconnection processes and grid-upgrade costs.
 
       - company: University of Tennessee, Knoxville
         position: Graduate Teaching Assistant
@@ -71,17 +80,6 @@ cv:
         end_date: 2025-08
         highlights:
           - "Courses supported: Power System Analysis, Electric Energy System Components, Circuits II."
-
-      - company: Microsoft
-        position: Research Intern — AI/ML for Electricity-Infrastructure Planning
-        location: Redmond, WA, USA
-        url: https://www.microsoft.com/
-        start_date: 2026-06
-        end_date: 2026-08
-        highlights:
-          - Developed the Power-Grid Dataset Restoration Agent that uses limited grid information to "build–diagnose–repair–verify–visualize" datasets for hyperscalers' critical-infrastructure planning.
-          - Built a game-theory-based simulation environment for hyperscaler data-center planning, integrating a public-information retrieval agent to design competitive siting and capacity strategies.
-          - Designed a data-center interconnection-queue agent that optimizes hyperscalers' interconnection applications while accounting for ISO interconnection processes and grid-upgrade costs.
 
       - company: Frontiers Journals, Higher Education Press (HEP)
         position: Publicist
