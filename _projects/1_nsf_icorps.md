@@ -13,5 +13,3 @@ category: Current
 - Served as Co-Entrepreneurial Lead, collaborating with Dr. Hantao Cui (NCSU) and Ahmad Ali.
 - Promoted the open-source software [ANDES](https://github.com/CURENT/andes), a tool for dynamic simulation of power systems.
 - Conducted customer-discovery interviews to translate research into real-world impact.
-
-> **[take action]** Add an NSF I-Corps project image/thumbnail (the previous LinkedIn thumbnail could not be migrated automatically). Save it to `assets/img/` and set the `img:` field in the front matter above.
