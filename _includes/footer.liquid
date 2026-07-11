@@ -1,0 +1,43 @@
+{% comment %}
+  LOCAL OVERRIDE of al_folio_core 1.0.11 `_includes/footer.liquid`.
+  Change vs. upstream: removed the hardcoded "." after `{{ site.last_name }}` so the
+  copyright renders as a single line "© Copyright YEAR First Last {{ footer_text }}".
+  With `footer_text: (尹俊杰).` in _config.yml this yields
+  "© Copyright 2026 Junjie Yin (尹俊杰)." — no duplicated copyright. Everything else
+  mirrors upstream. Re-sync when the al_folio_core pin in the Gemfile is bumped
+  (`bundle exec al-folio upgrade overrides audit`).
+{% endcomment %}
+{% capture footer_contents %}
+  &copy; Copyright {{ site.time | date: '%Y' }}
+  {{ site.first_name }}
+  {{ site.middle_name }}
+  {{ site.last_name }} {{ site.footer_text }}
+  {% if site.impressum_path %}
+    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+  {% endif %}
+  {% if site.last_updated %}
+    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+  {% endif %}
+{% endcapture %}
+
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">
+      {{ footer_contents }}
+    </div>
+  </footer>
+{% else %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    {% if site.newsletter.enabled %}
+      {% if site.plugins contains 'al_newsletter' %}
+        {% include plugins/al_newsletter_form_center.liquid %}
+      {% else %}
+        {% include newsletter.liquid %}
+      {% endif %}
+    {% endif %}
+
+    <div class="container">
+      {{ footer_contents }}
+    </div>
+  </footer>
+{% endif %}

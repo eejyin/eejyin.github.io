@@ -153,19 +153,31 @@
   border-bottom: 2px solid var(--global-divider-color);
 }
 
-/* Skills & Tools grid */
-.skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); /* never force a column wider than the container */
-  gap: 1rem 1.5rem;
+/* Skills & Tools — 2-column table mirroring the résumé's Technical Skills table.
+   Wrapped in .skills-table-wrap so `no_defer.js` puts `.table-responsive` on that
+   wrapper (not the whole content column, which would add a page-wide scrollbar). */
+.skills-table {
+  width: 100%;
   margin: 1rem 0 1.5rem;
+  border-collapse: collapse;
+  table-layout: fixed;
 }
-.skills-grid .skill-cat h4 {
-  margin-bottom: 0.35rem;
+.skills-table th,
+.skills-table td {
+  padding: 0.55rem 0.75rem 0.55rem 0;
+  vertical-align: top;
+  text-align: left;
+  border: 0;
+  overflow-wrap: break-word;
+}
+.skills-table th {
+  width: 32%;
+  font-weight: 700;
   color: var(--global-theme-color);
 }
-.skills-grid .skill-cat p {
-  margin: 0;
+.skills-table tr + tr th,
+.skills-table tr + tr td {
+  border-top: 1px solid var(--global-divider-color);
 }
 
 /* Education table */
@@ -186,7 +198,7 @@
 .edu-table img {
   width: 80px;
   height: 80px;
-  border-radius: 50%;
+  border-radius: 8px;
   object-fit: contain;
   background: #fff;
   padding: 6px;
@@ -319,4 +331,16 @@
   .table-cv .badge {
     white-space: normal;
   }
+}
+
+/* Résumé Contact card: the al_folio_cv gem hardcodes the label "Professional Title"
+   for the cv.yml `label:` value. Relabel just that cell to "Title" without forking the
+   gem's render.liquid. The borderless Contact table is the only `.table-cv` with a bold
+   row-2 label (rows: Name, Professional Title, Email), so this selector stays scoped. */
+.cv .table-cv.table-borderless tr:nth-child(2) td:first-child b {
+  font-size: 0;
+}
+.cv .table-cv.table-borderless tr:nth-child(2) td:first-child b::after {
+  content: "Title";
+  font-size: 1rem;
 }

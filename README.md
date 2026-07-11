@@ -1,6 +1,6 @@
 # eejyin.github.io
 
-Personal academic website of **Junjie (John) Yin** — PhD researcher in Electrical Engineering
+Personal academic website of **Junjie Yin** — PhD researcher in Electrical Engineering
 at the University of Tennessee, Knoxville (CURENT), working on **AI for power systems**.
 
 Live site: <https://eejyin.github.io>

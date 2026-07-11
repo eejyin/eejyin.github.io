@@ -46,13 +46,11 @@ latest_posts:
   </div>
 </aside>
 
-Hi! I'm **Junjie (John) Yin** ([how to say my name](https://namedrop.io/junjieyin)), a PhD researcher in Electrical Engineering at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), where I have studied since August 2023 under [Prof. Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/). I am a Graduate Research Assistant at the [CURENT](https://curent.utk.edu/) engineering research center and a maintainer of the [Enliten lab website](https://enliten.utk.edu/).
+Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/junjieyin)), a PhD researcher in Electrical Engineering at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), where I have studied since August 2023 under [Prof. Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/). I am a Graduate Research Assistant at the [CURENT](https://curent.utk.edu/) engineering research center and a maintainer of the [Enliten lab website](https://enliten.utk.edu/).
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I am a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning.
 
 I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
-
-<div class="hero-clear"></div>
 
 <div id="toc_container">
   <a class="toc_title" style="font-size: 20px; color: rgb(1,92,171)" id="toc">On This Page</a>
@@ -65,6 +63,8 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
     <li><a href="#contact-me">Contact</a></li>
   </ul>
 </div>
+
+<div class="hero-clear"></div>
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="research-interests">Research Interests</h2>
 
@@ -85,27 +85,30 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="skills">Skills &amp; Tools</h2>
 
-<div class="skills-grid">
-  <div class="skill-cat">
-    <h4>AI &amp; Programming</h4>
-    <p>Python (PyTorch / TensorFlow), ML, RL, CNN, GNN, LLM &amp; AI Agents, MATLAB, C</p>
-  </div>
-  <div class="skill-cat">
-    <h4>Power-System Modeling &amp; Simulation</h4>
-    <p>PSCAD, PSS/E, OpenDSS, Simulink, PLECS, Pandapower, PYPOWER, MATPOWER</p>
-  </div>
-  <div class="skill-cat">
-    <h4>Optimization Solvers</h4>
-    <p>Gurobi, CPLEX, YALMIP, CVX (MILP / OPF / SCUC)</p>
-  </div>
-  <div class="skill-cat">
-    <h4>Testbed Platforms</h4>
-    <p>CURENT Large-Scale Testbed (LTB), RT-Box</p>
-  </div>
+<div class="skills-table-wrap">
+  <table class="skills-table">
+    <tr>
+      <th scope="row">AI &amp; Programming</th>
+      <td>Python (PyTorch, TensorFlow) | ML | RL | CNN | GNN | LLM &amp; AI Agents | MATLAB | C</td>
+    </tr>
+    <tr>
+      <th scope="row">Power-System Modeling &amp; Simulation</th>
+      <td>PSCAD | PSS/E | OpenDSS | Simulink | PLECS | Pandapower | PYPOWER | MATPOWER</td>
+    </tr>
+    <tr>
+      <th scope="row">Optimization Solvers</th>
+      <td>Gurobi | CPLEX | YALMIP | CVX (MILP, OPF, SCUC)</td>
+    </tr>
+    <tr>
+      <th scope="row">Testbed Platforms</th>
+      <td>CURENT Large-Scale Testbed (LTB) | RT-Box</td>
+    </tr>
+  </table>
 </div>
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="education">Education</h2>
 
+<div class="edu-table-wrap">
 <table class="edu-table">
   <tr>
     <td><img src="/assets/img/logo-utk.svg" alt="University of Tennessee" /></td>
@@ -141,6 +144,7 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
     </td>
   </tr>
 </table>
+</div>
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="contact-me">Contact</h2>
 
