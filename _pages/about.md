@@ -25,8 +25,8 @@ latest_posts:
   <img class="home-hero-photo" src="/assets/img/prof_pic.jpg" alt="Junjie Yin" />
   <div class="hero-contact">
     <p class="hero-emails">
-      <a href="mailto:jyin10@vols.utk.edu"><span class="icon-envelope"></span> <strong>jyin10[AT]vols.utk.edu</strong></a> (Primary)<br>
-      <a href="mailto:yinjunjie98@gmail.com"><span class="icon-gmail"></span> <strong>yinjunjie98[AT]gmail.com</strong></a> (Alternative, valid permanently)
+      <a href="mailto:yin@utk.edu"><span class="icon-envelope"></span> <strong>yin@utk.edu</strong></a> (Primary)<br>
+      <a href="mailto:yinjunjie98@gmail.com"><span class="icon-gmail"></span> <strong>yinjunjie98@gmail.com</strong></a> (Alternative)
     </p>
     <p class="hero-address">
       Min H. Kao Building<br>
@@ -50,7 +50,7 @@ Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/jun
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I am a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning.
 
-I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:jyin10@vols.utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
+I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:yin@utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
 
 <div id="toc_container">
   <a class="toc_title" style="font-size: 20px; color: rgb(1,92,171)" id="toc">On This Page</a>
@@ -150,8 +150,8 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
 
 <div class="contact-row">
   <div class="contact-emails">
-    <a href="mailto:jyin10@vols.utk.edu"><i class="fa-solid fa-envelope"></i> <strong>jyin10[AT]vols.utk.edu</strong></a> (Primary)<br>
-    <a href="mailto:yinjunjie98@gmail.com"><i class="fa-brands fa-google"></i> <strong>yinjunjie98[AT]gmail.com</strong></a> (Alternative, valid permanently)
+    <a href="mailto:yin@utk.edu"><i class="fa-solid fa-envelope"></i> <strong>yin@utk.edu</strong></a> (Primary)<br>
+    <a href="mailto:yinjunjie98@gmail.com"><i class="fa-brands fa-google"></i> <strong>yinjunjie98@gmail.com</strong></a> (Alternative, valid permanently)
   </div>
   <div class="contact-links">
     <div class="social-icons">{% social_links %}</div>
