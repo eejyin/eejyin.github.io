@@ -179,6 +179,12 @@ collections:
     output: true
   projects:
     output: true
+  # Per-paper blog write-ups linked from the Publications page via a bibtex
+  # `url` field (e.g. url = {./paperblog/2019ACCESS.md}). Public and separate
+  # from the private, encrypted /blog/.
+  paperblog:
+    output: true
+    permalink: /publications/paperblog/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -385,6 +391,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    url,
     video,
     website,
   ]

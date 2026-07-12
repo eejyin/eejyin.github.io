@@ -344,3 +344,44 @@
   content: "Title";
   font-size: 1rem;
 }
+
+/* -----------------------------------------------------------------------------
+ * Paperblog (`/publications/paperblog/<KEY>/`, `_paperblog` collection) — public
+ * per-paper write-ups linked from the Publications page. Kept fully separate from
+ * the private, encrypted /blog/.
+ * -------------------------------------------------------------------------- */
+
+/* Long "My blog related to this paper" button: allow it to wrap and never push
+   the links row wider than the content column. */
+.paperblog-btn {
+  white-space: normal;
+  max-width: 100%;
+}
+
+/* Figures: never exceed the content width (avoids a page-wide horizontal
+   scrollbar on any breakpoint). */
+.paperblog-figure {
+  margin: 1.4rem 0;
+  text-align: center;
+}
+.paperblog-figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.paperblog-caption {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+/* Tables: no_defer.js tags this wrapper with `.table-responsive`, so a wide
+   table scrolls inside its own box instead of widening the page. */
+.paperblog-table {
+  margin: 1.4rem 0;
+}
+.paperblog-table table {
+  overflow-wrap: break-word;
+}
