@@ -151,7 +151,7 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
 <div class="contact-row">
   <div class="contact-emails">
     <a href="mailto:yin@utk.edu"><i class="fa-solid fa-envelope"></i> <strong>yin@utk.edu</strong></a> (Primary)<br>
-    <a href="mailto:yinjunjie98@gmail.com"><i class="fa-brands fa-google"></i> <strong>yinjunjie98@gmail.com</strong></a> (Alternative, valid permanently)
+    <a href="mailto:yinjunjie98@gmail.com"><span class="icon-gmail"></span> <strong>yinjunjie98@gmail.com</strong></a> (Alternative, valid permanently)
   </div>
   <div class="contact-links">
     <div class="social-icons">{% social_links %}</div>
