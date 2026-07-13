@@ -29,9 +29,9 @@ latest_posts:
       <a href="mailto:yinjunjie98@gmail.com"><span class="icon-gmail"></span> <strong>yinjunjie98@gmail.com</strong></a> (Alternative)
     </p>
     <p class="hero-address">
-      Min H. Kao Building<br>
+      <a href="https://www.google.com/maps/search/?api=1&amp;query=Min+H.+Kao+Building%2C+University+of+Tennessee%2C+Knoxville%2C+TN+37996" target="_blank" rel="noopener noreferrer" title="Open in Google Maps"> Min H. Kao Building<br>
       University of Tennessee<br>
-      Knoxville, TN 37996, USA
+      Knoxville, TN 37996, USA</a>
     </p>
     <div class="body-social sidebar-social">
       <ul>
@@ -50,7 +50,7 @@ Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/jun
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I am a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning.
 
-I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across industry, hyperscalers, and national labs. If my background fits your team or project, please feel free to [reach out](mailto:yin@utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
+I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across ISO, utility, consulting, hyperscalers, national labs, and academic faculty. If my background fits your team or project, please feel free to [reach out](mailto:yin@utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
 
 <div id="toc_container">
   <a class="toc_title" style="font-size: 20px; color: rgb(1,92,171)" id="toc">On This Page</a>
