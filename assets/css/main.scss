@@ -227,10 +227,22 @@
 .contact-row .contact-links {
   flex: 1 1 220px;
 }
-.contact-row .contact-emails i {
+/* Fixed-width, centred icon boxes so both rows' icons AND their email
+   addresses line up in a vertical column, regardless of whether the icon is a
+   Font Awesome `<i>` (envelope) or an icomoon `<span>` (gmail). */
+.contact-row .contact-emails i,
+.contact-row .contact-emails span[class^="icon-"],
+.contact-row .contact-emails span[class*=" icon-"] {
+  display: inline-block;
   width: 1.3em;
   text-align: center;
   margin-right: 0.4rem;
+  vertical-align: -0.05em;
+}
+/* Match the hero sidebar: render the yin@utk.edu envelope icon in the neutral
+   text colour (black in light mode) instead of the green link colour. */
+.contact-row .contact-emails .fa-envelope {
+  color: var(--global-text-color);
 }
 /* Social icon row (order and icons come from _data/socials.yml via social_links) */
 .contact-row .social-icons {
