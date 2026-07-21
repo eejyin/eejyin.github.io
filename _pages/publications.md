@@ -18,3 +18,68 @@ nav_order: 3
 {% bibliography %}
 
 </div>
+
+<!-- Cite button: toggle the IEEE citation popup + copy to clipboard (local feature, see _layouts/bib.liquid) -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    function resolveScope(link) {
+      var linksContainer = link.closest(".links");
+      if (linksContainer && linksContainer.parentElement) {
+        return linksContainer.parentElement;
+      }
+      return link.closest("li, .row") || link.parentElement;
+    }
+
+    // Toggle the hidden citation panel for each "Cite" button.
+    document.querySelectorAll("a.cite").forEach(function (link) {
+      link.addEventListener("click", function (event) {
+        event.preventDefault();
+        var scope = resolveScope(link);
+        if (!scope) return;
+        var panel = scope.querySelector(".cite.hidden");
+        if (panel) panel.classList.toggle("open");
+      });
+    });
+
+    function fallbackCopy(text, done) {
+      var ta = document.createElement("textarea");
+      ta.value = text;
+      ta.setAttribute("readonly", "");
+      ta.style.position = "absolute";
+      ta.style.left = "-9999px";
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand("copy");
+        done();
+      } catch (e) {
+        /* ignore */
+      }
+      document.body.removeChild(ta);
+    }
+
+    // Copy the plain-text citation to the clipboard.
+    document.querySelectorAll(".cite-copy").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var panel = btn.closest(".cite.hidden");
+        var textEl = panel ? panel.querySelector(".cite-text") : null;
+        if (!textEl) return;
+        var text = textEl.textContent.replace(/\s+/g, " ").trim();
+        var done = function () {
+          var original = btn.innerHTML;
+          btn.innerHTML = '<i class="fa-solid fa-clipboard-check"></i> Copied';
+          setTimeout(function () {
+            btn.innerHTML = original;
+          }, 2000);
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(done).catch(function () {
+            fallbackCopy(text, done);
+          });
+        } else {
+          fallbackCopy(text, done);
+        }
+      });
+    });
+  });
+</script>

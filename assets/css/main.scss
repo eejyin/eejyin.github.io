@@ -397,3 +397,27 @@
 .paperblog-table table {
   overflow-wrap: break-word;
 }
+
+/* -----------------------------------------------------------------------------
+ * "Cite" button + IEEE plain-text citation popup on the Publications page.
+ * The button sits in the links row (just left of "Bib"); clicking it toggles the
+ * `.cite.hidden` panel. The generic `.publications ol.bibliography li .hidden`
+ * rule (gem-owned) already handles the collapse/expand animation, so the rules
+ * below only add the panel border, spacing, and copy-button styling. Uses the
+ * class `cite` (not `citation`, which the theme already colors). Toggle/copy JS
+ * lives in `_pages/publications.md`.
+ * -------------------------------------------------------------------------- */
+.publications ol.bibliography li div.cite.hidden {
+  border: dashed 1px var(--global-bg-color);
+}
+.publications ol.bibliography li div.cite.hidden.open {
+  border-color: var(--global-text-color);
+}
+.publications ol.bibliography li .cite-text {
+  margin: 10px;
+  line-height: 1.5em;
+  text-align: left;
+}
+.publications ol.bibliography li .cite-copy {
+  margin: 0 10px 10px;
+}

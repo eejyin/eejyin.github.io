@@ -2,10 +2,15 @@
 ---
 {% comment %}
   LOCAL OVERRIDE of al_folio_core 1.0.11 `_layouts/bib.liquid`.
-  Only change vs. upstream: a "My blog related to this paper" button in the
-  links row (see the `entry.url` block just after the PDF button). It is driven
-  by an OPTIONAL bibtex `url` field, e.g. url = {./paperblog/2019ACCESS.md},
-  which links to the paperblog page at /publications/paperblog/<KEY>/.
+  Changes vs. upstream:
+    1. A "My blog related to this paper" button in the links row (see the
+       `entry.url` block just after the PDF button). It is driven by an OPTIONAL
+       bibtex `url` field, e.g. url = {./paperblog/2019ACCESS.md}, which links to
+       the paperblog page at /publications/paperblog/<KEY>/.
+    2. A "Cite" button (in the links row, just before "Bib") that toggles a
+       hidden IEEE-style plain-text citation with a one-click copy button. The
+       citation is built from the bibtex fields; the toggle/copy JS lives in
+       `_pages/publications.md` and the styling in `assets/css/main.scss`.
   Re-sync this file with the gem when al_folio_core is bumped.
 {% endcomment %}
 <div class="row">
@@ -214,6 +219,8 @@
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
       {% endif %}
+      <!-- Cite: toggles the hidden IEEE plain-text citation block below (LOCAL ADDITION) -->
+      <a class="cite btn btn-sm z-depth-0" role="button">Cite</a>
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
@@ -405,6 +412,77 @@
         {% endhighlight %}
       </div>
     {% endif %}
+
+    {%- comment -%}
+      Hidden IEEE-style plain-text citation block (LOCAL ADDITION). Rendered for
+      every entry and toggled by the "Cite" button in the links row above. The
+      copy button (JS in _pages/publications.md) copies `.cite-text` as plain text.
+    {%- endcomment -%}
+    {%- assign cite_author_list = '' -%}
+    {%- for author in entry.author_array -%}
+      {%- if author.last == 'others' -%}
+        {%- assign cite_fa = 'et al.' -%}
+      {%- else -%}
+        {%- assign cite_initials = '' -%}
+        {%- assign cite_first_tokens = author.first | split: ' ' -%}
+        {%- for tok in cite_first_tokens -%}
+          {%- assign tok_ini = tok | slice: 0 -%}
+          {%- assign cite_initials = cite_initials | append: tok_ini | append: '. ' -%}
+        {%- endfor -%}
+        {%- assign cite_fa = cite_initials | append: author.last -%}
+      {%- endif -%}
+      {%- if cite_author_list == '' -%}
+        {%- assign cite_author_list = cite_fa -%}
+      {%- else -%}
+        {%- assign cite_author_list = cite_author_list | append: '|||' | append: cite_fa -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign cite_fa_arr = cite_author_list | split: '|||' -%}
+    {%- assign cite_authors = '' -%}
+    {%- for fa in cite_fa_arr -%}
+      {%- if forloop.first -%}
+        {%- assign cite_authors = fa -%}
+      {%- elsif forloop.last -%}
+        {%- if fa == 'et al.' -%}
+          {%- assign cite_authors = cite_authors | append: ', ' | append: fa -%}
+        {%- else -%}
+          {%- assign cite_authors = cite_authors | append: ' and ' | append: fa -%}
+        {%- endif -%}
+      {%- else -%}
+        {%- assign cite_authors = cite_authors | append: ', ' | append: fa -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign cite_month = '' -%}
+    {%- if entry.month -%}
+      {%- assign cite_m3 = entry.month | downcase | slice: 0, 3 -%}
+      {%- case cite_m3 -%}
+        {%- when 'jan' -%}{%- assign cite_month = 'January' -%}
+        {%- when 'feb' -%}{%- assign cite_month = 'February' -%}
+        {%- when 'mar' -%}{%- assign cite_month = 'March' -%}
+        {%- when 'apr' -%}{%- assign cite_month = 'April' -%}
+        {%- when 'may' -%}{%- assign cite_month = 'May' -%}
+        {%- when 'jun' -%}{%- assign cite_month = 'June' -%}
+        {%- when 'jul' -%}{%- assign cite_month = 'July' -%}
+        {%- when 'aug' -%}{%- assign cite_month = 'August' -%}
+        {%- when 'sep' -%}{%- assign cite_month = 'September' -%}
+        {%- when 'oct' -%}{%- assign cite_month = 'October' -%}
+        {%- when 'nov' -%}{%- assign cite_month = 'November' -%}
+        {%- when 'dec' -%}{%- assign cite_month = 'December' -%}
+        {%- else -%}{%- assign cite_month = entry.month | capitalize -%}
+      {%- endcase -%}
+    {%- endif -%}
+    {%- assign cite_pages = entry.pages | replace: '--', '-' -%}
+    {%- assign cite_date = '' -%}
+    {%- if cite_month != '' -%}
+      {%- assign cite_date = cite_month | append: ' ' | append: entry.year -%}
+    {%- elsif entry.year -%}
+      {%- assign cite_date = entry.year -%}
+    {%- endif -%}
+    <!-- Hidden IEEE citation block -->
+    <div class="cite hidden">
+      <div class="cite-text">{{ cite_authors }}, "{{ entry.title }},"{% if entry.type == 'article' %} <em>{{ entry.journal }}</em>{% elsif entry.type == 'inproceedings' or entry.type == 'incollection' %} in <em>{{ entry.booktitle }}</em>{% elsif entry.journal %} <em>{{ entry.journal }}</em>{% elsif entry.booktitle %} in <em>{{ entry.booktitle }}</em>{% elsif entry.school %} <em>{{ entry.school }}</em>{% elsif entry.howpublished %} {{ entry.howpublished }}{% endif %}{% if entry.address %}, {{ entry.address }}{% endif %}{% if entry.volume %}, vol. {{ entry.volume }}{% endif %}{% if entry.number %}, no. {{ entry.number }}{% endif %}{% if entry.pages %}, pp. {{ cite_pages }}{% endif %}{% if cite_date != '' %}, {{ cite_date }}{% endif %}{% if entry.doi %}, doi: {{ entry.doi }}{% endif %}.</div>
+      <button class="cite-copy btn btn-sm z-depth-0" type="button" aria-label="Copy citation to clipboard"><i class="fa-solid fa-clipboard"></i> Copy</button>
+    </div>
 
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->
