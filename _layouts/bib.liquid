@@ -11,6 +11,10 @@
        hidden IEEE-style plain-text citation with a one-click copy button. The
        citation is built from the bibtex fields; the toggle/copy JS lives in
        `_pages/publications.md` and the styling in `assets/css/main.scss`.
+    3. The upstream "DOI" button is REMOVED from the links row. The DOI is
+       instead appended to the end of the IEEE plain-text citation (the "Cite"
+       popup) and shown in the "Bib" popup via each entry's `doi` field, so
+       every paper surfaces its DOI without a standalone button.
   Re-sync this file with the gem when al_folio_core is bumped.
 {% endcomment %}
 <div class="row">
@@ -209,9 +213,6 @@
       {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-      {% endif %}
-      {% if entry.doi %}
-        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
