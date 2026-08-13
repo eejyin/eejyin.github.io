@@ -157,6 +157,18 @@ toc:
 <h2 id="internship">Internship</h2>
 
 <div class="exp-item">
+  <div class="exp-head"><strong><a href="https://www.epri.com/" target="_blank" rel="noopener">Electric Power Research Institute (EPRI)</a></strong></div>
+  <div class="exp-meta">
+    <span><i class="fa-solid fa-user"></i> Research Intern</span>
+    <span><i class="fa-solid fa-clock"></i> Aug. 2026 &ndash; Present</span>
+    <span><i class="fa-solid fa-location-dot"></i> Knoxville, TN, United States</span>
+  </div>
+  <ul>
+    <li>Fall research intern working on AI/ML for power-system analysis, power flow, and state estimation.</li>
+  </ul>
+</div>
+
+<div class="exp-item">
   <div class="exp-head"><strong><a href="https://www.microsoft.com/" target="_blank" rel="noopener">Microsoft</a></strong></div>
   <div class="exp-meta">
     <span><i class="fa-solid fa-user"></i> Research Intern</span>

@@ -63,6 +63,13 @@ cv:
           - Implemented contingency and dynamic disturbance scenarios for operational reliability studies.
           - Supported hardware-in-the-loop (HIL) demonstrations of inverter-based resources and frequency-stability performance.
 
+      - company: '<a href="https://www.epri.com/">Electric Power Research Institute (EPRI)</a>'
+        position: Research Intern — AI/ML for Power System Analysis, Power Flow, and State Estimation
+        location: Knoxville, TN, USA
+        start_date: 2026-08
+        highlights:
+          - Fall research intern working on AI/ML for power-system analysis, power flow, and state estimation.
+
       - company: '<a href="https://www.microsoft.com/en-us">Microsoft</a>'
         position: Research Intern — AI/ML for Electricity-Infrastructure Planning
         location: Redmond, WA, USA
