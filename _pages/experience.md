@@ -91,7 +91,7 @@ toc:
     <li>Reviewed 3 manuscripts submitted to IEEE Transactions on Smart Grid.</li>
     <li>Reviewed 1 manuscript submitted to IEEE Transactions on Industry Applications.</li>
     <li>Reviewed 2 manuscripts submitted to IEEE Open Access Journal of Power and Energy.</li>
-    <li>Reviewed 65 manuscripts submitted to IEEE Access (IEEE Access Exceptional Reviewer 2025).</li>
+    <li>Reviewed 65 manuscripts submitted to IEEE Access (IEEE Access Exceptional Reviewer 2025 &mdash; <a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">official website</a>, <a href="https://ieeeaccess.ieee.org/wp-content/uploads/2026/06/IEEE-Access-Exceptional-Reviewers-2025_Final.pdf" target="_blank" rel="noopener">2025 list PDF</a>).</li>
     <li>Reviewer for IEEE Data Description, Springer Discover Artificial Intelligence, and Springer Scientific Reports.</li>
     <li>Reviewer for IEEE Power &amp; Energy Society General Meeting (PESGM 2026) and IEEE SmartGridComm 2026.</li>
     <li>Assisted my advisor in reviewing several journals.</li>
@@ -189,7 +189,6 @@ toc:
   <ul>
     <li>Promoted public awareness of the <a href="https://journal.hep.com.cn/hep/EN/hep/home.shtml" target="_blank" rel="noopener"><em>Frontiers Journals</em></a>, an English academic journal series launched by Higher Education Press (HEP), through posters, online forums, and meetings with scholars.</li>
   </ul>
-  <img class="exp-img" src="/assets/img/experience/Frontier.png" alt="Frontiers Journals promotion" loading="lazy">
 </div>
 
 <div class="exp-item">
@@ -216,7 +215,6 @@ toc:
     <li>Completed electrical-safety training and field-safety assessments, gaining hands-on awareness of operational safety standards and compliance procedures.</li>
     <li>Facilitated communication between university representatives and utility personnel to support technical exchange and collaboration.</li>
   </ul>
-  <img class="exp-img" src="/assets/img/experience/Huizhou.jpg" alt="Huizhou Electric Power internship" loading="lazy">
 </div>
 
 <h2 id="leadership">Leadership</h2>
@@ -289,7 +287,7 @@ toc:
     <tr>
       <td>May 2026</td>
       <td>IEEE Access Exceptional Reviewer</td>
-      <td><a href="https://ieeeaccess.ieee.org/" target="_blank" rel="noopener">IEEE Access</a></td>
+      <td><a href="https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/" target="_blank" rel="noopener">official website</a>, <a href="https://ieeeaccess.ieee.org/wp-content/uploads/2026/06/IEEE-Access-Exceptional-Reviewers-2025_Final.pdf" target="_blank" rel="noopener">2025 list PDF</a></td>
     </tr>
     <tr>
       <td>Jul. 2025</td>
