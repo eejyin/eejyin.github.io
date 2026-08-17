@@ -50,7 +50,7 @@ Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/jun
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering.
 
-I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across ISO, utility, consulting, hyperscalers, national labs, and academic faculty. If my background fits your team or project, please feel free to [reach out](mailto:yin@utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
+I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across ISO, utility, consulting, hyperscalers, national labs, and academic faculty. If my background fits your team or project, please feel free to [reach out](https://eejyin.github.io/#contact-me) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
 
 <div id="toc_container">
   <a class="toc_title" style="font-size: 20px; color: rgb(1,92,171)" id="toc">On This Page</a>
