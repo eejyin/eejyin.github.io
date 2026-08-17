@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <strong>AI for Power Systems</strong> &middot; PhD Researcher at <a href='https://curent.utk.edu/'>UTK / CURENT</a> &middot; 2026 Fall Research Intern @ <a href='https://www.epri.com/'>EPRI</a>
+subtitle: <strong>AI for Power Systems</strong> &middot; PhD Candidate at <a href='https://curent.utk.edu/'>UTK / CURENT</a> &middot; 2026 Fall Research Intern @ <a href='https://www.epri.com/'>EPRI</a>
 
 # No `profile:` block: the homepage renders a custom hero (photo + contact sidebar)
 # directly in the page body (see `.home-hero-aside` below and in assets/css/main.scss).
@@ -46,7 +46,7 @@ latest_posts:
   </div>
 </aside>
 
-Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/junjieyin)), a PhD researcher in Electrical Engineering at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), where I have studied since August 2023 under [Prof. Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/). I am a Graduate Research Assistant at the [CURENT](https://curent.utk.edu/) engineering research center and a maintainer of the [Enliten lab website](https://enliten.utk.edu/).
+Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/junjieyin)), a PhD candidate in Electrical Engineering at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), where I have studied since August 2023 under [Prof. Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/). I am a Graduate Research Assistant at the [CURENT](https://curent.utk.edu/) engineering research center and a maintainer of the [Enliten lab website](https://enliten.utk.edu/).
 
 My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I was a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning. Since Fall 2026, I am a Research Intern at [EPRI](https://www.epri.com/) (Knoxville, TN), working on AI/ML for power-system analysis, power flow, and state estimation.
 
@@ -82,6 +82,8 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="selected-publications"><a href="/publications/" style="color: inherit">Selected Publications</a></h2>
 
 {% include selected_papers.liquid %}
+
+[See all publications &rarr;](https://eejyin.github.io/publications/)
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="skills">Skills &amp; Tools</h2>
 
