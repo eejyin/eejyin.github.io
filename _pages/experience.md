@@ -320,8 +320,8 @@ toc:
       <td>Southeast University, Nanjing</td>
     </tr>
     <tr>
-      <td>Jun. 2020</td>
-      <td>&ldquo;Excellent Graduate of Beijing&rdquo; Honorary Title (Top 5%)</td>
+      <td>Jul. 2020</td>
+      <td>&ldquo;Outstanding Graduating Student of Beijing&rdquo; Honorary Title (Top 5%)</td>
       <td><a href="http://jw.beijing.gov.cn/" target="_blank" rel="noopener">Beijing Municipal Education Commission</a>, Beijing</td>
     </tr>
     <tr>
@@ -341,7 +341,7 @@ toc:
     </tr>
     <tr>
       <td>Sept. 2019</td>
-      <td>Student of Merit of NCEPU</td>
+      <td>Outstanding Student Award of NCEPU</td>
       <td>North China Electric Power University, Beijing</td>
     </tr>
     <tr>
