@@ -331,6 +331,31 @@
  * gem defaults. Loaded from main.css, which the CV page pulls in before
  * al-folio-cv.css; the selectors below are specific enough to win regardless.
  * -------------------------------------------------------------------------- */
+.container[role="main"] > .row:has(.cv-pdf-page) > .col-sm-3 {
+  display: none;
+}
+.container[role="main"] > .row:has(.cv-pdf-page) > .col-sm-9 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.cv-pdf-viewer {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 78vh;
+  min-height: 36rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 4px;
+  background: var(--global-card-bg-color);
+}
+
+@media (max-width: 575.98px) {
+  .cv-pdf-viewer {
+    height: 75vh;
+    min-height: 30rem;
+  }
+}
+
 .cv {
   /* Remove the location pin icon in the date column (experience + education),
      leaving just the address text under the date badge. */

@@ -1,0 +1,49 @@
+---
+layout: default
+---
+{% comment %}
+  LOCAL OVERRIDE of al_folio_core 1.0.11 `_layouts/cv.liquid`.
+  Adds the page.showing switch: `page` keeps the plugin-rendered CV, while
+  `pdf` embeds page.cv_pdf in the browser's native PDF viewer.
+  Re-sync this file whenever the al_folio_core pin in the Gemfile is bumped.
+{% endcomment %}
+{% assign cv_feature_enabled = site.al_folio.features.cv.enabled | default: true %}
+
+{% if page.showing == 'pdf' and page.cv_pdf %}
+  {% assign cv_pdf_url = page.cv_pdf %}
+  {% unless page.cv_pdf contains '://' %}
+    {% assign cv_pdf_url = page.cv_pdf | relative_url %}
+  {% endunless %}
+
+  <div class="post cv-pdf-page">
+    <header class="post-header">
+      <h1 class="post-title">
+        {{ page.title }}
+        <a href="{{ cv_pdf_url }}" download class="float-right" aria-label="Download {{ page.title | escape }} PDF" title="Download PDF">
+          <i class="fa-solid fa-download" aria-hidden="true"></i>
+        </a>
+      </h1>
+      {% if page.description %}
+        <p class="post-description">{{ page.description }}</p>
+      {% endif %}
+    </header>
+
+    <article>
+      <iframe class="cv-pdf-viewer" src="{{ cv_pdf_url }}" title="{{ page.title | escape }} PDF" loading="eager">
+        <a href="{{ cv_pdf_url }}">Download {{ page.title }} PDF</a>
+      </iframe>
+    </article>
+  </div>
+{% elsif site.plugins contains 'al_folio_cv' and cv_feature_enabled %}
+  {% al_folio_cv_render %}
+{% else %}
+  <div class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-description">CV rendering is unavailable.</p>
+    </header>
+    <article>
+      <p>Enable the <code>al_folio_cv</code> plugin and set <code>al_folio.features.cv.enabled: true</code> to render this page.</p>
+    </article>
+  </div>
+{% endif %}
