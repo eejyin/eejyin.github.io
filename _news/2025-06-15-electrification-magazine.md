@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Publication]** Our paper *"Pathway Toward an Open Source Ecosystem in Power Systems: A Blueprint for Collaborative Innovation and Software Sustainability"* was published in *IEEE Electrification Magazine*. See the [publications page](/publications/).
+**[Publication]** Our paper *"[Pathway Toward an Open Source Ecosystem in Power Systems: A Blueprint for Collaborative Innovation and Software Sustainability](https://ieeexplore.ieee.org/abstract/document/11023239/)"* was published in *IEEE Electrification Magazine*.

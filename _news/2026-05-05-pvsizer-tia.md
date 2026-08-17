@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Publication]** Our paper *"PVSizer: An Open-Source Python Framework for PV and BESS Sizing and Impact Analysis in Distribution Networks"* was accepted by *IEEE Transactions on Industry Applications*. See the [publications page](/publications/).
+**[Publication]** Our paper *"[PVSizer: An Open-Source Python Framework for PV and BESS Sizing and Impact Analysis in Distribution Networks](https://ieeexplore.ieee.org/abstract/document/11503109)"* was accepted by *IEEE Transactions on Industry Applications*.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Award]** I received the NR Electric Co., Ltd. Graduate Scholarship and the Southeast University Graduate Scholarship.
+**[Award]** I received the [NR Electric Co., Ltd.](http://narigroup.com/) Graduate Scholarship and the Southeast University Graduate Scholarship.

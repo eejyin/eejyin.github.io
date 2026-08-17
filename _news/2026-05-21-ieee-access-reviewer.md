@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Honor]** I was named an *IEEE Access Exceptional Reviewer* ([official website](https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/), [2025 list PDF](https://ieeeaccess.ieee.org/wp-content/uploads/2026/06/IEEE-Access-Exceptional-Reviewers-2025_Final.pdf)).
+**[Honor]** I was named an [*IEEE Access Exceptional Reviewer*](https://ieeeaccess.ieee.org/ieee-access-exceptional-reviewers/) ([2025 list PDF](https://ieeeaccess.ieee.org/wp-content/uploads/2026/06/IEEE-Access-Exceptional-Reviewers-2025_Final.pdf)). <img src="/assets/img/logo-ieee-access.png" alt="IEEE Access" style="height: 0.84em; vertical-align: middle; margin-left: 0.3em; border-radius: 3px;">

@@ -46,9 +46,9 @@ latest_posts:
   </div>
 </aside>
 
-Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/junjieyin)), a PhD candidate in Electrical Engineering at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), where I have studied since August 2023 under [Prof. Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/). I am a Graduate Research Assistant at the [CURENT](https://curent.utk.edu/) engineering research center and a maintainer of the [Enliten lab website](https://enliten.utk.edu/).
+Hi! I'm **Junjie Yin (尹俊杰)** ([how to say my name](https://namedrop.io/junjieyin)), a PhD candidate in Electrical Engineering at the [University of Tennessee, Knoxville (UTK)](https://www.utk.edu/), where I have studied since August 2023 under [Prof. Fangxing "Fran" Li](http://web.eecs.utk.edu/~fli6/).
 
-My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering. In summer 2026 I was a Research Intern at [Microsoft](https://www.microsoft.com/) (Redmond, WA), working on AI/ML for electricity-infrastructure planning. Since Fall 2026, I am a Research Intern at [EPRI](https://www.epri.com/) (Knoxville, TN), working on AI/ML for power-system analysis, power flow, and state estimation.
+My work sits at the intersection of **artificial intelligence** and **electric power systems** — developing data-driven and large-language-model methods for grid resilience, stability, and operations, grounded in hands-on power-system engineering.
 
 I am **open to 2026–2027 opportunities** in AI-for-power-systems research and power-system engineering across ISO, utility, consulting, hyperscalers, national labs, and academic faculty. If my background fits your team or project, please feel free to [reach out](mailto:yin@utk.edu) — you can also browse my [publications](/publications/), [projects](/projects/), and [CV](/Resume/).
 
@@ -60,6 +60,7 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
     <li><a href="#selected-publications">Selected Publications</a></li>
     <li><a href="#skills">Skills &amp; Tools</a></li>
     <li><a href="#education">Education</a></li>
+    <li><a href="#experience">Experience</a></li>
     <li><a href="#contact-me">Contact</a></li>
   </ul>
 </div>
@@ -147,6 +148,37 @@ I am **open to 2026–2027 opportunities** in AI-for-power-systems research and 
   </tr>
 </table>
 </div>
+
+<h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="experience"><a href="/experience/" style="color: inherit">Experience</a></h2>
+
+<div class="edu-table-wrap">
+<table class="edu-table">
+  <tr>
+    <td><img src="/assets/img/logo-epri.png" alt="Electric Power Research Institute (EPRI)" /></td>
+    <td>
+      <h4 id="epri"><a href="https://www.epri.com/" target="_blank" rel="noopener noreferrer">Electric Power Research Institute (EPRI)</a></h4>
+      <p>
+        <i class="fa-solid fa-location-dot"></i> Knoxville, TN &nbsp;&nbsp; <i class="fa-solid fa-clock"></i> Aug. 2026 - Present<br>
+        <strong>Research Intern</strong><br>
+        AI/ML for power-system analysis, power flow, and state estimation
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/logo-microsoft.svg" alt="Microsoft" /></td>
+    <td>
+      <h4 id="microsoft"><a href="https://www.microsoft.com/" target="_blank" rel="noopener noreferrer">Microsoft</a></h4>
+      <p>
+        <i class="fa-solid fa-location-dot"></i> Redmond, WA &nbsp;&nbsp; <i class="fa-solid fa-clock"></i> Jun. 2026 - Aug. 2026<br>
+        <strong>Research Intern</strong><br>
+        AI/ML for electricity-infrastructure planning
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+[See all experiences &rarr;](https://eejyin.github.io/experience/)
 
 <h2 class="h1 section-heading" style="color: rgb(1,92,171)" id="contact-me">Contact</h2>
 
