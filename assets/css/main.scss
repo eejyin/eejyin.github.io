@@ -356,6 +356,12 @@
   }
 }
 
+/* Overleaf template link in the résumé page description: theme green + bold. */
+.post-description a.overleaf-link {
+  font-weight: 700;
+  color: var(--global-theme-color);
+}
+
 .cv {
   /* Remove the location pin icon in the date column (experience + education),
      leaving just the address text under the date badge. */

@@ -23,7 +23,9 @@ layout: default
           <i class="fa-solid fa-download" aria-hidden="true"></i>
         </a>
       </h1>
-      {% if page.description %}
+      {% if page.description_html %}
+        <p class="post-description">{{ page.description_html }}</p>
+      {% elsif page.description %}
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
     </header>
