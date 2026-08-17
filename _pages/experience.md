@@ -325,6 +325,11 @@ toc:
       <td><a href="http://jw.beijing.gov.cn/" target="_blank" rel="noopener">Beijing Municipal Education Commission</a>, Beijing</td>
     </tr>
     <tr>
+      <td>Jun. 2020</td>
+      <td>&ldquo;Honorary Reader&rdquo; Title (selected as one of 20 undergraduate students in the Class of 2020)</td>
+      <td>North China Electric Power University Library, Beijing</td>
+    </tr>
+    <tr>
       <td>Nov. 2019</td>
       <td>First Prize of Beijing, <a href="http://www.mcm.edu.cn/" target="_blank" rel="noopener">Contemporary Undergraduate Mathematical Contest in Modeling</a></td>
       <td><a href="http://jw.beijing.gov.cn/" target="_blank" rel="noopener">Beijing Municipal Education Commission</a>, Beijing</td>
